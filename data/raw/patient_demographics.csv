@@ -1,0 +1,1001 @@
+patient_id,first_name,last_name,date_of_birth,gender,race,ethnicity,zip,insurance_type,primary_language,smoking_status,alcohol_use,bmi,employment_status
+1,Maxim,Baynon,4/11/2005,Male,Black or African American,Not Hispanic or Latino,48084,Medicare,Spanish,Never,Moderate,1,Employed
+2,Aline,Ingledow,5/22/2006,Female,Black or African American,Hispanic or Latino,48084,Medicaid,Spanish,Former,Moderate,2,Employed
+3,Rayshell,Garvill,8/10/2018,Female,American Indian,Not Hispanic or Latino,48009,Commercial,Tagalog,Never,None,3,Retired
+4,Dredi,Willgoose,1/1/1948,Male,White,Not Hispanic or Latino,48084,Medicare,English,Never,Moderate,4,Employed
+5,Lyndsey,Blofield,3/6/2000,Male,Other,Not Hispanic or Latino,48098,Medicare,English,Current,Moderate,5,Retired
+6,Ruy,Vowdon,3/27/1974,Female,Asian,Not Hispanic or Latino,48067,Medicare,English,Never,Moderate,6,Disabled
+7,Imogene,Chesterfield,6/1/2004,Male,White,Not Hispanic or Latino,48085,Medicare,English,Current,Moderate,7,Disabled
+8,Miran,Tolworth,10/15/1996,Male,White,Not Hispanic or Latino,48098,Commercial,English,Never,None,8,Retired
+9,Tori,Cush,11/12/1999,Female,White,Not Hispanic or Latino,48084,Commercial,English,Former,None,9,Employed
+10,Felita,Robe,1/6/1964,Male,White,Not Hispanic or Latino,48009,Uninsured,English,Never,Heavy,10,Unemployed
+11,Prisca,Di Boldi,2/19/1999,Female,White,Not Hispanic or Latino,48083,Uninsured,Spanish,Former,None,11,Employed
+12,Travers,Burrow,2/1/2010,Male,American Indian,Not Hispanic or Latino,48009,Commercial,English,Current,Moderate,12,Retired
+13,Junie,Filkin,2/20/1961,Male,White,Hispanic or Latino,48326,Commercial,English,Former,None,13,Employed
+14,Brandie,Clitsome,9/13/1970,Male,Black or African American,Not Hispanic or Latino,48326,Medicare,English,Never,None,14,Retired
+15,Melba,Butler,8/10/1936,Non-Binary,Other,Not Hispanic or Latino,48076,Medicaid,Spanish,Never,Moderate,15,Employed
+16,Pippo,Cainey,7/21/2007,Female,White,Not Hispanic or Latino,48098,Commercial,English,Never,Moderate,16,Employed
+17,Jenny,Sauvain,5/21/2016,Male,American Indian,Not Hispanic or Latino,48085,Commercial,English,Current,None,17,Retired
+18,Erskine,Instrell,3/26/1994,Female,Black or African American,Not Hispanic or Latino,48098,Medicaid,Other,Never,None,18,Retired
+19,Richy,Raddan,8/8/1993,Non-Binary,White,Not Hispanic or Latino,48085,Commercial,Other,Former,Moderate,19,Disabled
+20,Salvador,Restill,5/2/1946,Female,Asian,Not Hispanic or Latino,48034,Medicare,English,Former,None,20,Disabled
+21,Engelbert,Rheubottom,7/17/2005,Male,White,Not Hispanic or Latino,48084,Commercial,Tagalog,Former,Moderate,21,Employed
+22,Laverna,Charlin,1/7/1950,Female,White,Hispanic or Latino,48085,Medicare,Tagalog,Never,Moderate,22,Employed
+23,Ragnar,Nyssens,8/23/1970,Female,American Indian,Not Hispanic or Latino,48009,Commercial,Spanish,Never,Moderate,23,Unemployed
+24,Philippa,Whitland,6/28/1941,Male,White,Not Hispanic or Latino,48326,Medicare,Other,Never,None,24,Employed
+25,Arabelle,Bardwall,1/16/1967,Male,Black or African American,Not Hispanic or Latino,48085,Medicaid,English,Current,Moderate,25,Retired
+26,Spence,Tipling,1/29/2002,Female,White,Not Hispanic or Latino,48301,Commercial,Mandarin,Current,Moderate,26,Retired
+27,Nickey,Abels,4/1/1962,Female,American Indian,Hispanic or Latino,48076,Uninsured,English,Never,Heavy,27,Unemployed
+28,Bobbee,Impey,1/31/1967,Male,Asian,Not Hispanic or Latino,48034,Commercial,English,Former,Heavy,28,Employed
+29,Sheila,Markson,1/6/1946,Male,Other,Not Hispanic or Latino,48083,Medicare,Spanish,Former,None,29,Employed
+30,Sonnie,Koppke,8/13/1970,Male,White,Not Hispanic or Latino,48083,Commercial,English,Former,None,30,Retired
+31,Diarmid,Cooksey,9/22/1987,Female,White,Not Hispanic or Latino,48009,Commercial,English,Current,Moderate,31,Employed
+32,Danit,Boothman,7/13/2022,Female,American Indian,Not Hispanic or Latino,48034,Dual-Eligible,English,Never,None,32,Retired
+33,Binnie,Verring,4/12/1980,Female,White,Not Hispanic or Latino,48009,Medicare,English,Never,Moderate,33,Employed
+34,Julina,Torrent,3/20/2025,Male,White,Not Hispanic or Latino,48067,Medicare,English,Never,Moderate,34,Employed
+35,Araldo,Andreaccio,7/15/1941,Female,White,Not Hispanic or Latino,48326,Commercial,Hindi,Never,None,35,Employed
+36,Franchot,Blackborn,4/28/1980,Male,White,Not Hispanic or Latino,48067,Medicare,Spanish,Never,None,36,Employed
+37,Skye,Owbridge,9/7/1993,Male,Black or African American,Not Hispanic or Latino,48084,Medicare,Other,Former,Moderate,37,Retired
+38,Merilee,Laurenzi,1/5/1967,Female,White,Not Hispanic or Latino,48301,Medicare,English,Former,Moderate,38,Unemployed
+39,Michelina,Matyushonok,9/9/2024,Male,Other,Not Hispanic or Latino,48084,Uninsured,English,Never,Moderate,39,Unemployed
+40,Nahum,Cullity,5/19/1996,Male,Asian,Not Hispanic or Latino,48076,Commercial,English,Current,Moderate,40,Disabled
+41,Marchall,Boadby,9/8/1936,Female,White,Not Hispanic or Latino,48301,Dual-Eligible,Mandarin,Former,Moderate,41,Retired
+42,Lorette,Fellis,6/17/2007,Male,Asian,Not Hispanic or Latino,48301,Commercial,English,Never,Moderate,42,Retired
+43,Ingelbert,Budgett,12/26/2024,Male,White,Hispanic or Latino,48067,Commercial,English,Never,Moderate,43,Employed
+44,Jeremy,Easman,3/20/1989,Non-Binary,Other,Not Hispanic or Latino,48009,Medicare,Tagalog,Never,None,44,Retired
+45,Sissie,Tchaikovsky,1/11/1970,Male,White,Not Hispanic or Latino,48076,Medicaid,Hindi,Never,None,45,Unemployed
+46,Brina,Guillotin,4/1/1953,Female,White,Not Hispanic or Latino,48085,Dual-Eligible,English,Never,None,46,Disabled
+47,Gawen,Taggert,7/18/1939,Female,White,Not Hispanic or Latino,48301,Medicare,English,Former,Moderate,47,Retired
+48,Shurlocke,Hassey,3/19/1980,Male,American Indian,Not Hispanic or Latino,48067,Medicaid,English,Current,Moderate,48,Employed
+49,Jennifer,Cleworth,9/29/1930,Female,Asian,Not Hispanic or Latino,48085,Dual-Eligible,English,Current,Moderate,49,Retired
+50,Berna,Mounter,12/30/1999,Female,Black or African American,Not Hispanic or Latino,48301,Medicare,Hindi,Former,Moderate,50,Employed
+51,Antonius,Skechley,4/17/2004,Female,White,Not Hispanic or Latino,48301,Commercial,Tagalog,Never,None,51,Retired
+52,Ozzie,Yarranton,9/1/2014,Female,Asian,Not Hispanic or Latino,48085,Commercial,Other,Former,None,52,Disabled
+53,Eben,Gravell,9/12/1932,Female,American Indian,Not Hispanic or Latino,48083,Commercial,English,Never,Moderate,53,Disabled
+54,Joseito,Eddie,2/8/1940,Male,American Indian,Not Hispanic or Latino,48034,Medicare,English,Never,Moderate,54,Retired
+55,Guido,Swaby,8/15/1995,Female,White,Not Hispanic or Latino,48034,Dual-Eligible,Hindi,Never,None,55,Unemployed
+56,Demetre,Quartley,6/4/1957,Non-Binary,Asian,Hispanic or Latino,48098,Medicaid,Other,Former,Moderate,56,Unemployed
+57,Yulma,Tilson,12/22/1993,Female,White,Hispanic or Latino,48067,Dual-Eligible,Tagalog,Former,Moderate,57,Unemployed
+58,Alfi,Dillamore,4/26/1945,Male,Black or African American,Not Hispanic or Latino,48034,Uninsured,Spanish,Never,Moderate,58,Unemployed
+59,Ly,Engeham,10/23/1996,Male,American Indian,Not Hispanic or Latino,48067,Commercial,English,Current,Moderate,59,Retired
+60,Sean,Stoll,4/20/1959,Non-Binary,Asian,Not Hispanic or Latino,48098,Uninsured,English,Former,Moderate,60,Employed
+61,Zack,Bustard,6/12/1977,Female,Black or African American,Not Hispanic or Latino,48009,Medicare,English,Never,Moderate,61,Retired
+62,Sadye,Guiraud,11/21/1942,Male,American Indian,Hispanic or Latino,48301,Commercial,English,Former,Heavy,62,Employed
+63,Brigit,Kachel,12/22/1960,Female,American Indian,Not Hispanic or Latino,48301,Commercial,English,Never,Moderate,63,Unemployed
+64,Selig,Launder,3/27/1983,Male,White,Not Hispanic or Latino,48067,Commercial,English,Current,Moderate,64,Employed
+65,Stanleigh,Adamo,12/10/2024,Female,White,Not Hispanic or Latino,48084,Medicare,Tagalog,Current,Moderate,65,Disabled
+66,Cherish,Sciacovelli,1/5/1982,Female,White,Not Hispanic or Latino,48084,Medicare,English,Current,None,66,Employed
+67,Llywellyn,Di Nisco,11/5/1986,Non-Binary,American Indian,Not Hispanic or Latino,48085,Commercial,English,Former,None,67,Unemployed
+68,Livvie,Rannald,9/11/2005,Male,Black or African American,Not Hispanic or Latino,48085,Medicaid,Hindi,Former,Moderate,68,Employed
+69,Kellby,Bearn,9/12/1948,Female,White,Not Hispanic or Latino,48098,Commercial,Spanish,Never,Moderate,69,Employed
+70,Reeta,Warnes,3/17/1973,Female,American Indian,Not Hispanic or Latino,48301,Medicaid,Other,Never,None,70,Employed
+71,Loni,Edinborough,8/14/1955,Female,Black or African American,Not Hispanic or Latino,48009,Medicaid,Hindi,Former,None,71,Retired
+72,Helyn,Caghan,11/21/1951,Male,White,Not Hispanic or Latino,48085,Dual-Eligible,English,Former,None,72,Employed
+73,Elonore,Kleinzweig,4/27/1997,Female,Asian,Not Hispanic or Latino,48326,Medicare,English,Former,Moderate,73,Employed
+74,Murry,Beddon,11/23/2000,Non-Binary,White,Not Hispanic or Latino,48301,Medicare,Hindi,Never,Moderate,74,Disabled
+75,Mariam,Mayze,1/22/1996,Male,White,Not Hispanic or Latino,48083,Medicare,English,Never,Heavy,75,Retired
+76,Alena,Ashmole,2/27/1945,Female,Asian,Not Hispanic or Latino,48076,Medicare,Tagalog,Former,Moderate,76,Disabled
+77,Ashil,von Nassau,7/28/1995,Female,White,Not Hispanic or Latino,48301,Medicare,English,Never,Heavy,77,Retired
+78,Jeremy,D'Cruze,6/27/1951,Female,White,Not Hispanic or Latino,48098,Commercial,Other,Current,Moderate,78,Unemployed
+79,Katerina,Skase,2/12/1952,Male,Other,Hispanic or Latino,48067,Dual-Eligible,English,Never,None,79,Retired
+80,Paolo,Budnk,7/10/2004,Female,Asian,Not Hispanic or Latino,48009,Dual-Eligible,Tagalog,Current,None,80,Employed
+81,Arabela,Mathie,8/17/1991,Female,White,Not Hispanic or Latino,48326,Medicare,Hindi,Never,Heavy,81,Unemployed
+82,Edmund,Damp,5/11/1979,Male,White,Not Hispanic or Latino,48326,Commercial,English,Former,Heavy,82,Employed
+83,Karim,Fairall,10/10/1940,Male,Other,Not Hispanic or Latino,48083,Medicare,English,Never,Heavy,83,Unemployed
+84,Agata,Iashvili,5/23/1943,Female,American Indian,Not Hispanic or Latino,48034,Dual-Eligible,Spanish,Never,Heavy,84,Disabled
+85,Gardy,Obray,5/18/1941,Female,White,Not Hispanic or Latino,48301,Uninsured,Spanish,Never,None,85,Employed
+86,Tome,Mearns,4/19/1934,Female,Black or African American,Not Hispanic or Latino,48085,Commercial,Other,Never,None,86,Retired
+87,Andra,Pentelo,2/16/1962,Male,White,Not Hispanic or Latino,48085,Medicare,English,Current,Moderate,87,Retired
+88,Reinhard,Beddall,9/11/2005,Female,White,Not Hispanic or Latino,48076,Commercial,English,Never,Heavy,88,Employed
+89,Jenn,Lushey,4/4/1933,Female,White,Not Hispanic or Latino,48085,Commercial,English,Former,None,89,Employed
+90,Mavra,Burditt,1/28/1937,Male,White,Not Hispanic or Latino,48326,Dual-Eligible,English,Never,Moderate,90,Disabled
+91,Lucius,Sommerly,6/9/1957,Male,White,Hispanic or Latino,48085,Medicare,English,Former,Moderate,91,Employed
+92,Sigismund,Reolfi,2/1/1964,Female,White,Not Hispanic or Latino,48009,Medicare,English,Former,Heavy,92,Unemployed
+93,Linnet,Cantera,11/18/1946,Female,Asian,Not Hispanic or Latino,48034,Uninsured,English,Never,None,93,Employed
+94,Cherye,MacMurray,2/1/1980,Male,White,Not Hispanic or Latino,48034,Commercial,English,Never,None,94,Retired
+95,Celina,Trussler,4/13/2022,Male,White,Not Hispanic or Latino,48009,Uninsured,English,Never,Moderate,95,Retired
+96,Noel,Pentony,12/16/2000,Male,White,Not Hispanic or Latino,48085,Medicaid,Tagalog,Former,Moderate,96,Unemployed
+97,Barron,Smeed,8/19/1969,Female,American Indian,Not Hispanic or Latino,48034,Uninsured,English,Current,None,97,Disabled
+98,Janet,Wearne,2/23/1938,Non-Binary,White,Not Hispanic or Latino,48098,Medicare,English,Former,None,98,Employed
+99,Emma,Stellin,9/28/1968,Male,White,Hispanic or Latino,48326,Medicaid,Spanish,Never,None,99,Employed
+100,Arni,Battisson,8/20/1967,Male,White,Not Hispanic or Latino,48098,Dual-Eligible,English,Never,Moderate,100,Unemployed
+101,Cairistiona,Nolte,12/9/1933,Male,White,Not Hispanic or Latino,48009,Medicare,Other,Current,None,101,Employed
+102,Raquela,Petican,3/29/1934,Female,Black or African American,Not Hispanic or Latino,48076,Commercial,English,Former,None,102,Retired
+103,Ardys,Arnason,12/2/2017,Male,American Indian,Not Hispanic or Latino,48067,Commercial,Hindi,Never,None,103,Retired
+104,Kiel,Wormell,12/8/2016,Male,American Indian,Hispanic or Latino,48084,Medicare,English,Never,Moderate,104,Unemployed
+105,Gwenore,Delgardillo,6/8/2005,Male,Other,Not Hispanic or Latino,48009,Medicare,English,Former,None,105,Employed
+106,Dar,McPhater,1/29/2018,Non-Binary,American Indian,Not Hispanic or Latino,48083,Medicare,English,Never,None,106,Employed
+107,Gilly,Gaine,6/1/2006,Female,White,Not Hispanic or Latino,48009,Commercial,Hindi,Former,Moderate,107,Retired
+108,Kym,Ambroise,5/25/1949,Non-Binary,American Indian,Hispanic or Latino,48301,Commercial,English,Former,None,108,Disabled
+109,Udell,Malkie,9/18/1944,Male,White,Hispanic or Latino,48076,Medicare,English,Never,None,109,Retired
+110,Velma,McGrirl,3/3/2019,Male,White,Hispanic or Latino,48085,Dual-Eligible,English,Current,Moderate,110,Retired
+111,Elwyn,Belison,1/19/1951,Female,White,Not Hispanic or Latino,48098,Uninsured,English,Former,None,111,Employed
+112,Waylon,Chatburn,10/18/1997,Female,White,Not Hispanic or Latino,48326,Medicare,English,Former,Moderate,112,Retired
+113,Aila,Moreby,9/30/1941,Female,American Indian,Not Hispanic or Latino,48076,Medicare,English,Never,None,113,Employed
+114,Christiane,Romei,5/2/2009,Female,American Indian,Not Hispanic or Latino,48326,Commercial,English,Never,Heavy,114,Employed
+115,Bondon,Mansell,3/12/1952,Male,White,Hispanic or Latino,48326,Medicare,English,Never,Moderate,115,Employed
+116,Ermengarde,Moakler,5/7/2024,Male,Asian,Hispanic or Latino,48326,Commercial,English,Former,Moderate,116,Employed
+117,Esme,Adanet,1/30/1968,Female,White,Not Hispanic or Latino,48301,Commercial,English,Never,None,117,Disabled
+118,Rafaello,Clingan,5/19/2007,Non-Binary,Asian,Not Hispanic or Latino,48301,Medicaid,English,Current,Moderate,118,Employed
+119,Fan,Vasichev,12/18/1946,Male,White,Hispanic or Latino,48083,Commercial,English,Never,None,119,Employed
+120,Reinaldo,Elcox,12/7/2021,Female,White,Not Hispanic or Latino,48084,Commercial,English,Former,None,120,Unemployed
+121,Octavius,Bucham,2/26/1977,Female,White,Not Hispanic or Latino,48083,Commercial,English,Former,Moderate,121,Employed
+122,Norry,Bertolin,12/8/1975,Male,White,Not Hispanic or Latino,48076,Commercial,Mandarin,Never,Moderate,122,Unemployed
+123,Amandie,Muris,8/28/1964,Female,American Indian,Not Hispanic or Latino,48083,Medicare,English,Former,None,123,Retired
+124,Galvin,Koenraad,9/7/1963,Male,American Indian,Not Hispanic or Latino,48098,Medicare,English,Never,Moderate,124,Retired
+125,Justin,Huebner,3/16/1956,Female,Asian,Hispanic or Latino,48084,Dual-Eligible,English,Former,None,125,Retired
+126,Shell,Inman,1/12/1977,Male,Black or African American,Not Hispanic or Latino,48085,Commercial,Hindi,Never,None,126,Unemployed
+127,Elna,Boller,2/11/2009,Female,White,Not Hispanic or Latino,48034,Medicare,English,Never,None,127,Employed
+128,Rodrigo,Bonifazio,5/18/1950,Male,White,Not Hispanic or Latino,48098,Medicare,English,Never,None,128,Unemployed
+129,Raye,Cattlemull,12/10/2005,Female,White,Not Hispanic or Latino,48085,Commercial,English,Never,None,129,Disabled
+130,Patrick,Josskovitz,10/1/2018,Female,White,Not Hispanic or Latino,48034,Commercial,English,Former,Moderate,130,Employed
+131,Maxim,Vagges,4/14/1988,Female,White,Not Hispanic or Latino,48034,Medicare,English,Current,Heavy,131,Employed
+132,Karlis,Bladon,6/22/1987,Male,American Indian,Not Hispanic or Latino,48326,Dual-Eligible,Spanish,Never,Moderate,132,Unemployed
+133,Kyla,Pogson,2/12/1942,Female,Asian,Not Hispanic or Latino,48067,Commercial,English,Never,Moderate,133,Employed
+134,Carmita,Venables,8/19/2009,Female,White,Not Hispanic or Latino,48085,Dual-Eligible,English,Current,Heavy,134,Unemployed
+135,Fanya,Facchini,11/5/1987,Male,White,Not Hispanic or Latino,48009,Medicare,Mandarin,Former,None,135,Retired
+136,Drugi,Ratke,6/16/1973,Female,Other,Not Hispanic or Latino,48085,Commercial,English,Never,Moderate,136,Employed
+137,Evelyn,Letrange,6/6/1975,Female,Black or African American,Not Hispanic or Latino,48034,Dual-Eligible,Other,Current,None,137,Employed
+138,Enrico,Martina,1/16/1982,Female,Asian,Not Hispanic or Latino,48034,Commercial,English,Former,Moderate,138,Retired
+139,Riannon,Deverille,12/27/2025,Male,White,Not Hispanic or Latino,48067,Uninsured,Other,Former,Heavy,139,Retired
+140,Uriel,Woodward,5/15/1991,Female,Black or African American,Not Hispanic or Latino,48098,Medicare,Spanish,Former,None,140,Unemployed
+141,Bertina,Stripp,7/20/1949,Female,Black or African American,Not Hispanic or Latino,48076,Medicare,Mandarin,Never,None,141,Retired
+142,Aube,Duggary,11/14/2013,Male,Other,Not Hispanic or Latino,48098,Commercial,English,Current,None,142,Employed
+143,Domenic,McCotter,1/6/2020,Male,Black or African American,Not Hispanic or Latino,48083,Medicare,English,Former,None,143,Disabled
+144,Philippine,Foxten,9/8/1978,Male,White,Not Hispanic or Latino,48076,Medicare,Tagalog,Current,Moderate,144,Retired
+145,Manolo,Alvar,5/5/1957,Male,White,Not Hispanic or Latino,48067,Medicare,English,Current,Moderate,145,Disabled
+146,Celia,Dearan,11/22/2019,Male,White,Not Hispanic or Latino,48009,Commercial,English,Never,Moderate,146,Employed
+147,Dallas,Powelee,12/13/1934,Male,Other,Not Hispanic or Latino,48067,Medicaid,English,Never,Moderate,147,Unemployed
+148,Kenna,Layman,1/20/2004,Male,American Indian,Not Hispanic or Latino,48083,Dual-Eligible,Tagalog,Never,Heavy,148,Employed
+149,Alejandrina,Lofthouse,8/8/1930,Male,Black or African American,Not Hispanic or Latino,48034,Medicare,English,Never,Moderate,149,Employed
+150,Sherline,Ossulton,12/24/1949,Female,White,Not Hispanic or Latino,48326,Commercial,Spanish,Never,Moderate,150,Retired
+151,Gabriello,Stopher,8/25/2019,Female,Asian,Not Hispanic or Latino,48076,Medicare,Tagalog,Never,Heavy,151,Retired
+152,Alexandro,Doudny,4/11/1983,Female,White,Hispanic or Latino,48076,Medicare,English,Former,None,152,Employed
+153,Mendy,Waren,8/20/1977,Female,Other,Not Hispanic or Latino,48301,Commercial,English,Current,Moderate,153,Employed
+154,Shermy,Garm,9/6/2020,Male,Asian,Not Hispanic or Latino,48084,Uninsured,English,Never,Heavy,154,Employed
+155,Alisun,Hamblington,3/13/1979,Female,White,Not Hispanic or Latino,48098,Dual-Eligible,English,Never,Heavy,155,Retired
+156,Heinrik,Minico,5/30/1996,Female,White,Not Hispanic or Latino,48034,Commercial,English,Never,Moderate,156,Unemployed
+157,Pooh,Gisborne,12/29/1977,Female,White,Not Hispanic or Latino,48009,Commercial,Hindi,Never,None,157,Employed
+158,Liana,Sinott,10/30/1985,Male,White,Not Hispanic or Latino,48076,Dual-Eligible,Spanish,Current,Moderate,158,Employed
+159,Cristi,Grime,10/8/2013,Male,Black or African American,Not Hispanic or Latino,48009,Commercial,Spanish,Current,None,159,Employed
+160,Brett,Alvarado,5/26/2026,Female,White,Not Hispanic or Latino,48301,Uninsured,Spanish,Never,None,160,Employed
+161,Byran,Brunner,7/31/2024,Male,American Indian,Not Hispanic or Latino,48301,Commercial,Tagalog,Never,Moderate,161,Employed
+162,Lucky,Bagworth,11/23/1956,Female,Asian,Not Hispanic or Latino,48009,Commercial,English,Never,None,162,Unemployed
+163,Nancey,Hocking,5/21/1991,Female,Asian,Not Hispanic or Latino,48034,Medicare,English,Former,None,163,Retired
+164,Hatty,Girauld,8/30/2025,Female,Black or African American,Not Hispanic or Latino,48326,Medicare,English,Never,Heavy,164,Disabled
+165,Marne,Meneux,11/18/1994,Female,Other,Not Hispanic or Latino,48326,Commercial,English,Never,Moderate,165,Retired
+166,Cristiano,Cooley,4/6/1965,Male,Other,Not Hispanic or Latino,48034,Commercial,Spanish,Former,None,166,Unemployed
+167,Erl,Maron,10/22/1966,Female,American Indian,Not Hispanic or Latino,48009,Commercial,English,Never,Moderate,167,Employed
+168,Fianna,Giffin,12/10/1962,Female,Black or African American,Hispanic or Latino,48076,Commercial,English,Never,Heavy,168,Unemployed
+169,Johnath,Priter,9/17/1942,Female,White,Hispanic or Latino,48034,Uninsured,English,Never,Moderate,169,Disabled
+170,Farrel,Simmill,8/25/1955,Male,American Indian,Not Hispanic or Latino,48076,Uninsured,Hindi,Never,None,170,Unemployed
+171,Fonsie,Tidridge,2/13/1964,Female,White,Not Hispanic or Latino,48098,Medicare,Tagalog,Never,Moderate,171,Retired
+172,Ambros,Gibbieson,12/10/2001,Female,Black or African American,Not Hispanic or Latino,48009,Medicaid,Spanish,Current,None,172,Unemployed
+173,Dyana,Johnys,5/28/1945,Male,Other,Not Hispanic or Latino,48084,Dual-Eligible,English,Never,None,173,Retired
+174,Godfrey,Bandey,10/31/1940,Male,White,Not Hispanic or Latino,48083,Medicare,English,Former,None,174,Employed
+175,Kristoforo,Measures,11/12/2016,Male,Other,Hispanic or Latino,48009,Commercial,Mandarin,Never,None,175,Retired
+176,Lani,Shakespeare,10/4/1930,Female,Black or African American,Hispanic or Latino,48009,Medicare,Hindi,Never,None,176,Employed
+177,Tammy,MacCard,2/19/2002,Female,Other,Not Hispanic or Latino,48098,Medicare,English,Never,Moderate,177,Employed
+178,Feliks,Hune,8/24/2020,Female,White,Not Hispanic or Latino,48084,Medicare,Tagalog,Never,None,178,Employed
+179,Garnet,Gon,1/25/1943,Male,White,Not Hispanic or Latino,48098,Medicare,Spanish,Former,None,179,Retired
+180,Charmion,Cours,3/8/1970,Male,Black or African American,Not Hispanic or Latino,48085,Commercial,English,Former,Moderate,180,Unemployed
+181,Dorice,Scurfield,9/22/2013,Female,Asian,Not Hispanic or Latino,48326,Medicare,English,Never,None,181,Unemployed
+182,Jayson,McQuaid,3/22/2022,Male,Other,Not Hispanic or Latino,48084,Commercial,Hindi,Never,Moderate,182,Employed
+183,Cornie,Poulney,3/5/1931,Female,Asian,Not Hispanic or Latino,48009,Medicare,English,Former,Moderate,183,Employed
+184,Celinka,Bencher,7/15/1946,Non-Binary,White,Hispanic or Latino,48034,Medicare,English,Never,None,184,Retired
+185,Henriette,Swin,5/4/1974,Female,Black or African American,Not Hispanic or Latino,48009,Uninsured,English,Never,Moderate,185,Retired
+186,Berk,Godding,2/26/1944,Female,Black or African American,Not Hispanic or Latino,48067,Dual-Eligible,Mandarin,Current,Moderate,186,Retired
+187,Daryl,Siccombe,1/5/1969,Female,White,Not Hispanic or Latino,48085,Medicaid,English,Never,Heavy,187,Retired
+188,Chelsey,Bertrand,1/1/1982,Female,White,Hispanic or Latino,48034,Commercial,Mandarin,Former,Heavy,188,Retired
+189,Hugo,Wyson,9/4/1963,Male,Asian,Not Hispanic or Latino,48009,Commercial,English,Former,Moderate,189,Employed
+190,Joshia,Tatford,9/23/1943,Male,White,Not Hispanic or Latino,48098,Commercial,Hindi,Never,None,190,Disabled
+191,Storm,Cordelle,7/17/1949,Female,Black or African American,Not Hispanic or Latino,48098,Commercial,Mandarin,Former,Moderate,191,Employed
+192,Meara,Hudel,4/26/1935,Male,White,Not Hispanic or Latino,48083,Dual-Eligible,English,Former,Moderate,192,Disabled
+193,Kenon,Biggans,7/1/2001,Female,White,Not Hispanic or Latino,48326,Dual-Eligible,English,Current,None,193,Disabled
+194,Clea,Borham,2/6/1964,Female,Black or African American,Hispanic or Latino,48085,Medicare,Mandarin,Never,Moderate,194,Unemployed
+195,Aimil,Cund,1/1/1993,Male,Black or African American,Hispanic or Latino,48067,Medicaid,English,Current,None,195,Employed
+196,Shea,Winkworth,3/20/2012,Male,White,Not Hispanic or Latino,48076,Medicare,English,Never,Moderate,196,Employed
+197,Eddi,Anersen,9/7/1964,Male,White,Not Hispanic or Latino,48067,Commercial,English,Former,Moderate,197,Unemployed
+198,Elsie,Brimham,6/12/1939,Male,American Indian,Not Hispanic or Latino,48326,Commercial,Mandarin,Current,None,198,Employed
+199,Atlanta,Greenrod,8/22/1981,Female,White,Not Hispanic or Latino,48326,Medicare,Other,Former,Moderate,199,Retired
+200,Josi,Dowbekin,10/3/1991,Female,White,Not Hispanic or Latino,48084,Commercial,English,Former,Moderate,200,Disabled
+201,Silva,Benediktovich,6/3/2001,Male,American Indian,Not Hispanic or Latino,48326,Medicare,English,Former,None,201,Disabled
+202,Nealson,Curston,8/23/1960,Female,Black or African American,Not Hispanic or Latino,48085,Medicaid,English,Current,None,202,Retired
+203,Charin,Harold,4/15/1986,Male,White,Hispanic or Latino,48083,Medicare,Mandarin,Former,Heavy,203,Retired
+204,Mina,Gyorffy,11/24/1938,Female,White,Not Hispanic or Latino,48085,Dual-Eligible,English,Current,None,204,Retired
+205,Adelbert,Parmer,6/15/1980,Female,White,Not Hispanic or Latino,48085,Commercial,English,Never,Moderate,205,Employed
+206,Belva,Lince,7/1/1937,Male,White,Not Hispanic or Latino,48301,Commercial,English,Never,Moderate,206,Employed
+207,Norby,Cumberpatch,6/15/1961,Female,White,Not Hispanic or Latino,48083,Commercial,Spanish,Former,None,207,Employed
+208,Liv,Buttle,3/20/2017,Male,White,Hispanic or Latino,48083,Dual-Eligible,Hindi,Never,None,208,Retired
+209,Dell,Lippitt,6/25/2021,Male,Black or African American,Not Hispanic or Latino,48085,Commercial,English,Current,Moderate,209,Retired
+210,Cal,Vasiliev,1/17/1996,Female,White,Not Hispanic or Latino,48076,Medicaid,Tagalog,Never,Moderate,210,Employed
+211,Angie,Hovee,6/27/1939,Female,White,Hispanic or Latino,48009,Uninsured,English,Current,Heavy,211,Employed
+212,Lamont,McFade,7/13/1960,Male,White,Not Hispanic or Latino,48326,Commercial,English,Never,None,212,Employed
+213,Allina,Seniour,7/15/1990,Female,White,Not Hispanic or Latino,48034,Medicaid,English,Never,Moderate,213,Employed
+214,Desmond,Hughes,1/13/2009,Female,Other,Not Hispanic or Latino,48067,Commercial,English,Never,None,214,Unemployed
+215,Ailsun,Kidston,2/3/1990,Female,Black or African American,Not Hispanic or Latino,48085,Commercial,Hindi,Never,Moderate,215,Retired
+216,Neville,Bysaker,10/17/2004,Male,American Indian,Not Hispanic or Latino,48083,Commercial,English,Never,Moderate,216,Employed
+217,Minna,Semble,9/12/1981,Female,American Indian,Hispanic or Latino,48067,Commercial,English,Never,Moderate,217,Employed
+218,Nathanil,Cranage,2/1/1999,Female,American Indian,Not Hispanic or Latino,48009,Uninsured,English,Current,Moderate,218,Employed
+219,Nicolina,Burras,2/11/2012,Male,White,Not Hispanic or Latino,48067,Uninsured,English,Former,None,219,Employed
+220,Carlotta,Bellam,12/18/1982,Male,White,Not Hispanic or Latino,48067,Medicare,English,Never,None,220,Employed
+221,Joel,Blackader,6/15/1982,Female,Black or African American,Not Hispanic or Latino,48083,Commercial,English,Current,None,221,Employed
+222,Walther,McVeigh,11/8/2014,Male,Black or African American,Not Hispanic or Latino,48084,Uninsured,English,Current,Heavy,222,Employed
+223,Ferrell,Giovanizio,5/6/1990,Male,White,Not Hispanic or Latino,48084,Commercial,Spanish,Never,None,223,Employed
+224,Arabella,Pettigree,8/30/1931,Male,Other,Not Hispanic or Latino,48067,Medicaid,English,Former,Moderate,224,Retired
+225,Alphard,McLarty,4/16/1987,Female,Other,Not Hispanic or Latino,48009,Commercial,Hindi,Former,None,225,Disabled
+226,Rozalin,Lawlings,3/29/2024,Female,American Indian,Not Hispanic or Latino,48034,Commercial,English,Current,None,226,Employed
+227,Petronia,Dunning,8/8/1993,Female,White,Hispanic or Latino,48067,Medicaid,English,Current,None,227,Retired
+228,Trix,Trett,4/15/2000,Male,White,Not Hispanic or Latino,48076,Medicaid,Other,Current,Moderate,228,Employed
+229,Hilda,Coombes,8/23/1993,Female,White,Not Hispanic or Latino,48326,Commercial,Spanish,Never,Heavy,229,Employed
+230,Megan,Rene,8/19/2000,Non-Binary,White,Not Hispanic or Latino,48085,Commercial,Spanish,Never,None,230,Retired
+231,Eldon,Magson,10/18/1971,Female,Black or African American,Not Hispanic or Latino,48326,Medicare,Hindi,Never,Moderate,231,Employed
+232,Kizzie,Grimmert,12/10/2017,Male,White,Not Hispanic or Latino,48085,Medicare,Tagalog,Former,None,232,Unemployed
+233,Haydon,D'Oyley,8/25/2016,Male,White,Hispanic or Latino,48009,Medicare,Spanish,Never,Moderate,233,Retired
+234,Karil,McBeath,7/12/1972,Male,American Indian,Not Hispanic or Latino,48076,Commercial,Spanish,Former,Heavy,234,Employed
+235,Oates,Anker,3/7/1974,Male,Other,Hispanic or Latino,48098,Commercial,English,Never,Moderate,235,Disabled
+236,Donielle,Tatton,9/25/2018,Female,Black or African American,Not Hispanic or Latino,48085,Commercial,English,Never,None,236,Retired
+237,Hamnet,Godson,10/18/1975,Female,White,Not Hispanic or Latino,48076,Dual-Eligible,English,Current,None,237,Employed
+238,Neile,Raitt,9/20/1954,Female,American Indian,Not Hispanic or Latino,48326,Commercial,English,Never,Moderate,238,Retired
+239,Anatollo,Elix,6/26/2019,Female,Black or African American,Hispanic or Latino,48326,Medicare,English,Current,Moderate,239,Disabled
+240,Danella,Merrick,12/18/1937,Male,White,Not Hispanic or Latino,48009,Medicare,English,Current,Heavy,240,Employed
+241,Astrix,Sayburn,8/28/2016,Non-Binary,White,Not Hispanic or Latino,48084,Commercial,English,Never,None,241,Employed
+242,Euphemia,Orton,4/3/1967,Male,White,Not Hispanic or Latino,48083,Uninsured,Hindi,Never,None,242,Retired
+243,Kirstin,Lockhart,7/26/1956,Male,White,Not Hispanic or Latino,48085,Uninsured,Tagalog,Never,None,243,Unemployed
+244,Gibbie,Mulhall,7/14/1961,Female,Black or African American,Not Hispanic or Latino,48034,Medicare,Mandarin,Former,None,244,Disabled
+245,Aksel,Donaher,4/11/1989,Non-Binary,White,Not Hispanic or Latino,48098,Uninsured,Hindi,Never,None,245,Employed
+246,Lucho,Ferguson,6/12/1972,Male,Black or African American,Not Hispanic or Latino,48098,Commercial,Other,Never,Heavy,246,Disabled
+247,Madeleine,Hanhart,3/21/2020,Non-Binary,White,Not Hispanic or Latino,48083,Medicaid,Tagalog,Former,Moderate,247,Unemployed
+248,Kerrie,Ramelot,1/15/1946,Male,Black or African American,Not Hispanic or Latino,48067,Commercial,English,Current,None,248,Employed
+249,Harper,Klebes,10/9/1972,Male,White,Hispanic or Latino,48084,Medicare,Spanish,Never,None,249,Unemployed
+250,Rees,Bleakman,2/13/1934,Female,Other,Not Hispanic or Latino,48084,Commercial,Spanish,Former,Heavy,250,Employed
+251,Jazmin,Oxley,7/31/1938,Male,Asian,Not Hispanic or Latino,48301,Medicare,Tagalog,Former,Moderate,251,Unemployed
+252,Isahella,Trenam,3/11/1990,Male,Asian,Not Hispanic or Latino,48067,Dual-Eligible,Mandarin,Never,None,252,Employed
+253,Gussie,Doudney,8/9/2023,Female,White,Not Hispanic or Latino,48098,Dual-Eligible,Hindi,Never,None,253,Unemployed
+254,Ailbert,Riguard,4/16/1934,Male,White,Not Hispanic or Latino,48326,Medicare,English,Never,Moderate,254,Retired
+255,Tomlin,Jaan,7/4/2025,Male,White,Not Hispanic or Latino,48076,Commercial,English,Never,None,255,Unemployed
+256,Chicky,Waith,4/29/1980,Male,White,Not Hispanic or Latino,48301,Medicare,Other,Never,None,256,Retired
+257,Galina,Laval,7/3/1947,Female,White,Not Hispanic or Latino,48009,Commercial,Spanish,Never,Moderate,257,Employed
+258,Gerome,MacDearmont,5/7/1994,Female,Black or African American,Hispanic or Latino,48067,Dual-Eligible,Hindi,Never,Moderate,258,Retired
+259,Cissy,Hamley,2/17/2018,Female,White,Not Hispanic or Latino,48085,Medicare,Hindi,Never,None,259,Employed
+260,Wells,Wealleans,12/8/1951,Female,White,Not Hispanic or Latino,48085,Commercial,Other,Never,None,260,Disabled
+261,Lari,Troyes,4/11/2015,Male,Black or African American,Not Hispanic or Latino,48326,Uninsured,English,Never,Moderate,261,Retired
+262,Janek,Bossel,5/29/1946,Female,Asian,Not Hispanic or Latino,48009,Medicare,English,Current,Heavy,262,Employed
+263,Peter,Jeremiah,2/8/2004,Male,Black or African American,Hispanic or Latino,48301,Commercial,English,Former,Heavy,263,Retired
+264,Lela,Vernon,5/30/1988,Non-Binary,White,Hispanic or Latino,48076,Uninsured,English,Former,Heavy,264,Disabled
+265,Goldina,Summerley,9/24/2002,Female,Other,Not Hispanic or Latino,48009,Uninsured,English,Never,None,265,Employed
+266,Kym,Hurdwell,4/27/2004,Female,White,Not Hispanic or Latino,48067,Uninsured,Spanish,Current,Moderate,266,Employed
+267,Aksel,Firebrace,8/24/1942,Female,Asian,Not Hispanic or Latino,48083,Commercial,Spanish,Never,Heavy,267,Retired
+268,Connor,Korlat,9/23/2009,Male,American Indian,Not Hispanic or Latino,48009,Medicaid,English,Never,Moderate,268,Retired
+269,Vicky,Oller,7/10/1975,Male,Black or African American,Hispanic or Latino,48085,Medicare,English,Never,Moderate,269,Retired
+270,Vivie,Catcherside,6/18/1962,Female,American Indian,Not Hispanic or Latino,48085,Dual-Eligible,English,Never,None,270,Employed
+271,Anthiathia,Avo,4/24/2014,Female,White,Not Hispanic or Latino,48076,Medicare,Spanish,Never,None,271,Unemployed
+272,Hayes,Dowe,8/9/2006,Male,White,Not Hispanic or Latino,48085,Medicare,English,Former,Heavy,272,Disabled
+273,Stesha,Hussy,3/21/1986,Female,Black or African American,Not Hispanic or Latino,48084,Medicare,Spanish,Former,None,273,Employed
+274,Vale,Hyndson,4/2/2021,Male,Asian,Not Hispanic or Latino,48084,Commercial,English,Former,None,274,Disabled
+275,Waring,Cady,4/26/1939,Non-Binary,Black or African American,Not Hispanic or Latino,48326,Commercial,English,Former,None,275,Disabled
+276,Bobbette,Antoniazzi,10/22/2018,Male,Asian,Not Hispanic or Latino,48083,Commercial,Spanish,Never,Moderate,276,Employed
+277,Brenn,Shadrack,1/29/2017,Male,White,Not Hispanic or Latino,48009,Commercial,Spanish,Never,None,277,Retired
+278,Welsh,Beadles,10/13/1960,Female,Black or African American,Not Hispanic or Latino,48084,Uninsured,English,Never,Moderate,278,Employed
+279,Min,Norcutt,1/24/1980,Female,American Indian,Not Hispanic or Latino,48301,Medicaid,English,Current,Moderate,279,Employed
+280,Chantal,Cavaney,1/17/1958,Male,American Indian,Hispanic or Latino,48098,Medicare,Spanish,Former,None,280,Unemployed
+281,Glyn,Matveichev,3/11/2011,Female,White,Not Hispanic or Latino,48301,Uninsured,Spanish,Never,Moderate,281,Employed
+282,Jacinda,Maffei,12/15/2016,Male,White,Hispanic or Latino,48098,Uninsured,Mandarin,Never,None,282,Employed
+283,Alicia,Honatsch,9/24/2023,Male,American Indian,Not Hispanic or Latino,48067,Medicare,Mandarin,Never,Moderate,283,Retired
+284,Angelina,Roswarn,6/13/1983,Female,Asian,Not Hispanic or Latino,48326,Uninsured,English,Never,Heavy,284,Retired
+285,Christine,Klassman,5/28/1939,Female,Black or African American,Not Hispanic or Latino,48067,Commercial,English,Never,Moderate,285,Employed
+286,Joanie,Sneezem,2/1/1968,Female,American Indian,Hispanic or Latino,48098,Commercial,English,Never,Moderate,286,Disabled
+287,Shaine,Swaile,11/13/1970,Female,White,Not Hispanic or Latino,48326,Medicare,English,Former,Heavy,287,Retired
+288,Trudi,Giorgioni,3/9/1947,Female,White,Not Hispanic or Latino,48034,Commercial,English,Former,Moderate,288,Retired
+289,Stacee,Vasenin,11/4/1940,Female,Asian,Not Hispanic or Latino,48076,Dual-Eligible,English,Former,Moderate,289,Unemployed
+290,Rosaline,Salle,9/24/1966,Female,Black or African American,Not Hispanic or Latino,48076,Medicare,Spanish,Current,Moderate,290,Unemployed
+291,Everett,Walwood,9/26/2005,Female,White,Not Hispanic or Latino,48084,Uninsured,English,Current,None,291,Unemployed
+292,Dame,Thorneloe,5/2/2014,Female,Black or African American,Not Hispanic or Latino,48009,Commercial,Mandarin,Never,None,292,Retired
+293,Harmonia,Feeham,1/20/2002,Male,Other,Hispanic or Latino,48084,Medicare,English,Never,Moderate,293,Employed
+294,Abram,Kilbride,2/11/1952,Male,White,Not Hispanic or Latino,48326,Medicare,English,Current,Moderate,294,Employed
+295,Darda,Malitrott,11/27/1993,Female,Asian,Not Hispanic or Latino,48034,Medicare,English,Never,None,295,Unemployed
+296,Joell,Sherwen,5/12/1932,Female,Other,Not Hispanic or Latino,48009,Medicare,Spanish,Current,None,296,Unemployed
+297,Nahum,Slocom,2/28/1945,Male,Black or African American,Not Hispanic or Latino,48098,Medicare,English,Current,Moderate,297,Employed
+298,Engracia,Shippey,3/6/1957,Female,White,Not Hispanic or Latino,48083,Medicare,Tagalog,Former,None,298,Disabled
+299,Carr,Chesher,5/3/1992,Female,Other,Hispanic or Latino,48084,Medicare,English,Former,None,299,Disabled
+300,Ansley,Brodhead,8/25/2021,Female,American Indian,Not Hispanic or Latino,48326,Dual-Eligible,Spanish,Former,Moderate,300,Employed
+301,Stanly,Castles,2/3/2004,Female,White,Not Hispanic or Latino,48098,Commercial,English,Never,Moderate,301,Employed
+302,Brenna,Hallihane,3/31/1992,Non-Binary,White,Not Hispanic or Latino,48098,Medicaid,English,Former,Moderate,302,Unemployed
+303,Jayme,Curedell,12/4/1992,Female,American Indian,Not Hispanic or Latino,48084,Medicare,English,Never,None,303,Retired
+304,Hollis,Still,4/2/2019,Female,White,Hispanic or Latino,48083,Medicare,English,Former,Moderate,304,Retired
+305,Josee,Sturton,12/26/1978,Male,Other,Not Hispanic or Latino,48085,Dual-Eligible,Spanish,Current,Moderate,305,Employed
+306,Heather,Kiely,7/25/2001,Female,White,Not Hispanic or Latino,48301,Medicare,Spanish,Former,None,306,Retired
+307,Horton,Aloway,4/25/1960,Male,White,Not Hispanic or Latino,48326,Commercial,Spanish,Never,None,307,Employed
+308,Noll,Sheffield,10/31/2004,Male,White,Not Hispanic or Latino,48326,Commercial,Spanish,Never,None,308,Retired
+309,Rourke,Hollingsby,5/2/1969,Non-Binary,Black or African American,Not Hispanic or Latino,48301,Commercial,English,Current,Moderate,309,Retired
+310,Lincoln,Subhan,5/16/2015,Male,White,Not Hispanic or Latino,48301,Medicare,Other,Former,Moderate,310,Unemployed
+311,Joann,Ceschelli,3/21/1982,Non-Binary,White,Not Hispanic or Latino,48034,Uninsured,English,Former,Moderate,311,Employed
+312,Gay,Sigars,6/25/1978,Non-Binary,White,Not Hispanic or Latino,48326,Medicaid,English,Never,None,312,Unemployed
+313,Alphonso,Kleinerman,4/4/2026,Female,Other,Not Hispanic or Latino,48076,Medicare,Mandarin,Never,None,313,Employed
+314,Trstram,Mottershead,4/19/1967,Female,American Indian,Hispanic or Latino,48098,Medicare,English,Current,Moderate,314,Retired
+315,Caritta,Tallboy,7/12/1955,Female,White,Not Hispanic or Latino,48034,Medicare,English,Never,None,315,Retired
+316,Lethia,Cushe,1/21/2014,Male,White,Not Hispanic or Latino,48076,Medicare,English,Former,Moderate,316,Unemployed
+317,Abbie,Ethington,1/14/1933,Male,White,Not Hispanic or Latino,48085,Dual-Eligible,English,Never,Moderate,317,Retired
+318,Crosby,Matthews,3/18/1952,Male,White,Not Hispanic or Latino,48084,Commercial,Tagalog,Never,Moderate,318,Retired
+319,Matias,O'Meara,12/23/1979,Female,White,Not Hispanic or Latino,48084,Commercial,Spanish,Current,Moderate,319,Disabled
+320,Mellisa,Dunphie,8/16/2024,Female,Black or African American,Hispanic or Latino,48034,Commercial,English,Current,None,320,Employed
+321,Charmaine,Taree,1/21/1969,Female,American Indian,Not Hispanic or Latino,48009,Commercial,English,Former,Heavy,321,Unemployed
+322,Madelle,Aldcorn,11/29/2019,Non-Binary,White,Hispanic or Latino,48076,Commercial,English,Never,Moderate,322,Retired
+323,Paloma,Heaseman,9/28/1967,Male,Other,Not Hispanic or Latino,48098,Uninsured,English,Never,None,323,Employed
+324,Roanna,Vivash,2/28/2005,Male,White,Hispanic or Latino,48083,Commercial,English,Never,None,324,Unemployed
+325,Pietro,Pigney,4/1/1935,Female,Other,Not Hispanic or Latino,48009,Medicare,Mandarin,Never,Moderate,325,Employed
+326,Bunny,Halwell,2/2/1933,Male,Other,Not Hispanic or Latino,48034,Uninsured,English,Never,Moderate,326,Disabled
+327,Tadeas,Edward,9/28/1992,Female,Black or African American,Not Hispanic or Latino,48301,Uninsured,English,Former,Moderate,327,Disabled
+328,Alisun,Mowsdale,9/2/2022,Female,Asian,Hispanic or Latino,48076,Medicaid,English,Never,None,328,Employed
+329,Coretta,Noice,4/17/2011,Non-Binary,Other,Hispanic or Latino,48034,Medicare,Other,Former,Moderate,329,Retired
+330,Terri-jo,Preto,3/18/1945,Male,Asian,Hispanic or Latino,48098,Commercial,English,Former,Moderate,330,Retired
+331,Trumaine,Foystone,12/29/2000,Female,White,Not Hispanic or Latino,48083,Medicare,Spanish,Former,Heavy,331,Employed
+332,Cesya,Valeri,8/1/1981,Female,Black or African American,Hispanic or Latino,48098,Commercial,Mandarin,Former,Moderate,332,Unemployed
+333,Bond,Blose,7/27/1990,Female,American Indian,Not Hispanic or Latino,48009,Commercial,Spanish,Never,Moderate,333,Disabled
+334,Brigham,Faichney,6/1/1934,Female,White,Hispanic or Latino,48034,Medicare,English,Current,None,334,Employed
+335,Margit,O'Henecan,5/29/1975,Female,White,Hispanic or Latino,48326,Commercial,Tagalog,Former,None,335,Retired
+336,Xerxes,Arpino,11/24/1972,Female,Asian,Not Hispanic or Latino,48085,Commercial,English,Never,Moderate,336,Employed
+337,Carmelle,Shall,9/28/1933,Non-Binary,White,Not Hispanic or Latino,48098,Commercial,Tagalog,Never,None,337,Employed
+338,Thatch,Vowell,4/19/2018,Female,Black or African American,Not Hispanic or Latino,48076,Commercial,English,Current,None,338,Employed
+339,Neron,Schettini,3/21/2021,Non-Binary,Black or African American,Not Hispanic or Latino,48098,Commercial,Tagalog,Former,None,339,Employed
+340,Kristoforo,Klug,1/16/1973,Male,White,Not Hispanic or Latino,48326,Commercial,English,Never,None,340,Retired
+341,Pat,Belvin,2/9/1978,Female,White,Hispanic or Latino,48083,Medicare,English,Never,Heavy,341,Retired
+342,Nadine,Cuncliffe,3/14/1986,Female,Black or African American,Not Hispanic or Latino,48098,Medicare,Tagalog,Former,Moderate,342,Disabled
+343,Averil,Crippill,10/1/1998,Male,White,Not Hispanic or Latino,48076,Medicare,English,Never,Moderate,343,Unemployed
+344,Koral,Danby,7/1/1935,Female,American Indian,Hispanic or Latino,48326,Dual-Eligible,English,Never,Moderate,344,Retired
+345,Brander,Duerden,9/4/1999,Female,White,Not Hispanic or Latino,48326,Commercial,Spanish,Current,None,345,Employed
+346,Hieronymus,Vlies,11/27/1992,Non-Binary,Asian,Not Hispanic or Latino,48098,Dual-Eligible,English,Current,Moderate,346,Employed
+347,Annalee,Povlsen,7/13/1976,Male,Other,Not Hispanic or Latino,48301,Medicare,English,Never,Heavy,347,Employed
+348,Donaugh,Jendas,1/19/1981,Female,White,Hispanic or Latino,48067,Commercial,English,Former,Moderate,348,Employed
+349,Garrard,Downton,4/14/1974,Female,Black or African American,Not Hispanic or Latino,48083,Dual-Eligible,English,Current,Heavy,349,Disabled
+350,Corny,Kerwood,7/25/1994,Female,Black or African American,Not Hispanic or Latino,48085,Uninsured,English,Current,Heavy,350,Employed
+351,Juli,Curmi,2/24/2000,Male,Asian,Not Hispanic or Latino,48083,Commercial,Spanish,Never,Moderate,351,Disabled
+352,Ethelda,Isacsson,4/28/1975,Non-Binary,Other,Not Hispanic or Latino,48076,Uninsured,Other,Never,None,352,Employed
+353,Tremain,Yukhnin,11/7/1959,Female,Other,Not Hispanic or Latino,48326,Medicare,Hindi,Former,Moderate,353,Employed
+354,Theodore,McComiskie,5/14/1962,Male,White,Not Hispanic or Latino,48067,Medicare,English,Never,Moderate,354,Retired
+355,Peggy,Carress,1/3/1948,Female,White,Hispanic or Latino,48009,Medicare,Hindi,Current,Moderate,355,Employed
+356,Lurleen,Esmead,1/22/1998,Female,White,Hispanic or Latino,48084,Dual-Eligible,English,Never,None,356,Unemployed
+357,Dyna,Bellenie,3/9/1992,Female,Asian,Not Hispanic or Latino,48326,Commercial,English,Current,None,357,Employed
+358,Yolande,Lowne,1/20/2020,Female,Other,Not Hispanic or Latino,48326,Medicare,English,Never,Heavy,358,Employed
+359,Carmelita,Canacott,9/17/1959,Male,White,Hispanic or Latino,48084,Medicare,English,Former,Moderate,359,Retired
+360,Cazzie,Vidineev,4/19/1967,Male,White,Hispanic or Latino,48009,Uninsured,Spanish,Current,None,360,Retired
+361,Kerrill,Gentric,1/26/2011,Female,Other,Hispanic or Latino,48301,Dual-Eligible,Hindi,Never,None,361,Retired
+362,Hayden,Balnaves,9/12/1990,Female,White,Not Hispanic or Latino,48084,Medicare,English,Never,Moderate,362,Employed
+363,Sayers,Cadagan,2/14/2010,Female,White,Hispanic or Latino,48085,Medicare,Spanish,Current,Moderate,363,Unemployed
+364,Karney,Hardware,12/11/2016,Male,White,Hispanic or Latino,48326,Medicaid,Hindi,Current,None,364,Retired
+365,Myranda,Gosden,1/10/1971,Female,White,Not Hispanic or Latino,48301,Medicare,Other,Former,Moderate,365,Employed
+366,Erhart,Limpricht,11/19/1976,Male,Other,Not Hispanic or Latino,48067,Medicaid,English,Former,Moderate,366,Employed
+367,Jordain,Kuhnert,4/30/1954,Female,Other,Not Hispanic or Latino,48009,Medicaid,English,Never,Moderate,367,Employed
+368,Normand,Heers,12/9/1977,Female,White,Not Hispanic or Latino,48067,Medicare,English,Former,None,368,Employed
+369,Euell,Messham,3/20/1958,Female,Other,Hispanic or Latino,48067,Medicare,English,Never,Moderate,369,Disabled
+370,Dill,Gresly,1/4/2000,Non-Binary,White,Not Hispanic or Latino,48098,Commercial,English,Current,None,370,Employed
+371,Hillie,Vivyan,8/11/1987,Female,Other,Not Hispanic or Latino,48301,Commercial,Mandarin,Former,Heavy,371,Disabled
+372,Kathryne,Hadcock,2/21/2023,Male,White,Not Hispanic or Latino,48098,Medicare,Tagalog,Former,None,372,Unemployed
+373,Rosalynd,Owers,6/17/1987,Non-Binary,White,Not Hispanic or Latino,48009,Medicare,English,Former,None,373,Retired
+374,Bobbye,Racine,10/22/1959,Male,Black or African American,Not Hispanic or Latino,48085,Commercial,English,Current,None,374,Employed
+375,Darcy,Jordeson,4/12/1994,Female,Other,Not Hispanic or Latino,48009,Medicare,Other,Never,None,375,Unemployed
+376,Penelope,Joyson,7/20/1963,Male,Other,Not Hispanic or Latino,48009,Dual-Eligible,English,Former,Heavy,376,Employed
+377,Tymon,Skewes,7/25/1986,Male,White,Not Hispanic or Latino,48067,Medicaid,English,Former,Moderate,377,Retired
+378,Leona,Dugood,2/28/1992,Male,American Indian,Hispanic or Latino,48034,Medicare,English,Never,Moderate,378,Employed
+379,Nevil,Armell,7/27/1951,Non-Binary,White,Not Hispanic or Latino,48085,Commercial,Hindi,Never,Moderate,379,Employed
+380,Gertrudis,Emor,6/7/1964,Female,American Indian,Not Hispanic or Latino,48326,Commercial,English,Former,Moderate,380,Unemployed
+381,Zachery,Sprake,2/2/1999,Male,White,Not Hispanic or Latino,48076,Commercial,Tagalog,Never,Moderate,381,Retired
+382,Felicia,Croutear,4/5/1981,Female,White,Not Hispanic or Latino,48034,Medicare,English,Never,Moderate,382,Retired
+383,Jermain,Southwell,1/6/1947,Female,White,Not Hispanic or Latino,48076,Medicare,English,Never,Moderate,383,Employed
+384,Monique,Loncaster,3/23/1959,Male,White,Not Hispanic or Latino,48098,Medicare,Tagalog,Never,None,384,Employed
+385,Grete,Moult,10/28/1964,Female,Black or African American,Not Hispanic or Latino,48085,Uninsured,Hindi,Never,Moderate,385,Retired
+386,Niels,Trowler,6/1/1999,Male,Black or African American,Not Hispanic or Latino,48326,Medicare,Mandarin,Current,Moderate,386,Employed
+387,Thaddeus,Trase,12/30/2024,Male,White,Not Hispanic or Latino,48084,Uninsured,English,Former,Moderate,387,Unemployed
+388,Salomo,MacArdle,3/23/1964,Male,White,Not Hispanic or Latino,48098,Medicare,English,Current,None,388,Unemployed
+389,Faustina,Topliss,7/22/1951,Male,White,Not Hispanic or Latino,48084,Commercial,English,Current,Moderate,389,Retired
+390,Rory,Suttling,1/6/1975,Female,Asian,Not Hispanic or Latino,48085,Uninsured,English,Former,Moderate,390,Retired
+391,Vaughan,Dummigan,6/11/1957,Female,White,Not Hispanic or Latino,48067,Medicare,Spanish,Current,Moderate,391,Employed
+392,Isador,Tomek,9/17/1936,Non-Binary,Black or African American,Not Hispanic or Latino,48009,Medicaid,Spanish,Never,None,392,Employed
+393,Frans,Benion,10/17/1947,Male,White,Not Hispanic or Latino,48009,Commercial,Tagalog,Never,Moderate,393,Unemployed
+394,Vida,Bolin,12/25/1967,Female,Asian,Not Hispanic or Latino,48084,Dual-Eligible,English,Former,Moderate,394,Employed
+395,Elwyn,Duncan,1/3/1997,Female,White,Not Hispanic or Latino,48034,Medicare,Other,Former,Heavy,395,Unemployed
+396,Lotte,Kenryd,6/2/1977,Male,Black or African American,Not Hispanic or Latino,48301,Commercial,English,Current,Moderate,396,Retired
+397,Dougy,Allenson,11/30/1931,Male,Black or African American,Not Hispanic or Latino,48301,Commercial,English,Never,None,397,Employed
+398,Jermayne,Lettley,4/27/1989,Female,White,Not Hispanic or Latino,48084,Medicaid,English,Never,Moderate,398,Disabled
+399,Katine,Fourman,10/3/1953,Male,Asian,Hispanic or Latino,48098,Medicare,Spanish,Former,Moderate,399,Disabled
+400,Bartram,Gerred,4/20/2002,Male,Asian,Not Hispanic or Latino,48083,Medicare,English,Former,None,400,Employed
+401,Brittan,Coulton,5/5/1977,Female,White,Hispanic or Latino,48085,Medicare,English,Never,Moderate,401,Retired
+402,Danette,Pinwell,11/16/2012,Male,Black or African American,Hispanic or Latino,48076,Dual-Eligible,English,Never,Moderate,402,Retired
+403,Melania,Purrier,4/14/1931,Female,White,Not Hispanic or Latino,48076,Commercial,Mandarin,Former,Moderate,403,Retired
+404,Lyell,Boddy,12/16/1939,Female,American Indian,Not Hispanic or Latino,48083,Commercial,English,Current,None,404,Employed
+405,Cinda,Treasure,12/7/1969,Male,American Indian,Not Hispanic or Latino,48301,Medicare,English,Never,None,405,Unemployed
+406,Willem,Bringloe,12/28/2023,Male,American Indian,Not Hispanic or Latino,48301,Medicare,English,Never,Moderate,406,Employed
+407,Pierson,Shackelton,7/24/1968,Female,White,Not Hispanic or Latino,48326,Medicare,English,Never,None,407,Retired
+408,Ingrid,Kaufman,1/3/1971,Female,American Indian,Not Hispanic or Latino,48326,Commercial,English,Current,Moderate,408,Unemployed
+409,Augusto,Poag,10/18/1961,Non-Binary,Black or African American,Not Hispanic or Latino,48083,Medicare,English,Former,Moderate,409,Disabled
+410,Arvy,O'Loghlen,7/28/2019,Male,White,Not Hispanic or Latino,48083,Medicare,Hindi,Former,Moderate,410,Unemployed
+411,Aretha,Maytom,6/23/2010,Female,White,Not Hispanic or Latino,48034,Commercial,English,Never,Moderate,411,Retired
+412,Barrie,Gerauld,6/7/2012,Female,White,Not Hispanic or Latino,48326,Dual-Eligible,English,Former,None,412,Unemployed
+413,Norene,State,7/5/1947,Non-Binary,White,Not Hispanic or Latino,48301,Medicare,English,Never,None,413,Employed
+414,Myer,Torre,4/26/1989,Non-Binary,White,Not Hispanic or Latino,48326,Commercial,Mandarin,Never,Moderate,414,Employed
+415,Krissie,Cardus,7/6/1947,Female,Black or African American,Not Hispanic or Latino,48034,Commercial,English,Never,Heavy,415,Employed
+416,Cristobal,Heinig,6/28/1976,Non-Binary,Black or African American,Not Hispanic or Latino,48098,Medicare,English,Never,Heavy,416,Unemployed
+417,Tan,McCathay,5/24/2023,Female,Black or African American,Not Hispanic or Latino,48009,Commercial,Hindi,Former,None,417,Unemployed
+418,Dud,Kowalik,9/4/2016,Female,Black or African American,Hispanic or Latino,48301,Medicaid,English,Former,None,418,Disabled
+419,Velvet,Adel,7/22/1979,Male,Black or African American,Not Hispanic or Latino,48326,Medicaid,English,Former,None,419,Retired
+420,Genni,Butland,1/6/2018,Female,White,Not Hispanic or Latino,48034,Medicare,Spanish,Former,None,420,Employed
+421,Evanne,Rillatt,6/6/1947,Male,Asian,Not Hispanic or Latino,48076,Commercial,English,Never,None,421,Unemployed
+422,Sindee,Devorill,5/15/1962,Female,White,Not Hispanic or Latino,48009,Commercial,English,Never,None,422,Retired
+423,Hogan,Milhench,1/15/2018,Female,Other,Hispanic or Latino,48083,Medicaid,Hindi,Never,None,423,Employed
+424,Monty,Hugonnet,11/7/1957,Male,American Indian,Not Hispanic or Latino,48083,Commercial,English,Former,Moderate,424,Employed
+425,Lenka,Reen,5/1/1985,Female,Black or African American,Not Hispanic or Latino,48326,Medicare,Hindi,Former,None,425,Retired
+426,Grady,Worling,9/26/1965,Male,White,Not Hispanic or Latino,48034,Medicare,Spanish,Never,None,426,Retired
+427,Irma,Prys,6/29/1999,Female,White,Not Hispanic or Latino,48009,Commercial,English,Never,Moderate,427,Retired
+428,Clarinda,Talby,5/19/2007,Non-Binary,White,Not Hispanic or Latino,48034,Uninsured,English,Never,Moderate,428,Unemployed
+429,Marrilee,Housam,9/10/1995,Female,White,Not Hispanic or Latino,48301,Medicaid,Mandarin,Former,None,429,Retired
+430,Juana,Klais,5/23/1949,Male,Black or African American,Hispanic or Latino,48085,Commercial,English,Never,Moderate,430,Retired
+431,Saidee,Burril,8/19/1949,Male,White,Not Hispanic or Latino,48067,Medicaid,English,Never,Moderate,431,Employed
+432,Doll,Scotting,9/21/1938,Male,Asian,Hispanic or Latino,48067,Uninsured,English,Never,None,432,Unemployed
+433,Norrie,McBride,1/10/1945,Male,White,Hispanic or Latino,48326,Medicare,Tagalog,Never,None,433,Unemployed
+434,Aylmer,Boleyn,1/8/2006,Male,White,Not Hispanic or Latino,48009,Medicare,Spanish,Current,None,434,Employed
+435,Jesse,Corington,7/15/1961,Female,Black or African American,Hispanic or Latino,48076,Medicare,Tagalog,Never,Moderate,435,Unemployed
+436,Prinz,Peasegood,1/8/1936,Male,White,Not Hispanic or Latino,48009,Medicare,Spanish,Never,None,436,Unemployed
+437,Jerrome,Roscher,6/12/1962,Female,Black or African American,Not Hispanic or Latino,48076,Medicare,English,Current,Moderate,437,Unemployed
+438,Sascha,Culpen,2/9/1982,Male,American Indian,Not Hispanic or Latino,48067,Commercial,English,Former,Heavy,438,Retired
+439,Nananne,BoHlingolsen,6/2/1940,Non-Binary,Black or African American,Not Hispanic or Latino,48034,Dual-Eligible,Hindi,Current,Moderate,439,Employed
+440,Yolane,Waskett,4/23/1938,Male,Black or African American,Not Hispanic or Latino,48301,Dual-Eligible,Hindi,Current,Heavy,440,Retired
+441,Norah,Cornils,6/9/2004,Female,Black or African American,Hispanic or Latino,48085,Uninsured,Spanish,Never,None,441,Retired
+442,Nial,Ryman,9/11/1937,Male,White,Not Hispanic or Latino,48076,Commercial,Other,Never,Moderate,442,Unemployed
+443,Donny,Flett,1/16/1987,Non-Binary,White,Hispanic or Latino,48076,Dual-Eligible,Spanish,Never,Heavy,443,Retired
+444,Cull,Hassett,11/13/1946,Male,White,Not Hispanic or Latino,48085,Commercial,English,Former,None,444,Retired
+445,Pennie,Hallad,2/15/1992,Male,White,Not Hispanic or Latino,48085,Commercial,English,Current,Heavy,445,Employed
+446,Galven,Pincott,12/22/2004,Male,American Indian,Not Hispanic or Latino,48076,Commercial,English,Never,None,446,Retired
+447,Annamarie,Flaonier,2/3/1965,Male,Other,Not Hispanic or Latino,48076,Commercial,English,Never,Moderate,447,Unemployed
+448,Stavro,Seiler,4/24/1949,Female,American Indian,Not Hispanic or Latino,48084,Commercial,Spanish,Former,Heavy,448,Unemployed
+449,Karry,Leist,2/28/1955,Female,Other,Not Hispanic or Latino,48009,Medicare,English,Current,None,449,Employed
+450,Ludwig,Mathews,1/4/1957,Male,American Indian,Hispanic or Latino,48326,Uninsured,English,Current,None,450,Retired
+451,Sherri,Lukovic,12/15/1965,Female,White,Not Hispanic or Latino,48076,Medicare,English,Former,None,451,Unemployed
+452,Yanaton,Dreschler,3/28/1973,Female,Black or African American,Not Hispanic or Latino,48084,Medicare,English,Never,Heavy,452,Employed
+453,Lona,Benit,12/30/1999,Male,Black or African American,Not Hispanic or Latino,48084,Medicare,English,Former,Moderate,453,Retired
+454,Dorie,Readshall,12/11/1952,Male,Asian,Hispanic or Latino,48083,Medicare,Spanish,Current,None,454,Retired
+455,Dyanna,Trammel,12/1/1935,Male,Asian,Not Hispanic or Latino,48301,Commercial,English,Never,Moderate,455,Retired
+456,Riccardo,Pither,12/3/2021,Female,American Indian,Not Hispanic or Latino,48076,Uninsured,English,Former,None,456,Retired
+457,Katharyn,Goldney,9/21/1973,Male,White,Not Hispanic or Latino,48034,Commercial,English,Current,None,457,Employed
+458,Aleksandr,Zorzin,10/27/1972,Female,White,Not Hispanic or Latino,48083,Medicare,Mandarin,Never,None,458,Unemployed
+459,Roderich,Skillicorn,12/6/1955,Male,American Indian,Hispanic or Latino,48085,Commercial,Mandarin,Former,None,459,Employed
+460,Thorin,Jeaneau,6/2/2021,Male,White,Hispanic or Latino,48301,Commercial,English,Never,Moderate,460,Disabled
+461,Vonnie,Branson,10/30/2020,Female,White,Not Hispanic or Latino,48085,Medicare,English,Never,None,461,Unemployed
+462,Lela,Guerriero,5/26/1978,Female,American Indian,Not Hispanic or Latino,48009,Medicaid,English,Never,None,462,Retired
+463,Bethina,Boshers,6/27/2010,Male,Black or African American,Hispanic or Latino,48076,Medicaid,Spanish,Never,Moderate,463,Employed
+464,Chev,Hooke,7/4/1989,Non-Binary,White,Not Hispanic or Latino,48067,Dual-Eligible,English,Never,None,464,Retired
+465,Carrol,Repper,10/29/2022,Male,American Indian,Not Hispanic or Latino,48009,Commercial,English,Never,None,465,Employed
+466,Nedi,Grigoroni,10/26/1959,Female,American Indian,Hispanic or Latino,48067,Dual-Eligible,English,Former,None,466,Employed
+467,Susana,Gutch,10/11/1948,Female,Asian,Hispanic or Latino,48076,Commercial,Hindi,Never,None,467,Unemployed
+468,Lonnie,Pickersail,4/9/1953,Female,White,Not Hispanic or Latino,48076,Commercial,English,Current,None,468,Disabled
+469,Berny,Sprankling,9/14/1986,Female,Black or African American,Not Hispanic or Latino,48067,Dual-Eligible,Hindi,Former,Moderate,469,Retired
+470,Lemuel,Spendley,5/6/2007,Non-Binary,White,Not Hispanic or Latino,48009,Medicare,English,Never,Heavy,470,Retired
+471,Solly,Vignal,5/11/1975,Male,Other,Not Hispanic or Latino,48067,Medicaid,English,Former,None,471,Retired
+472,Becca,Ortells,5/7/1968,Male,White,Not Hispanic or Latino,48076,Medicare,Tagalog,Former,None,472,Employed
+473,Emmalynne,Arnholz,4/13/2016,Non-Binary,Other,Not Hispanic or Latino,48009,Medicaid,English,Current,None,473,Employed
+474,Aggi,Katz,4/6/1959,Female,American Indian,Not Hispanic or Latino,48034,Commercial,Other,Former,Moderate,474,Retired
+475,Sloane,McGilvray,7/11/1952,Female,Black or African American,Not Hispanic or Latino,48083,Uninsured,English,Never,Heavy,475,Retired
+476,Tanhya,Ainsley,2/8/1968,Male,White,Not Hispanic or Latino,48083,Medicare,English,Never,None,476,Employed
+477,Caryn,Roughan,3/7/2012,Non-Binary,White,Not Hispanic or Latino,48085,Commercial,Tagalog,Current,Moderate,477,Employed
+478,Ramon,Terney,12/6/1966,Female,American Indian,Hispanic or Latino,48084,Medicare,English,Former,None,478,Employed
+479,Aeriel,Delong,4/7/1970,Male,White,Not Hispanic or Latino,48083,Medicare,Spanish,Never,Moderate,479,Unemployed
+480,Jana,Windsor,9/2/1940,Female,Black or African American,Hispanic or Latino,48076,Commercial,Other,Former,Heavy,480,Retired
+481,Chariot,Fitch,6/1/1945,Female,White,Not Hispanic or Latino,48083,Commercial,English,Former,Moderate,481,Disabled
+482,Pryce,Jakubovicz,6/17/1989,Female,Black or African American,Not Hispanic or Latino,48034,Dual-Eligible,Spanish,Former,Moderate,482,Unemployed
+483,Mil,Cayley,2/2/1960,Female,Other,Not Hispanic or Latino,48326,Medicare,English,Never,Moderate,483,Disabled
+484,Mose,Stainton,12/12/1945,Male,Other,Hispanic or Latino,48085,Medicare,English,Never,None,484,Employed
+485,Bo,Tythacott,3/29/1946,Female,Black or African American,Not Hispanic or Latino,48076,Medicaid,English,Never,None,485,Unemployed
+486,Wendie,Stuckford,6/27/1933,Non-Binary,White,Not Hispanic or Latino,48009,Medicare,Tagalog,Never,Moderate,486,Employed
+487,Ernestine,Starten,8/3/1950,Male,American Indian,Hispanic or Latino,48098,Medicare,Hindi,Current,Heavy,487,Employed
+488,Carly,Keijser,4/7/1939,Female,White,Not Hispanic or Latino,48085,Dual-Eligible,Tagalog,Never,None,488,Employed
+489,Josselyn,Davioud,9/20/1984,Male,White,Hispanic or Latino,48098,Commercial,English,Former,Heavy,489,Employed
+490,Camella,Sikorski,8/24/1964,Male,White,Not Hispanic or Latino,48301,Dual-Eligible,English,Never,None,490,Employed
+491,Saraann,Stoll,6/21/1972,Male,White,Hispanic or Latino,48076,Commercial,English,Current,Heavy,491,Employed
+492,Nickolai,Jouandet,8/23/1957,Male,White,Not Hispanic or Latino,48076,Medicaid,English,Former,Moderate,492,Disabled
+493,Lissy,Poure,11/11/1986,Female,Asian,Hispanic or Latino,48067,Medicaid,Hindi,Former,Moderate,493,Employed
+494,Eddie,Durbridge,12/12/1993,Non-Binary,White,Not Hispanic or Latino,48085,Commercial,English,Never,Moderate,494,Employed
+495,Min,Peealess,3/27/1978,Female,White,Not Hispanic or Latino,48098,Commercial,Mandarin,Never,None,495,Employed
+496,Otto,Whatham,10/12/1998,Male,White,Not Hispanic or Latino,48009,Commercial,English,Never,None,496,Employed
+497,Danielle,Pyvis,12/31/1989,Male,White,Not Hispanic or Latino,48301,Medicare,English,Current,Moderate,497,Employed
+498,Thornton,Padbury,5/25/1980,Male,White,Not Hispanic or Latino,48301,Uninsured,Spanish,Current,Moderate,498,Employed
+499,Dunc,Eaden,5/26/1934,Non-Binary,American Indian,Not Hispanic or Latino,48085,Commercial,English,Never,Moderate,499,Retired
+500,Shaine,Sperling,8/22/1967,Female,White,Not Hispanic or Latino,48034,Medicare,English,Never,None,500,Employed
+501,Pearle,Grout,12/23/1998,Female,Other,Not Hispanic or Latino,48083,Commercial,Mandarin,Never,None,501,Employed
+502,Kaiser,Udale,4/16/1956,Male,White,Not Hispanic or Latino,48085,Dual-Eligible,English,Never,Moderate,502,Employed
+503,Ceil,Lawes,2/11/1962,Male,White,Not Hispanic or Latino,48009,Dual-Eligible,Tagalog,Never,None,503,Retired
+504,Jude,Jeannesson,8/28/2013,Female,Black or African American,Not Hispanic or Latino,48326,Medicaid,English,Current,None,504,Retired
+505,Jamie,Flack,3/14/2010,Female,Asian,Not Hispanic or Latino,48083,Uninsured,English,Former,Moderate,505,Disabled
+506,Marisa,Forsdicke,7/21/1961,Non-Binary,White,Not Hispanic or Latino,48084,Commercial,Spanish,Never,None,506,Retired
+507,Camille,Codron,9/9/1948,Female,Black or African American,Not Hispanic or Latino,48067,Commercial,Spanish,Current,None,507,Disabled
+508,Heida,Cawthorn,10/1/2018,Male,Asian,Hispanic or Latino,48085,Commercial,English,Current,None,508,Disabled
+509,Ollie,Litzmann,5/8/1936,Male,Black or African American,Hispanic or Latino,48098,Commercial,English,Former,Heavy,509,Employed
+510,Fons,Ismay,4/9/1981,Male,American Indian,Not Hispanic or Latino,48009,Uninsured,Other,Current,Moderate,510,Employed
+511,Emogene,Kingh,1/4/2006,Male,Black or African American,Not Hispanic or Latino,48301,Medicaid,English,Former,None,511,Employed
+512,Falito,Kondratenya,12/20/1978,Female,White,Not Hispanic or Latino,48084,Medicare,English,Former,None,512,Retired
+513,Maurice,Garatty,12/5/1993,Male,Black or African American,Not Hispanic or Latino,48084,Medicaid,Tagalog,Never,Moderate,513,Employed
+514,Dylan,Levin,4/12/1986,Male,Black or African American,Not Hispanic or Latino,48076,Medicare,Spanish,Never,None,514,Retired
+515,Neila,Bouzan,1/10/1985,Female,American Indian,Not Hispanic or Latino,48034,Uninsured,Spanish,Never,Moderate,515,Retired
+516,Kenyon,Petegre,12/30/1995,Female,American Indian,Not Hispanic or Latino,48301,Commercial,English,Current,None,516,Retired
+517,Hestia,Renbold,7/20/1955,Female,White,Not Hispanic or Latino,48084,Commercial,English,Never,Heavy,517,Employed
+518,Alejandro,Khalid,9/25/2008,Female,White,Hispanic or Latino,48085,Uninsured,Spanish,Former,Moderate,518,Unemployed
+519,Andree,Crohan,8/25/2012,Female,White,Hispanic or Latino,48085,Medicare,Spanish,Never,Moderate,519,Unemployed
+520,Ellis,Sambidge,2/11/1934,Male,White,Not Hispanic or Latino,48084,Medicare,Spanish,Former,Moderate,520,Employed
+521,Luigi,Bamfield,10/27/1976,Female,Black or African American,Not Hispanic or Latino,48067,Medicare,English,Former,None,521,Employed
+522,Victoria,Gorgler,6/15/2009,Male,American Indian,Not Hispanic or Latino,48067,Medicare,English,Never,None,522,Unemployed
+523,Rozele,Pretsell,9/23/1987,Female,Other,Not Hispanic or Latino,48034,Medicare,Spanish,Current,Moderate,523,Retired
+524,Shandeigh,Corson,4/13/2020,Female,White,Not Hispanic or Latino,48084,Medicare,English,Never,Moderate,524,Employed
+525,Imelda,Hillatt,3/27/2013,Female,Other,Not Hispanic or Latino,48301,Commercial,Mandarin,Never,Heavy,525,Employed
+526,Kirbee,Gillimgham,1/7/1952,Female,White,Hispanic or Latino,48301,Medicare,English,Former,Heavy,526,Employed
+527,Bertrando,Eldridge,10/10/1952,Non-Binary,White,Hispanic or Latino,48098,Uninsured,English,Current,None,527,Disabled
+528,Sybila,Deluze,4/16/1990,Non-Binary,Black or African American,Not Hispanic or Latino,48301,Medicare,English,Current,None,528,Retired
+529,Jorgan,Brislen,6/18/1935,Male,White,Not Hispanic or Latino,48034,Medicare,Mandarin,Current,None,529,Employed
+530,Marcile,Stonard,3/7/2026,Male,White,Not Hispanic or Latino,48085,Uninsured,English,Former,Moderate,530,Employed
+531,Hazel,Rains,1/9/1931,Male,Black or African American,Not Hispanic or Latino,48067,Uninsured,English,Never,None,531,Retired
+532,Juliette,Purvess,12/23/1965,Male,Black or African American,Not Hispanic or Latino,48076,Uninsured,Spanish,Never,None,532,Disabled
+533,Hayden,Cabrales,1/3/1945,Male,Black or African American,Hispanic or Latino,48076,Commercial,Spanish,Never,None,533,Disabled
+534,Beth,Castan,4/20/1941,Female,White,Not Hispanic or Latino,48085,Dual-Eligible,English,Former,None,534,Retired
+535,Juliana,Bakewell,7/7/1953,Non-Binary,American Indian,Not Hispanic or Latino,48067,Medicare,English,Former,Heavy,535,Employed
+536,Holly,Braddick,11/21/1968,Female,White,Hispanic or Latino,48301,Uninsured,English,Former,Moderate,536,Retired
+537,Chauncey,Bangham,8/6/1976,Female,Black or African American,Not Hispanic or Latino,48067,Commercial,Hindi,Former,Heavy,537,Retired
+538,Yancey,Condell,7/9/1934,Female,American Indian,Not Hispanic or Latino,48098,Commercial,Spanish,Former,Heavy,538,Retired
+539,Bryant,Leese,5/24/1961,Female,White,Not Hispanic or Latino,48085,Medicaid,Spanish,Former,Moderate,539,Employed
+540,Bastian,Couche,2/2/2017,Female,Black or African American,Not Hispanic or Latino,48067,Commercial,Other,Never,None,540,Employed
+541,Lilli,Deny,9/27/1943,Male,Black or African American,Not Hispanic or Latino,48009,Medicaid,English,Former,None,541,Retired
+542,Carmon,Kleinstub,4/27/1950,Non-Binary,Black or African American,Hispanic or Latino,48009,Medicare,English,Never,Moderate,542,Retired
+543,Karon,Dymick,12/13/1982,Non-Binary,Black or African American,Not Hispanic or Latino,48085,Medicare,English,Never,Moderate,543,Unemployed
+544,Barnett,Littlejohns,7/20/1992,Male,Asian,Not Hispanic or Latino,48009,Dual-Eligible,English,Former,None,544,Unemployed
+545,Guillema,Buckmaster,10/26/1932,Female,White,Hispanic or Latino,48301,Medicare,Other,Former,Moderate,545,Retired
+546,Ardeen,Dane,7/24/2021,Female,Other,Not Hispanic or Latino,48301,Medicare,Spanish,Former,None,546,Employed
+547,Marjy,Krink,10/18/1993,Male,White,Not Hispanic or Latino,48301,Dual-Eligible,Mandarin,Former,None,547,Employed
+548,Almeta,Bartaloni,12/14/2021,Female,White,Not Hispanic or Latino,48301,Medicare,Mandarin,Former,None,548,Retired
+549,Dario,Joerning,8/7/1936,Male,American Indian,Not Hispanic or Latino,48076,Medicaid,Spanish,Current,Moderate,549,Retired
+550,Cirstoforo,Odam,2/13/2000,Male,Other,Not Hispanic or Latino,48009,Medicare,English,Never,None,550,Employed
+551,Marillin,Crevy,12/20/1996,Female,White,Not Hispanic or Latino,48083,Commercial,English,Never,Heavy,551,Unemployed
+552,Caron,Beglin,9/13/1994,Male,White,Not Hispanic or Latino,48326,Medicare,English,Never,Moderate,552,Retired
+553,Philip,Hassey,1/4/1978,Male,White,Not Hispanic or Latino,48034,Uninsured,Hindi,Never,Moderate,553,Employed
+554,Berna,Whinray,8/21/1979,Male,Black or African American,Not Hispanic or Latino,48098,Medicare,English,Current,None,554,Retired
+555,Kristel,Laux,7/5/2014,Non-Binary,Black or African American,Not Hispanic or Latino,48085,Uninsured,English,Never,Moderate,555,Unemployed
+556,Adelaide,Crowdson,5/28/1973,Female,Other,Hispanic or Latino,48301,Medicare,Mandarin,Never,None,556,Retired
+557,Sandro,Cutmere,8/1/1955,Male,White,Not Hispanic or Latino,48034,Medicare,English,Never,Moderate,557,Employed
+558,Nathalia,Whitman,9/17/1996,Female,White,Not Hispanic or Latino,48034,Commercial,English,Current,None,558,Unemployed
+559,Joelle,Merrgen,1/30/2011,Male,White,Not Hispanic or Latino,48009,Uninsured,English,Former,None,559,Unemployed
+560,Kevyn,Latty,10/29/1972,Female,Other,Not Hispanic or Latino,48326,Dual-Eligible,English,Never,Moderate,560,Unemployed
+561,Merrick,Girdler,3/25/1947,Male,Asian,Not Hispanic or Latino,48301,Medicare,English,Current,None,561,Retired
+562,Lizzy,Jina,2/27/1932,Female,Asian,Not Hispanic or Latino,48085,Commercial,Tagalog,Never,Moderate,562,Retired
+563,Cortie,Chilvers,1/22/2014,Female,Black or African American,Not Hispanic or Latino,48098,Medicare,Other,Never,Moderate,563,Employed
+564,Sheelah,Blenkinsopp,5/9/2010,Female,Asian,Not Hispanic or Latino,48326,Commercial,Hindi,Former,Moderate,564,Unemployed
+565,Redd,Ashment,1/4/1950,Female,Black or African American,Not Hispanic or Latino,48326,Medicare,English,Former,Moderate,565,Unemployed
+566,Oby,Hanshawe,10/24/1950,Non-Binary,White,Not Hispanic or Latino,48009,Commercial,Other,Never,None,566,Retired
+567,Kathi,McKirton,3/24/1975,Male,White,Not Hispanic or Latino,48085,Dual-Eligible,English,Former,Moderate,567,Disabled
+568,Stephanie,Hawksley,1/8/2002,Male,White,Not Hispanic or Latino,48085,Uninsured,English,Never,Moderate,568,Retired
+569,Quentin,Mayte,1/17/2025,Male,Black or African American,Not Hispanic or Latino,48098,Commercial,English,Never,None,569,Unemployed
+570,Edvard,Filler,7/26/1983,Female,White,Not Hispanic or Latino,48085,Medicare,Mandarin,Former,None,570,Employed
+571,Renault,Fipp,12/27/1940,Male,American Indian,Not Hispanic or Latino,48009,Medicaid,Tagalog,Former,Moderate,571,Employed
+572,Conni,Frift,12/14/1979,Female,White,Hispanic or Latino,48083,Medicare,English,Current,Moderate,572,Retired
+573,Matelda,Lardge,2/9/1974,Female,White,Not Hispanic or Latino,48098,Medicaid,Spanish,Former,Moderate,573,Retired
+574,Francine,Boshell,11/15/1970,Non-Binary,White,Not Hispanic or Latino,48009,Dual-Eligible,English,Never,Heavy,574,Retired
+575,Cristal,Pote,1/3/1950,Female,White,Not Hispanic or Latino,48083,Commercial,Spanish,Former,Moderate,575,Unemployed
+576,Kendra,Ponder,6/17/1974,Female,White,Hispanic or Latino,48085,Commercial,English,Never,Heavy,576,Unemployed
+577,Abel,Valens-Smith,5/15/2012,Female,Black or African American,Not Hispanic or Latino,48326,Medicaid,Hindi,Former,Moderate,577,Retired
+578,Aaron,Siebart,11/19/1997,Male,American Indian,Not Hispanic or Latino,48301,Medicare,Mandarin,Never,Moderate,578,Unemployed
+579,Katee,Mimmack,5/23/2019,Female,White,Not Hispanic or Latino,48301,Medicare,English,Never,Heavy,579,Disabled
+580,Robert,Warre,5/12/2005,Male,American Indian,Not Hispanic or Latino,48326,Medicare,Tagalog,Never,Moderate,580,Unemployed
+581,Leigh,Wyke,12/17/1957,Non-Binary,White,Not Hispanic or Latino,48067,Medicaid,English,Current,None,581,Retired
+582,Archy,Townes,6/12/1996,Male,Black or African American,Not Hispanic or Latino,48067,Commercial,English,Never,None,582,Disabled
+583,Dianne,Deny,10/12/1946,Male,White,Not Hispanic or Latino,48098,Medicare,English,Current,Moderate,583,Unemployed
+584,Tiler,Sexten,8/21/1971,Male,White,Not Hispanic or Latino,48098,Commercial,English,Former,Moderate,584,Employed
+585,Shannan,Marshland,11/27/1944,Female,Asian,Hispanic or Latino,48009,Medicare,English,Current,None,585,Retired
+586,Cameron,Oswald,11/25/2009,Female,White,Not Hispanic or Latino,48098,Commercial,English,Never,Moderate,586,Employed
+587,Tarrance,Treadgold,2/19/1997,Male,White,Not Hispanic or Latino,48301,Medicare,English,Never,Moderate,587,Disabled
+588,Oralee,Jamot,2/1/2011,Female,White,Not Hispanic or Latino,48085,Medicare,Spanish,Current,None,588,Employed
+589,Krysta,Zieme,9/16/1972,Male,Black or African American,Not Hispanic or Latino,48085,Medicare,Spanish,Never,Moderate,589,Retired
+590,Rancell,Pye,5/23/1970,Female,White,Hispanic or Latino,48034,Medicare,Spanish,Current,None,590,Retired
+591,Bonita,Horlock,3/13/1933,Male,White,Not Hispanic or Latino,48085,Commercial,English,Never,None,591,Employed
+592,Barn,Wisdish,2/24/2008,Female,American Indian,Not Hispanic or Latino,48067,Uninsured,English,Never,None,592,Employed
+593,Matthaeus,Endle,7/3/1948,Male,Black or African American,Not Hispanic or Latino,48098,Medicaid,English,Never,Moderate,593,Retired
+594,Allie,Ollier,3/24/1997,Male,American Indian,Not Hispanic or Latino,48009,Medicare,Hindi,Former,None,594,Employed
+595,Fabiano,Sparrowhawk,7/11/2021,Male,Black or African American,Hispanic or Latino,48098,Medicare,Mandarin,Never,None,595,Employed
+596,Caitlin,Minker,5/25/1969,Female,Black or African American,Not Hispanic or Latino,48009,Medicaid,Hindi,Former,None,596,Disabled
+597,Meridel,Hirtz,7/25/2001,Female,Black or African American,Not Hispanic or Latino,48067,Commercial,English,Current,None,597,Retired
+598,Dyana,Longmore,2/21/1978,Female,Black or African American,Not Hispanic or Latino,48326,Uninsured,English,Never,Heavy,598,Employed
+599,Burty,Tivnan,8/13/1977,Male,American Indian,Not Hispanic or Latino,48009,Commercial,Spanish,Former,Moderate,599,Employed
+600,Ade,Oller,11/10/1997,Male,Black or African American,Not Hispanic or Latino,48009,Uninsured,Spanish,Former,None,600,Employed
+601,Stern,Collop,9/17/1983,Female,American Indian,Not Hispanic or Latino,48084,Medicare,Mandarin,Former,Moderate,601,Retired
+602,Celinda,Stonard,9/10/1954,Male,White,Not Hispanic or Latino,48098,Uninsured,English,Never,Heavy,602,Employed
+603,Sean,Storah,6/18/1970,Female,Black or African American,Not Hispanic or Latino,48034,Commercial,English,Current,Moderate,603,Employed
+604,Emeline,Bullen,4/26/2022,Male,White,Hispanic or Latino,48301,Dual-Eligible,English,Never,Moderate,604,Unemployed
+605,Dolores,Colrein,10/26/1972,Female,Other,Not Hispanic or Latino,48076,Medicare,English,Current,Heavy,605,Retired
+606,Erika,Dicky,5/4/1992,Female,White,Not Hispanic or Latino,48098,Uninsured,Other,Current,None,606,Employed
+607,Ranee,Punyer,1/12/1975,Male,Black or African American,Not Hispanic or Latino,48067,Dual-Eligible,Mandarin,Former,None,607,Disabled
+608,Elia,Aland,11/9/1984,Female,Other,Not Hispanic or Latino,48076,Commercial,Hindi,Current,Moderate,608,Retired
+609,Aldrich,Abele,9/14/1993,Female,White,Not Hispanic or Latino,48076,Commercial,English,Never,None,609,Employed
+610,Dev,Dodgshun,5/10/1948,Male,Other,Not Hispanic or Latino,48085,Medicaid,English,Former,None,610,Unemployed
+611,Jessa,Eefting,6/2/1944,Male,Asian,Not Hispanic or Latino,48067,Medicare,English,Never,None,611,Unemployed
+612,Larry,Karlsen,8/28/1962,Non-Binary,White,Not Hispanic or Latino,48326,Commercial,Hindi,Never,Moderate,612,Employed
+613,Sharron,Horley,12/26/2000,Female,Black or African American,Not Hispanic or Latino,48009,Dual-Eligible,Mandarin,Current,Moderate,613,Retired
+614,Connor,Enrietto,5/28/1995,Female,White,Not Hispanic or Latino,48301,Medicaid,English,Never,Moderate,614,Employed
+615,Winn,Swinyard,11/12/1986,Female,Asian,Not Hispanic or Latino,48009,Commercial,Tagalog,Former,Moderate,615,Unemployed
+616,Rowan,Pickover,11/24/2019,Female,Black or African American,Not Hispanic or Latino,48083,Medicare,Tagalog,Current,None,616,Unemployed
+617,Ainslee,Poller,1/12/1975,Female,White,Not Hispanic or Latino,48034,Medicare,English,Current,Heavy,617,Retired
+618,Eugenius,Smitton,8/30/1980,Male,Other,Not Hispanic or Latino,48326,Medicaid,Tagalog,Never,None,618,Disabled
+619,Cathe,Cornilli,3/3/2008,Female,White,Not Hispanic or Latino,48009,Commercial,Hindi,Never,None,619,Unemployed
+620,Karlotta,Shellshear,8/11/2017,Female,White,Hispanic or Latino,48009,Dual-Eligible,English,Never,None,620,Retired
+621,Nikoletta,Clawe,9/28/2025,Female,White,Not Hispanic or Latino,48009,Medicare,English,Never,None,621,Disabled
+622,Delilah,Rossey,6/19/1964,Male,Black or African American,Not Hispanic or Latino,48076,Dual-Eligible,English,Never,Moderate,622,Employed
+623,Chastity,Varvell,7/10/2010,Male,Other,Not Hispanic or Latino,48098,Medicare,English,Never,None,623,Employed
+624,Millisent,Breming,3/5/2017,Male,White,Not Hispanic or Latino,48067,Medicare,Mandarin,Former,Moderate,624,Employed
+625,Nealon,Houseman,1/27/2002,Female,American Indian,Not Hispanic or Latino,48301,Uninsured,English,Never,None,625,Unemployed
+626,Kirsti,Wimbridge,4/16/1990,Female,Asian,Not Hispanic or Latino,48326,Commercial,Tagalog,Never,Moderate,626,Disabled
+627,Guthrie,Saunper,9/26/2016,Female,Asian,Not Hispanic or Latino,48084,Medicare,English,Former,Moderate,627,Employed
+628,Reggi,Dowbakin,5/30/2024,Non-Binary,White,Not Hispanic or Latino,48301,Medicare,Hindi,Current,Moderate,628,Retired
+629,Gunner,de Copeman,11/1/2019,Non-Binary,White,Hispanic or Latino,48009,Commercial,Mandarin,Former,None,629,Employed
+630,Phip,Gladdor,8/2/1994,Male,White,Not Hispanic or Latino,48326,Medicaid,English,Current,Moderate,630,Unemployed
+631,Millie,Sugarman,10/22/2019,Female,American Indian,Not Hispanic or Latino,48083,Commercial,English,Former,None,631,Employed
+632,Bearnard,Cockshott,11/23/1954,Female,White,Not Hispanic or Latino,48009,Commercial,English,Former,None,632,Retired
+633,Grant,Baumer,7/18/2008,Female,White,Not Hispanic or Latino,48085,Medicare,Other,Former,Moderate,633,Employed
+634,Adoree,Matous,1/4/1954,Female,Black or African American,Not Hispanic or Latino,48067,Commercial,Tagalog,Never,None,634,Unemployed
+635,Gilbert,Hellyer,10/14/1970,Non-Binary,White,Not Hispanic or Latino,48067,Dual-Eligible,English,Former,Moderate,635,Disabled
+636,Greer,Berthod,6/19/1951,Female,White,Not Hispanic or Latino,48009,Commercial,English,Current,Heavy,636,Retired
+637,Berke,Hansman,8/3/2014,Male,Other,Not Hispanic or Latino,48009,Uninsured,English,Never,Moderate,637,Retired
+638,Cordi,Avrahamof,7/2/1973,Male,Other,Not Hispanic or Latino,48076,Medicare,Mandarin,Former,None,638,Employed
+639,Sallyanne,Bellas,9/5/1980,Female,White,Not Hispanic or Latino,48076,Uninsured,English,Former,Moderate,639,Employed
+640,Mattheus,Casebourne,11/16/1970,Male,White,Not Hispanic or Latino,48098,Medicaid,Hindi,Never,Heavy,640,Employed
+641,Gelya,Dendle,4/7/1953,Male,Black or African American,Not Hispanic or Latino,48034,Uninsured,Spanish,Former,None,641,Retired
+642,Wes,Boick,1/21/1999,Male,Asian,Not Hispanic or Latino,48034,Medicare,Tagalog,Never,None,642,Retired
+643,Bethanne,Laxtonne,6/23/1974,Male,White,Not Hispanic or Latino,48083,Medicare,Tagalog,Never,Moderate,643,Retired
+644,Marrissa,Dellenty,7/31/1969,Female,Black or African American,Not Hispanic or Latino,48326,Medicaid,English,Never,None,644,Disabled
+645,Esteban,Rampling,11/30/1955,Male,Asian,Not Hispanic or Latino,48084,Medicare,English,Current,Moderate,645,Retired
+646,Lay,Scargill,2/10/1952,Female,White,Not Hispanic or Latino,48067,Commercial,English,Former,None,646,Employed
+647,Ryon,Veck,2/26/2006,Non-Binary,White,Not Hispanic or Latino,48326,Medicare,English,Never,None,647,Employed
+648,Kinny,Tibbetts,12/22/1998,Female,Other,Not Hispanic or Latino,48084,Commercial,Spanish,Never,Heavy,648,Employed
+649,Brad,Adamovitch,4/29/1938,Female,Asian,Not Hispanic or Latino,48034,Medicare,Tagalog,Never,Heavy,649,Employed
+650,Kimbell,Armand,8/28/1991,Male,White,Not Hispanic or Latino,48076,Commercial,Mandarin,Former,Moderate,650,Employed
+651,Ianthe,Snow,4/22/2004,Female,White,Hispanic or Latino,48034,Commercial,English,Current,None,651,Employed
+652,Morley,Padberry,11/11/2009,Female,White,Hispanic or Latino,48084,Medicare,Spanish,Current,Heavy,652,Employed
+653,Nicol,Foyston,12/17/1943,Female,White,Not Hispanic or Latino,48067,Medicare,English,Never,None,653,Retired
+654,Kasper,Graddell,10/6/1993,Male,Other,Not Hispanic or Latino,48085,Medicare,Spanish,Former,Moderate,654,Retired
+655,Freddy,Bavidge,2/22/1997,Male,Black or African American,Hispanic or Latino,48326,Uninsured,English,Never,Heavy,655,Retired
+656,Murial,Chiommienti,5/21/1963,Male,White,Hispanic or Latino,48076,Medicaid,English,Former,Moderate,656,Unemployed
+657,Egan,Kirkman,12/16/1993,Male,American Indian,Hispanic or Latino,48301,Dual-Eligible,Other,Never,None,657,Retired
+658,Mahala,Creech,9/12/1940,Female,Other,Not Hispanic or Latino,48083,Medicaid,English,Former,Moderate,658,Unemployed
+659,Kirstin,Bernaert,11/12/2023,Male,Asian,Hispanic or Latino,48034,Medicare,English,Never,None,659,Unemployed
+660,Kitti,Tale,10/28/1955,Female,Black or African American,Hispanic or Latino,48301,Medicare,Tagalog,Never,Moderate,660,Retired
+661,Baldwin,Bootell,12/10/1997,Female,American Indian,Not Hispanic or Latino,48067,Medicare,Spanish,Current,None,661,Employed
+662,Austine,Webling,5/8/1975,Female,Black or African American,Not Hispanic or Latino,48067,Medicare,English,Former,Moderate,662,Retired
+663,Massimiliano,Klaggeman,12/1/1973,Male,White,Not Hispanic or Latino,48326,Medicaid,English,Never,None,663,Retired
+664,Curtis,Horsell,2/18/1976,Female,Black or African American,Not Hispanic or Latino,48034,Medicare,Tagalog,Never,Moderate,664,Employed
+665,Bjorn,Kyles,7/15/2006,Male,Black or African American,Not Hispanic or Latino,48084,Medicare,Spanish,Never,Moderate,665,Employed
+666,Clement,McCosh,7/26/1952,Female,Black or African American,Not Hispanic or Latino,48009,Medicare,English,Never,Moderate,666,Retired
+667,Dwain,Dudden,2/9/1932,Male,White,Not Hispanic or Latino,48085,Commercial,English,Current,None,667,Employed
+668,Marlene,Boston,12/5/1972,Female,White,Not Hispanic or Latino,48084,Commercial,English,Former,None,668,Unemployed
+669,Carlynn,Bannester,1/15/1959,Male,Asian,Hispanic or Latino,48301,Medicare,English,Former,None,669,Retired
+670,Rebbecca,Hodgin,9/10/2024,Female,White,Not Hispanic or Latino,48083,Medicare,English,Never,Heavy,670,Employed
+671,Abby,Jelf,7/9/1960,Female,Black or African American,Not Hispanic or Latino,48076,Commercial,Hindi,Never,Heavy,671,Employed
+672,Herrick,Dilkes,1/9/1978,Female,White,Hispanic or Latino,48098,Medicaid,English,Never,Moderate,672,Employed
+673,Pryce,Hanne,7/9/2009,Male,Black or African American,Hispanic or Latino,48076,Commercial,English,Never,Moderate,673,Disabled
+674,Heinrick,Meehan,12/11/2020,Non-Binary,White,Not Hispanic or Latino,48009,Commercial,English,Former,Moderate,674,Employed
+675,Herrick,Fessier,1/23/1954,Female,White,Hispanic or Latino,48084,Commercial,English,Former,Moderate,675,Employed
+676,Jillane,Giraldon,9/7/1961,Male,Asian,Not Hispanic or Latino,48084,Commercial,Tagalog,Former,None,676,Retired
+677,Thor,Bollins,12/20/2017,Non-Binary,White,Not Hispanic or Latino,48034,Medicare,Tagalog,Former,Heavy,677,Retired
+678,Maddi,Luxmoore,6/14/1963,Male,White,Not Hispanic or Latino,48034,Uninsured,English,Never,None,678,Unemployed
+679,Trina,Gisbey,5/22/1963,Female,Other,Not Hispanic or Latino,48301,Commercial,Spanish,Former,None,679,Retired
+680,Caren,Kasper,12/21/1946,Female,White,Not Hispanic or Latino,48301,Commercial,English,Former,None,680,Retired
+681,Noam,De Lorenzo,9/19/2017,Female,Asian,Not Hispanic or Latino,48067,Dual-Eligible,English,Never,Heavy,681,Employed
+682,Virginie,Shercliff,6/9/1980,Male,White,Not Hispanic or Latino,48076,Medicare,Hindi,Current,None,682,Employed
+683,Adriena,Pawelczyk,2/27/1946,Female,American Indian,Not Hispanic or Latino,48009,Medicare,English,Former,Moderate,683,Unemployed
+684,Tarrah,Duddin,2/1/2009,Non-Binary,White,Not Hispanic or Latino,48098,Medicare,Mandarin,Never,None,684,Employed
+685,Chico,Meace,4/20/2019,Female,Black or African American,Not Hispanic or Latino,48301,Medicare,English,Former,None,685,Employed
+686,Clary,Greensall,5/26/2022,Male,Black or African American,Hispanic or Latino,48301,Medicare,English,Never,Moderate,686,Employed
+687,Maryanna,Whitelaw,6/9/2010,Non-Binary,White,Hispanic or Latino,48067,Commercial,Hindi,Former,Moderate,687,Employed
+688,Indira,Malenoir,7/24/1961,Female,Black or African American,Not Hispanic or Latino,48067,Commercial,Hindi,Never,Moderate,688,Employed
+689,Riobard,Gunstone,1/7/1949,Female,White,Not Hispanic or Latino,48084,Medicare,Spanish,Current,Moderate,689,Employed
+690,Roby,Cleife,4/10/1965,Non-Binary,White,Not Hispanic or Latino,48067,Commercial,English,Former,Heavy,690,Employed
+691,Misha,McMurray,4/8/2012,Female,Other,Hispanic or Latino,48098,Dual-Eligible,English,Former,None,691,Retired
+692,Felicity,Reeman,2/21/1968,Female,White,Not Hispanic or Latino,48009,Commercial,Spanish,Never,None,692,Retired
+693,Lefty,Walkley,8/23/1940,Female,White,Not Hispanic or Latino,48076,Uninsured,English,Former,None,693,Unemployed
+694,Pauly,Soame,1/16/1943,Female,White,Not Hispanic or Latino,48009,Medicare,Other,Never,None,694,Unemployed
+695,Denyse,Gready,7/2/1943,Male,White,Not Hispanic or Latino,48301,Commercial,English,Never,None,695,Unemployed
+696,Cazzie,Compton,6/6/1997,Male,White,Not Hispanic or Latino,48083,Commercial,English,Never,Moderate,696,Employed
+697,Arlin,Bandt,9/19/1957,Female,Black or African American,Not Hispanic or Latino,48076,Commercial,English,Never,Moderate,697,Disabled
+698,Jarrid,Vest,12/28/1971,Female,White,Hispanic or Latino,48301,Medicare,Tagalog,Current,Heavy,698,Unemployed
+699,Jabez,Shawyers,4/5/1995,Female,Black or African American,Not Hispanic or Latino,48083,Medicare,English,Current,None,699,Retired
+700,Amby,Fevers,5/9/2001,Non-Binary,White,Not Hispanic or Latino,48084,Medicare,English,Never,Heavy,700,Employed
+701,Ann-marie,Le Brom,4/15/1936,Male,White,Not Hispanic or Latino,48076,Commercial,English,Former,None,701,Employed
+702,Sofie,Dougherty,5/14/1942,Female,White,Not Hispanic or Latino,48034,Medicare,Spanish,Never,None,702,Unemployed
+703,Page,Minette,8/26/1957,Female,Asian,Not Hispanic or Latino,48326,Medicare,Tagalog,Never,Moderate,703,Employed
+704,Penelope,Kirby,4/1/1978,Female,White,Not Hispanic or Latino,48085,Commercial,Other,Never,Moderate,704,Retired
+705,Lida,Fardell,7/14/1960,Female,White,Hispanic or Latino,48301,Uninsured,Hindi,Current,Moderate,705,Retired
+706,Ansell,Bernardos,2/7/1950,Male,Asian,Not Hispanic or Latino,48085,Commercial,English,Former,Moderate,706,Employed
+707,Cody,Faughey,9/10/1978,Female,White,Not Hispanic or Latino,48034,Medicare,Hindi,Never,Moderate,707,Employed
+708,Arielle,Rigg,2/20/1966,Female,American Indian,Hispanic or Latino,48067,Dual-Eligible,English,Former,Moderate,708,Employed
+709,Terri,Crole,6/6/1988,Female,Black or African American,Not Hispanic or Latino,48034,Commercial,English,Never,None,709,Retired
+710,Dorie,Prendiville,6/11/1976,Female,White,Not Hispanic or Latino,48076,Uninsured,Hindi,Former,Moderate,710,Employed
+711,Lesli,Bairnsfather,1/8/1961,Female,White,Not Hispanic or Latino,48083,Dual-Eligible,English,Never,Moderate,711,Unemployed
+712,Tarrah,Chattington,9/12/2012,Female,White,Not Hispanic or Latino,48084,Uninsured,English,Former,Heavy,712,Disabled
+713,Lanie,Tatterton,12/1/1985,Non-Binary,White,Not Hispanic or Latino,48085,Dual-Eligible,Hindi,Never,Moderate,713,Disabled
+714,Alric,Bussey,5/29/1988,Non-Binary,Black or African American,Hispanic or Latino,48085,Uninsured,English,Never,None,714,Retired
+715,Dotti,Kennet,9/21/1935,Female,White,Not Hispanic or Latino,48009,Medicare,Spanish,Never,None,715,Employed
+716,Shena,Alten,8/13/1979,Female,White,Not Hispanic or Latino,48076,Medicare,Spanish,Never,Moderate,716,Retired
+717,Rollie,Stitwell,7/23/1936,Male,White,Not Hispanic or Latino,48009,Uninsured,English,Never,Heavy,717,Unemployed
+718,Alvis,Winsbury,2/4/1945,Male,White,Not Hispanic or Latino,48085,Medicare,English,Current,None,718,Retired
+719,Anabel,Reolfi,7/5/2017,Female,Other,Hispanic or Latino,48085,Commercial,English,Never,Moderate,719,Disabled
+720,Stewart,Tackes,12/17/1948,Female,Other,Not Hispanic or Latino,48009,Medicare,English,Former,None,720,Disabled
+721,Port,Chater,8/1/1976,Non-Binary,White,Hispanic or Latino,48067,Commercial,English,Never,Moderate,721,Unemployed
+722,Paloma,Abrahamsohn,5/6/1955,Female,Black or African American,Not Hispanic or Latino,48083,Medicare,English,Never,Moderate,722,Retired
+723,Palm,Togwell,3/29/1937,Female,Black or African American,Not Hispanic or Latino,48009,Medicare,English,Former,None,723,Unemployed
+724,Lilyan,Itzkin,3/16/1991,Male,Other,Not Hispanic or Latino,48009,Medicaid,English,Former,None,724,Retired
+725,Barny,D'eath,9/15/1958,Male,Black or African American,Not Hispanic or Latino,48326,Uninsured,Spanish,Former,None,725,Employed
+726,Marybeth,Jacobs,5/19/1939,Female,White,Hispanic or Latino,48084,Uninsured,English,Never,None,726,Disabled
+727,Duffy,Himsworth,1/15/2019,Male,Other,Not Hispanic or Latino,48084,Medicare,Tagalog,Current,Heavy,727,Employed
+728,Delphinia,Folling,5/15/1978,Male,Black or African American,Not Hispanic or Latino,48076,Commercial,Tagalog,Former,None,728,Unemployed
+729,Elane,Cromwell,12/15/1968,Female,White,Not Hispanic or Latino,48326,Medicare,English,Former,Moderate,729,Retired
+730,Anatola,Bradden,4/10/1938,Female,American Indian,Not Hispanic or Latino,48301,Medicaid,English,Never,Moderate,730,Retired
+731,Arlena,Arber,11/24/1939,Female,Asian,Not Hispanic or Latino,48067,Commercial,English,Never,Heavy,731,Retired
+732,Dniren,Braine,12/12/1979,Female,White,Not Hispanic or Latino,48098,Medicare,Tagalog,Never,Moderate,732,Employed
+733,Farrah,Arnecke,11/8/1973,Non-Binary,American Indian,Not Hispanic or Latino,48098,Commercial,English,Never,None,733,Employed
+734,Jacobo,Nutbrown,10/27/1979,Male,Other,Not Hispanic or Latino,48326,Medicaid,Hindi,Current,Moderate,734,Employed
+735,Westbrook,Strodder,11/30/1965,Female,Asian,Not Hispanic or Latino,48084,Medicare,English,Former,Moderate,735,Employed
+736,Sly,Rosle,1/4/1953,Male,White,Not Hispanic or Latino,48084,Uninsured,English,Current,Moderate,736,Employed
+737,Emilio,Pyatt,3/7/1979,Non-Binary,White,Hispanic or Latino,48009,Commercial,Hindi,Current,Moderate,737,Employed
+738,Foster,Paslow,5/31/1986,Male,Asian,Not Hispanic or Latino,48301,Commercial,English,Former,None,738,Employed
+739,Ronny,Sleaford,1/24/2017,Male,Black or African American,Not Hispanic or Latino,48326,Medicare,English,Never,Moderate,739,Retired
+740,Tiffani,Skally,8/31/1976,Male,White,Not Hispanic or Latino,48034,Medicaid,English,Current,Moderate,740,Disabled
+741,Merill,Pickless,12/17/1939,Female,Other,Hispanic or Latino,48326,Commercial,Mandarin,Never,None,741,Unemployed
+742,Tye,McKirton,3/25/2021,Male,White,Not Hispanic or Latino,48009,Medicare,English,Former,Moderate,742,Retired
+743,Link,Elphinstone,12/5/1962,Male,White,Not Hispanic or Latino,48067,Medicaid,English,Former,Moderate,743,Employed
+744,Merline,Carine,2/19/1972,Male,Other,Hispanic or Latino,48076,Commercial,Tagalog,Former,Heavy,744,Disabled
+745,Cristen,Bedell,1/18/2013,Female,White,Not Hispanic or Latino,48326,Uninsured,Spanish,Former,Moderate,745,Unemployed
+746,Welby,Bonafacino,3/24/1936,Female,White,Not Hispanic or Latino,48076,Uninsured,English,Former,None,746,Retired
+747,Dylan,Yewdale,5/3/1973,Male,Other,Not Hispanic or Latino,48083,Medicare,English,Never,Moderate,747,Unemployed
+748,Josh,Talmadge,8/1/1932,Male,White,Hispanic or Latino,48067,Medicare,Other,Former,Moderate,748,Employed
+749,Emmy,Dedrick,2/16/1946,Female,White,Not Hispanic or Latino,48076,Medicare,English,Never,None,749,Retired
+750,Dory,Lace,8/14/1974,Male,White,Hispanic or Latino,48067,Medicare,English,Former,None,750,Retired
+751,Leone,Titcom,12/19/1970,Female,American Indian,Hispanic or Latino,48084,Dual-Eligible,English,Never,None,751,Employed
+752,Riannon,Ditchburn,8/25/2025,Female,White,Not Hispanic or Latino,48067,Commercial,Hindi,Never,None,752,Retired
+753,Anderson,Kennedy,4/18/2023,Male,White,Hispanic or Latino,48301,Commercial,Tagalog,Never,None,753,Unemployed
+754,Melodie,Ruddlesden,7/3/1991,Female,Other,Not Hispanic or Latino,48098,Medicare,English,Never,None,754,Retired
+755,Aguie,Boatright,8/10/1931,Male,American Indian,Not Hispanic or Latino,48085,Commercial,English,Former,None,755,Disabled
+756,Sher,Cutford,2/1/2001,Female,Black or African American,Not Hispanic or Latino,48034,Medicaid,English,Former,Moderate,756,Disabled
+757,Ilaire,Hyatt,7/25/1968,Male,American Indian,Not Hispanic or Latino,48098,Medicare,English,Never,None,757,Disabled
+758,Byron,Slack,5/18/1962,Male,Asian,Not Hispanic or Latino,48326,Commercial,Hindi,Former,None,758,Retired
+759,Basil,Orpen,9/24/2007,Female,American Indian,Hispanic or Latino,48009,Commercial,English,Never,Moderate,759,Employed
+760,Grazia,McElhargy,8/7/2023,Male,White,Not Hispanic or Latino,48034,Medicare,Other,Current,Moderate,760,Employed
+761,Adena,Foad,9/16/1975,Female,White,Not Hispanic or Latino,48034,Commercial,English,Never,None,761,Employed
+762,Brandi,Bainbrigge,4/11/1986,Female,White,Hispanic or Latino,48076,Commercial,English,Former,Heavy,762,Disabled
+763,Anatol,Ciottoi,1/11/2003,Female,Asian,Not Hispanic or Latino,48067,Uninsured,English,Former,None,763,Retired
+764,Viviene,Easter,2/8/1941,Female,White,Hispanic or Latino,48301,Medicare,English,Current,Moderate,764,Retired
+765,Ana,Lentsch,9/20/2000,Female,American Indian,Not Hispanic or Latino,48083,Medicare,Other,Current,Moderate,765,Unemployed
+766,Art,Pennrington,1/27/1962,Male,Other,Not Hispanic or Latino,48326,Medicaid,English,Former,Moderate,766,Unemployed
+767,Lucienne,Skuse,11/26/1976,Male,White,Not Hispanic or Latino,48085,Uninsured,English,Never,None,767,Unemployed
+768,Rodie,Ruf,4/9/1938,Male,Black or African American,Not Hispanic or Latino,48009,Commercial,Tagalog,Current,None,768,Employed
+769,Zebedee,Casaroli,12/3/1943,Male,White,Not Hispanic or Latino,48301,Medicaid,English,Never,None,769,Unemployed
+770,Hyacintha,Himpson,5/20/1939,Female,White,Not Hispanic or Latino,48098,Commercial,English,Never,Moderate,770,Employed
+771,Kelley,Ragat,11/6/1980,Female,Black or African American,Hispanic or Latino,48034,Medicare,English,Former,Moderate,771,Employed
+772,Karel,Gatchell,12/1/1948,Female,White,Hispanic or Latino,48083,Medicare,English,Current,None,772,Disabled
+773,Rana,Keedy,11/6/1992,Male,Asian,Hispanic or Latino,48301,Commercial,English,Never,None,773,Retired
+774,Fayth,Hounsham,6/29/2019,Female,Other,Not Hispanic or Latino,48326,Commercial,Hindi,Former,Heavy,774,Retired
+775,Wade,Kuhlmey,1/10/1970,Male,White,Not Hispanic or Latino,48098,Medicaid,Spanish,Former,None,775,Unemployed
+776,Matty,Cureton,12/10/1975,Male,White,Not Hispanic or Latino,48301,Commercial,English,Former,Moderate,776,Employed
+777,Johnath,Greenman,3/5/2014,Female,Black or African American,Hispanic or Latino,48067,Medicare,Other,Current,Moderate,777,Retired
+778,Karyn,O'Meara,9/2/1986,Male,White,Not Hispanic or Latino,48034,Commercial,English,Current,Moderate,778,Retired
+779,Faustina,Cussins,8/21/1982,Male,Asian,Not Hispanic or Latino,48098,Commercial,English,Former,Moderate,779,Unemployed
+780,Denis,Woodage,12/3/1986,Male,Black or African American,Not Hispanic or Latino,48326,Commercial,English,Never,None,780,Retired
+781,Raquel,Gounel,5/24/1968,Male,Black or African American,Not Hispanic or Latino,48076,Medicare,Hindi,Never,None,781,Employed
+782,Arne,Scarbarrow,12/5/1975,Male,White,Not Hispanic or Latino,48067,Commercial,Spanish,Former,Moderate,782,Employed
+783,Doria,Alabone,4/21/1967,Non-Binary,American Indian,Not Hispanic or Latino,48326,Medicare,English,Current,None,783,Retired
+784,Frannie,Moston,7/16/1966,Male,White,Not Hispanic or Latino,48301,Medicare,English,Former,None,784,Employed
+785,Denney,Wofenden,10/3/1942,Male,White,Not Hispanic or Latino,48326,Medicare,English,Former,None,785,Employed
+786,Tulley,Ogelsby,1/19/1963,Male,Asian,Hispanic or Latino,48076,Commercial,Other,Never,Moderate,786,Employed
+787,Noach,O'Devey,4/1/1981,Female,White,Hispanic or Latino,48326,Uninsured,English,Current,None,787,Retired
+788,Giusto,Crum,12/5/2015,Female,White,Not Hispanic or Latino,48301,Uninsured,English,Current,None,788,Retired
+789,Lacee,Tully,3/11/1998,Male,Other,Not Hispanic or Latino,48098,Medicare,Other,Current,Moderate,789,Retired
+790,Dennis,Verillo,3/7/1933,Female,Asian,Hispanic or Latino,48085,Commercial,English,Never,None,790,Employed
+791,Daren,Hartup,10/19/1960,Female,White,Not Hispanic or Latino,48009,Commercial,Spanish,Current,Moderate,791,Retired
+792,Quentin,Kleinert,2/26/2024,Female,White,Not Hispanic or Latino,48085,Commercial,Other,Never,None,792,Retired
+793,Mariann,Cragoe,7/15/1973,Female,White,Not Hispanic or Latino,48085,Medicare,Tagalog,Never,None,793,Unemployed
+794,Sheffy,Hurdedge,4/25/2001,Male,White,Not Hispanic or Latino,48301,Commercial,Spanish,Former,None,794,Disabled
+795,Mellie,Burling,3/2/1932,Male,Black or African American,Not Hispanic or Latino,48301,Medicare,Tagalog,Former,Moderate,795,Retired
+796,Euell,Gentile,9/23/1937,Male,American Indian,Not Hispanic or Latino,48034,Uninsured,Spanish,Never,None,796,Unemployed
+797,Valry,O'Curneen,9/25/2000,Male,White,Not Hispanic or Latino,48009,Medicare,Tagalog,Current,Moderate,797,Unemployed
+798,Ernesta,Stollwerck,9/2/2020,Female,Asian,Not Hispanic or Latino,48076,Medicare,Hindi,Never,Moderate,798,Disabled
+799,Otho,Ducrow,7/19/1999,Female,White,Hispanic or Latino,48009,Medicare,Mandarin,Never,Moderate,799,Retired
+800,Catriona,Goldine,10/24/1988,Male,Other,Not Hispanic or Latino,48085,Medicare,Tagalog,Former,None,800,Unemployed
+801,Theo,Edgeler,12/18/1978,Male,White,Hispanic or Latino,48009,Commercial,Spanish,Current,None,801,Retired
+802,Clemmie,Bennetts,9/8/1977,Female,Black or African American,Not Hispanic or Latino,48098,Dual-Eligible,English,Former,Moderate,802,Disabled
+803,Chickie,Carlile,7/12/1974,Male,White,Hispanic or Latino,48301,Medicare,English,Former,Moderate,803,Retired
+804,Henrietta,Chrippes,12/2/2015,Male,White,Not Hispanic or Latino,48034,Medicare,Hindi,Current,Moderate,804,Employed
+805,Joaquin,Ingraham,5/28/2001,Male,White,Not Hispanic or Latino,48034,Commercial,Tagalog,Never,Moderate,805,Employed
+806,Ofelia,Hastie,4/28/1951,Female,White,Not Hispanic or Latino,48084,Medicare,Tagalog,Former,Moderate,806,Retired
+807,Edith,Schurig,5/31/2026,Female,Black or African American,Hispanic or Latino,48085,Dual-Eligible,Hindi,Never,Heavy,807,Employed
+808,Darda,Brotherhed,5/23/2003,Female,Asian,Not Hispanic or Latino,48076,Medicare,Spanish,Current,Moderate,808,Employed
+809,Vannie,Eles,11/22/1997,Female,White,Not Hispanic or Latino,48326,Commercial,English,Never,None,809,Unemployed
+810,Mignon,MacKaig,7/16/1999,Female,Asian,Not Hispanic or Latino,48326,Medicare,Hindi,Former,None,810,Unemployed
+811,Munmro,Leydon,7/23/1947,Female,Asian,Not Hispanic or Latino,48083,Commercial,Other,Former,Moderate,811,Employed
+812,Shalna,Edser,1/28/1946,Male,White,Not Hispanic or Latino,48009,Commercial,Other,Former,Moderate,812,Disabled
+813,Mic,Triplow,12/22/1978,Female,White,Not Hispanic or Latino,48085,Commercial,English,Former,None,813,Retired
+814,Tybi,Worcs,2/13/1999,Female,White,Hispanic or Latino,48034,Commercial,English,Current,Moderate,814,Employed
+815,Stearn,Dumbrell,6/11/1959,Female,White,Not Hispanic or Latino,48084,Dual-Eligible,English,Never,Moderate,815,Employed
+816,Salvador,Sussex,4/25/1995,Non-Binary,White,Not Hispanic or Latino,48084,Medicare,Hindi,Former,None,816,Unemployed
+817,Reinhold,Eagling,4/10/2015,Female,Other,Hispanic or Latino,48083,Medicare,English,Current,Heavy,817,Retired
+818,Jethro,Kleinhausen,7/31/2016,Male,American Indian,Not Hispanic or Latino,48326,Medicaid,Spanish,Current,None,818,Employed
+819,Burton,Hierro,12/31/1957,Female,American Indian,Not Hispanic or Latino,48098,Medicare,Hindi,Never,Moderate,819,Employed
+820,Odetta,Athersmith,1/24/1984,Female,American Indian,Not Hispanic or Latino,48084,Medicare,English,Current,None,820,Retired
+821,Clem,O'Dee,11/5/1954,Female,White,Not Hispanic or Latino,48301,Commercial,English,Current,Moderate,821,Employed
+822,Jarrett,Luckcuck,1/24/1986,Non-Binary,Asian,Not Hispanic or Latino,48034,Medicare,English,Never,Moderate,822,Retired
+823,Melamie,Horick,6/12/2008,Female,Black or African American,Not Hispanic or Latino,48034,Commercial,English,Current,Moderate,823,Employed
+824,Therese,Frances,3/17/2012,Female,American Indian,Not Hispanic or Latino,48084,Medicare,English,Never,None,824,Employed
+825,Jarrad,Freeberne,3/31/1997,Female,Black or African American,Not Hispanic or Latino,48085,Medicaid,Mandarin,Never,None,825,Employed
+826,Zebulon,Hoffmann,10/13/1944,Female,White,Not Hispanic or Latino,48084,Medicare,Spanish,Never,None,826,Retired
+827,Maurise,Redrup,11/9/1987,Female,White,Not Hispanic or Latino,48076,Medicaid,English,Current,Moderate,827,Employed
+828,Melany,Neeson,2/9/1963,Female,White,Not Hispanic or Latino,48084,Medicare,English,Former,Moderate,828,Employed
+829,Urbanus,McGlew,10/5/1959,Male,American Indian,Not Hispanic or Latino,48326,Medicare,English,Never,None,829,Employed
+830,Crysta,Orr,6/20/1974,Female,Black or African American,Not Hispanic or Latino,48098,Commercial,Spanish,Never,None,830,Unemployed
+831,Fan,Waterworth,7/31/2004,Female,White,Hispanic or Latino,48067,Commercial,Other,Never,None,831,Disabled
+832,Smitty,Jantot,6/16/1980,Male,White,Not Hispanic or Latino,48076,Commercial,English,Current,Moderate,832,Disabled
+833,Sutton,Muschette,6/6/2010,Female,American Indian,Not Hispanic or Latino,48085,Commercial,English,Former,None,833,Disabled
+834,Maurice,Malim,1/26/1941,Male,White,Not Hispanic or Latino,48083,Medicare,English,Never,Moderate,834,Retired
+835,Haskell,Bereford,11/16/1980,Female,Asian,Not Hispanic or Latino,48326,Dual-Eligible,Spanish,Former,None,835,Unemployed
+836,Annnora,De Witt,2/25/2005,Non-Binary,White,Not Hispanic or Latino,48098,Medicare,English,Never,Moderate,836,Retired
+837,Jemima,Stickley,9/4/1945,Male,White,Not Hispanic or Latino,48084,Commercial,Mandarin,Current,Moderate,837,Employed
+838,Roselle,Jencey,3/22/1948,Male,White,Not Hispanic or Latino,48301,Commercial,Other,Never,Moderate,838,Retired
+839,Ring,Cino,7/8/1978,Male,White,Not Hispanic or Latino,48034,Commercial,English,Never,Heavy,839,Employed
+840,Winny,Duxbarry,5/31/1937,Female,Other,Not Hispanic or Latino,48083,Uninsured,English,Current,Heavy,840,Employed
+841,Noam,Rothery,5/28/1974,Male,White,Not Hispanic or Latino,48076,Commercial,English,Never,None,841,Disabled
+842,Joaquin,Mitchley,10/18/1975,Female,White,Not Hispanic or Latino,48067,Uninsured,English,Current,Moderate,842,Employed
+843,Bail,Gianni,4/4/1937,Male,White,Not Hispanic or Latino,48009,Medicare,English,Never,None,843,Retired
+844,Danit,Frichley,12/12/1953,Female,Black or African American,Hispanic or Latino,48098,Medicaid,English,Former,Moderate,844,Disabled
+845,Harman,Milmo,1/27/1949,Female,Other,Not Hispanic or Latino,48301,Commercial,Spanish,Current,None,845,Retired
+846,Grantley,Benner,1/7/2002,Female,White,Hispanic or Latino,48009,Commercial,English,Never,None,846,Disabled
+847,Salomone,Kigelman,2/10/2020,Male,White,Not Hispanic or Latino,48098,Medicare,English,Former,None,847,Unemployed
+848,Reider,Neale,7/24/1931,Male,White,Not Hispanic or Latino,48098,Commercial,Spanish,Never,None,848,Employed
+849,Case,Jerwood,11/18/2018,Female,White,Not Hispanic or Latino,48076,Medicare,English,Former,Moderate,849,Retired
+850,Farica,Tettersell,1/23/2000,Male,White,Not Hispanic or Latino,48084,Commercial,Spanish,Never,Moderate,850,Employed
+851,Annelise,Hobson,7/21/1956,Non-Binary,White,Not Hispanic or Latino,48326,Medicare,Spanish,Never,Moderate,851,Retired
+852,Emilie,Malec,10/20/2009,Non-Binary,Other,Not Hispanic or Latino,48083,Medicare,English,Never,Heavy,852,Disabled
+853,Hussein,Leimster,12/22/2022,Non-Binary,Other,Not Hispanic or Latino,48083,Commercial,English,Former,None,853,Disabled
+854,Durant,Gilardengo,10/29/2009,Non-Binary,American Indian,Not Hispanic or Latino,48301,Commercial,English,Former,Heavy,854,Employed
+855,Jerri,Bagot,5/14/2010,Male,White,Not Hispanic or Latino,48083,Commercial,English,Current,None,855,Employed
+856,Willie,Maultby,8/18/1994,Female,Black or African American,Not Hispanic or Latino,48301,Commercial,English,Never,Moderate,856,Retired
+857,Kameko,Bubbins,9/11/2021,Female,Other,Not Hispanic or Latino,48076,Medicaid,Tagalog,Never,None,857,Employed
+858,Gabriello,Robardley,1/19/1979,Female,Black or African American,Not Hispanic or Latino,48085,Medicare,English,Former,Moderate,858,Disabled
+859,Danya,Alfonsetti,5/12/1943,Female,White,Not Hispanic or Latino,48076,Commercial,Tagalog,Former,None,859,Retired
+860,Lanny,Garrettson,9/30/1949,Female,Black or African American,Not Hispanic or Latino,48084,Commercial,English,Never,Moderate,860,Unemployed
+861,Frank,Messiter,6/10/1979,Female,White,Not Hispanic or Latino,48326,Commercial,Spanish,Current,None,861,Employed
+862,Urbano,King,9/18/1956,Female,American Indian,Not Hispanic or Latino,48067,Medicare,Other,Former,None,862,Employed
+863,Darbee,Ruck,10/16/1963,Non-Binary,White,Not Hispanic or Latino,48009,Medicare,Hindi,Former,Moderate,863,Employed
+864,Blythe,Fick,3/23/2003,Female,White,Not Hispanic or Latino,48067,Commercial,English,Never,Moderate,864,Unemployed
+865,Wilmar,Keniwell,11/25/2023,Male,Black or African American,Not Hispanic or Latino,48326,Medicare,English,Never,None,865,Disabled
+866,Lorettalorna,Geistmann,12/24/1981,Female,Other,Not Hispanic or Latino,48301,Commercial,English,Former,Moderate,866,Employed
+867,Keefe,Hindshaw,6/19/1937,Male,Black or African American,Not Hispanic or Latino,48067,Medicare,English,Never,Moderate,867,Employed
+868,Marietta,Furman,5/26/2021,Non-Binary,White,Hispanic or Latino,48076,Medicare,English,Never,None,868,Employed
+869,Con,Scamal,12/5/2010,Female,Asian,Not Hispanic or Latino,48084,Medicare,English,Former,Moderate,869,Unemployed
+870,Rennie,Blick,10/25/1971,Male,Other,Not Hispanic or Latino,48098,Medicaid,English,Never,None,870,Employed
+871,Cristen,Colt,9/18/1946,Female,American Indian,Not Hispanic or Latino,48326,Medicare,English,Never,None,871,Employed
+872,Malinda,Ollett,11/7/1992,Female,Black or African American,Hispanic or Latino,48301,Medicare,English,Former,Moderate,872,Retired
+873,Lev,O' Shea,11/1/1943,Male,White,Not Hispanic or Latino,48076,Medicaid,English,Current,Moderate,873,Employed
+874,Kingston,Slide,1/21/1933,Male,Black or African American,Not Hispanic or Latino,48034,Commercial,English,Never,Moderate,874,Retired
+875,Gianni,Tomasek,3/15/1979,Non-Binary,White,Not Hispanic or Latino,48034,Dual-Eligible,English,Never,Moderate,875,Unemployed
+876,Gerrilee,Punt,11/16/2006,Female,White,Not Hispanic or Latino,48009,Commercial,English,Current,Moderate,876,Unemployed
+877,Selina,Venart,1/26/1934,Male,White,Not Hispanic or Latino,48326,Commercial,English,Never,Moderate,877,Retired
+878,Cathee,Backes,7/29/2025,Female,White,Hispanic or Latino,48098,Medicare,English,Never,Moderate,878,Employed
+879,Nils,Prosh,2/10/1988,Female,Black or African American,Not Hispanic or Latino,48034,Medicare,English,Never,Heavy,879,Employed
+880,Wilden,Ashington,2/1/1957,Female,American Indian,Hispanic or Latino,48076,Dual-Eligible,English,Never,Heavy,880,Retired
+881,Germaine,Bernollet,5/18/1942,Female,White,Not Hispanic or Latino,48076,Uninsured,English,Never,Moderate,881,Retired
+882,Maitilde,Cobbledick,3/13/1967,Female,White,Not Hispanic or Latino,48098,Commercial,English,Never,Moderate,882,Retired
+883,Jehanna,Spender,8/26/1989,Non-Binary,White,Not Hispanic or Latino,48301,Medicare,Hindi,Never,None,883,Retired
+884,Olivette,Letixier,9/15/1985,Female,Black or African American,Hispanic or Latino,48084,Medicare,Other,Current,Moderate,884,Unemployed
+885,Elwin,Mucklo,5/18/1937,Female,Black or African American,Not Hispanic or Latino,48034,Commercial,Spanish,Former,Moderate,885,Employed
+886,Walther,De Vaan,1/24/2010,Non-Binary,White,Not Hispanic or Latino,48009,Dual-Eligible,English,Former,Moderate,886,Retired
+887,Kylie,Larmett,6/18/1951,Female,White,Hispanic or Latino,48326,Medicare,English,Current,None,887,Unemployed
+888,Madelon,Blankhorn,6/4/2022,Male,White,Hispanic or Latino,48084,Medicare,English,Current,None,888,Employed
+889,Kurt,Lauritsen,2/18/1958,Male,White,Not Hispanic or Latino,48034,Commercial,English,Never,Heavy,889,Retired
+890,Debera,Forrington,11/3/1972,Female,Black or African American,Not Hispanic or Latino,48326,Commercial,Other,Former,Moderate,890,Disabled
+891,Belinda,Stairmand,7/7/1947,Female,White,Not Hispanic or Latino,48301,Medicare,Mandarin,Former,Moderate,891,Retired
+892,Reube,Freeborne,9/8/1935,Male,White,Hispanic or Latino,48098,Medicare,English,Current,Heavy,892,Retired
+893,Midge,Karppi,11/9/2025,Male,Asian,Not Hispanic or Latino,48098,Commercial,English,Current,None,893,Unemployed
+894,Mallory,Soanes,11/16/1984,Female,American Indian,Not Hispanic or Latino,48084,Medicare,English,Never,None,894,Unemployed
+895,Uriah,Sommerscales,12/30/2023,Female,Black or African American,Not Hispanic or Latino,48076,Medicare,Tagalog,Never,Moderate,895,Employed
+896,Barbara-anne,McMorland,4/10/1997,Female,Black or African American,Not Hispanic or Latino,48083,Medicaid,Tagalog,Never,None,896,Retired
+897,Daryl,Haines,6/17/1988,Female,Black or African American,Hispanic or Latino,48084,Commercial,English,Former,Moderate,897,Employed
+898,Zachery,Highway,1/3/1986,Female,White,Not Hispanic or Latino,48085,Uninsured,English,Never,None,898,Unemployed
+899,Ailene,Kinleyside,3/14/1993,Female,American Indian,Not Hispanic or Latino,48067,Medicare,English,Never,None,899,Retired
+900,Zonda,Lindberg,7/18/1953,Female,Black or African American,Not Hispanic or Latino,48084,Medicare,Mandarin,Current,None,900,Employed
+901,Hesther,Fayre,1/22/1983,Female,White,Not Hispanic or Latino,48084,Commercial,English,Never,None,901,Employed
+902,Omero,Upson,11/25/1968,Male,Asian,Hispanic or Latino,48098,Uninsured,Spanish,Former,Moderate,902,Employed
+903,Didi,Fellibrand,4/21/1933,Male,White,Not Hispanic or Latino,48326,Uninsured,English,Former,None,903,Unemployed
+904,Giraud,Doyle,8/3/1963,Female,American Indian,Not Hispanic or Latino,48067,Medicaid,English,Never,Moderate,904,Retired
+905,Darsie,Wake,11/26/1933,Male,White,Not Hispanic or Latino,48076,Medicare,Tagalog,Former,Heavy,905,Retired
+906,Lezley,Dagless,5/17/1935,Non-Binary,American Indian,Not Hispanic or Latino,48085,Dual-Eligible,Other,Former,None,906,Retired
+907,Langston,Harnott,7/5/1994,Male,White,Not Hispanic or Latino,48083,Commercial,Other,Never,None,907,Employed
+908,Mirna,Curl,1/29/2010,Female,Asian,Not Hispanic or Latino,48084,Medicaid,English,Former,Moderate,908,Employed
+909,Mike,Kyte,5/21/1995,Male,Black or African American,Not Hispanic or Latino,48076,Medicare,English,Never,Heavy,909,Employed
+910,Gabriele,Kirgan,4/9/2018,Female,White,Not Hispanic or Latino,48067,Medicare,Spanish,Current,Moderate,910,Disabled
+911,Raimondo,Spencook,7/17/1975,Non-Binary,White,Not Hispanic or Latino,48067,Medicaid,English,Never,Moderate,911,Employed
+912,Celesta,Frankis,7/14/1971,Female,White,Hispanic or Latino,48301,Commercial,English,Current,Heavy,912,Disabled
+913,Shelby,Hexum,1/8/1934,Male,White,Not Hispanic or Latino,48301,Commercial,English,Former,Moderate,913,Employed
+914,Diane-marie,Cape,5/9/2006,Male,White,Not Hispanic or Latino,48083,Medicare,Mandarin,Former,None,914,Disabled
+915,Jamey,Greser,9/13/1970,Female,American Indian,Hispanic or Latino,48326,Commercial,Tagalog,Current,Moderate,915,Unemployed
+916,Marylin,Vallender,10/1/1936,Female,White,Not Hispanic or Latino,48034,Commercial,English,Never,None,916,Employed
+917,Ingmar,Franc,10/21/1998,Female,White,Not Hispanic or Latino,48098,Commercial,English,Current,Moderate,917,Retired
+918,Arielle,Smeall,5/19/2004,Female,White,Not Hispanic or Latino,48009,Commercial,Spanish,Never,Moderate,918,Retired
+919,Mar,Hawson,12/22/1959,Male,White,Hispanic or Latino,48084,Medicare,English,Never,Moderate,919,Employed
+920,Bertrand,Pavelin,11/6/1976,Non-Binary,American Indian,Not Hispanic or Latino,48085,Commercial,Tagalog,Never,None,920,Unemployed
+921,Molly,Tendahl,12/19/1952,Male,Other,Not Hispanic or Latino,48009,Uninsured,Tagalog,Current,Moderate,921,Retired
+922,Claretta,Galliver,9/18/1968,Female,White,Not Hispanic or Latino,48083,Commercial,English,Current,None,922,Unemployed
+923,Victoir,Baulcombe,4/2/1986,Male,White,Not Hispanic or Latino,48034,Medicaid,Spanish,Former,Moderate,923,Retired
+924,Anallise,Brum,8/3/2002,Female,White,Not Hispanic or Latino,48084,Medicare,Spanish,Never,Moderate,924,Disabled
+925,Hermine,Dacca,2/14/2008,Non-Binary,White,Hispanic or Latino,48301,Dual-Eligible,Spanish,Never,Moderate,925,Employed
+926,Edy,Taillard,4/9/1957,Female,Black or African American,Not Hispanic or Latino,48301,Dual-Eligible,English,Current,Moderate,926,Disabled
+927,Ryan,Minchenton,12/8/1953,Male,White,Not Hispanic or Latino,48085,Medicare,English,Former,Heavy,927,Employed
+928,Caleb,Woodeson,10/10/1959,Female,White,Not Hispanic or Latino,48034,Medicare,English,Never,None,928,Unemployed
+929,Peggie,Larciere,10/5/2012,Female,Black or African American,Hispanic or Latino,48084,Medicaid,Other,Current,Heavy,929,Unemployed
+930,Lena,Kielt,8/5/2002,Female,Black or African American,Not Hispanic or Latino,48067,Medicare,Spanish,Never,Heavy,930,Retired
+931,Maryrose,Adshead,4/26/1965,Female,White,Not Hispanic or Latino,48301,Dual-Eligible,Spanish,Former,None,931,Retired
+932,Garrott,Angrock,1/20/2000,Female,Asian,Hispanic or Latino,48301,Commercial,English,Former,None,932,Retired
+933,Elisabet,Cakes,9/11/1957,Non-Binary,Black or African American,Not Hispanic or Latino,48076,Uninsured,English,Former,None,933,Employed
+934,Carma,Sellor,12/31/1970,Female,White,Not Hispanic or Latino,48034,Commercial,English,Never,None,934,Employed
+935,Pam,Studders,10/15/2011,Female,American Indian,Hispanic or Latino,48085,Commercial,English,Never,None,935,Unemployed
+936,Druci,MacPherson,6/22/2011,Female,Other,Not Hispanic or Latino,48076,Commercial,Hindi,Former,None,936,Retired
+937,Kip,Semmence,4/19/1982,Female,White,Not Hispanic or Latino,48326,Uninsured,English,Never,None,937,Disabled
+938,Clarabelle,Shrieves,6/7/1972,Male,White,Not Hispanic or Latino,48009,Uninsured,Mandarin,Former,Moderate,938,Employed
+939,Clo,Huard,1/26/2022,Female,Black or African American,Not Hispanic or Latino,48083,Medicare,English,Never,Moderate,939,Unemployed
+940,Cirilo,Kilius,10/22/1967,Male,White,Not Hispanic or Latino,48067,Medicare,English,Never,Heavy,940,Unemployed
+941,Grayce,Snooks,7/17/2004,Female,Black or African American,Hispanic or Latino,48326,Uninsured,Other,Never,None,941,Disabled
+942,Marisa,Gamil,1/30/1939,Female,Black or African American,Not Hispanic or Latino,48076,Dual-Eligible,English,Current,None,942,Retired
+943,Kipp,Barnbrook,9/18/2009,Female,White,Not Hispanic or Latino,48326,Medicare,Tagalog,Never,None,943,Retired
+944,Demetri,Blamires,1/8/1948,Male,Asian,Hispanic or Latino,48034,Commercial,English,Never,Moderate,944,Unemployed
+945,Tamera,Russen,2/26/1954,Male,Other,Not Hispanic or Latino,48009,Dual-Eligible,English,Never,None,945,Disabled
+946,Susie,Bolstridge,4/2/2003,Female,Black or African American,Not Hispanic or Latino,48067,Commercial,Mandarin,Never,None,946,Retired
+947,Warde,Eliassen,11/24/1997,Non-Binary,White,Not Hispanic or Latino,48076,Dual-Eligible,Spanish,Current,Moderate,947,Employed
+948,Molly,Labroue,8/27/1931,Male,Asian,Not Hispanic or Latino,48301,Commercial,English,Never,Moderate,948,Disabled
+949,Silvan,Lomaz,4/29/1960,Female,Black or African American,Hispanic or Latino,48084,Commercial,English,Current,None,949,Disabled
+950,Ayn,Wigan,12/16/1997,Male,Black or African American,Not Hispanic or Latino,48301,Commercial,Mandarin,Never,Moderate,950,Retired
+951,Bentlee,MacDirmid,1/7/1958,Non-Binary,Asian,Not Hispanic or Latino,48084,Commercial,Mandarin,Former,None,951,Employed
+952,Lida,Eite,5/28/1933,Male,White,Hispanic or Latino,48076,Commercial,English,Never,Heavy,952,Retired
+953,Brittany,Bech,10/8/2015,Male,White,Not Hispanic or Latino,48084,Medicare,Spanish,Never,Moderate,953,Disabled
+954,Herrick,Gibberd,8/16/1978,Female,White,Not Hispanic or Latino,48076,Medicare,Spanish,Current,Moderate,954,Retired
+955,Cristina,Macauley,7/22/1979,Female,American Indian,Not Hispanic or Latino,48076,Dual-Eligible,Tagalog,Former,Moderate,955,Employed
+956,Sergio,Duxbury,4/17/1939,Male,Asian,Not Hispanic or Latino,48034,Medicaid,English,Never,Heavy,956,Unemployed
+957,Caterina,Boundley,4/23/1943,Male,Black or African American,Hispanic or Latino,48009,Commercial,Hindi,Former,None,957,Employed
+958,Marshal,Delacourt,2/16/1950,Female,White,Not Hispanic or Latino,48067,Uninsured,English,Never,None,958,Employed
+959,Ursala,Cortese,12/29/1981,Female,White,Hispanic or Latino,48301,Commercial,English,Never,Moderate,959,Employed
+960,Valina,Gotmann,3/10/2022,Male,White,Not Hispanic or Latino,48076,Commercial,English,Former,None,960,Retired
+961,Lefty,Digges,4/20/1951,Female,Other,Not Hispanic or Latino,48083,Commercial,Hindi,Former,None,961,Employed
+962,Isacco,Rudsdell,7/25/1982,Male,Black or African American,Not Hispanic or Latino,48301,Commercial,English,Former,None,962,Retired
+963,Niki,Heggie,7/23/1982,Female,Asian,Not Hispanic or Latino,48326,Medicare,Tagalog,Current,Moderate,963,Disabled
+964,Pattin,Girardeau,3/10/1985,Female,American Indian,Not Hispanic or Latino,48076,Medicare,Spanish,Never,Moderate,964,Employed
+965,Ronnie,Pinson,3/20/1954,Female,White,Not Hispanic or Latino,48098,Medicare,English,Former,None,965,Employed
+966,Inglebert,Netherclift,10/2/1973,Male,Asian,Hispanic or Latino,48085,Medicare,Other,Former,Heavy,966,Unemployed
+967,Randolf,Kaine,11/19/2022,Female,Black or African American,Not Hispanic or Latino,48067,Commercial,English,Never,Moderate,967,Employed
+968,Malanie,Aldus,7/7/1959,Male,White,Not Hispanic or Latino,48326,Commercial,Mandarin,Never,None,968,Employed
+969,Virginie,Skilbeck,8/14/1942,Female,White,Hispanic or Latino,48034,Medicare,Hindi,Never,Moderate,969,Employed
+970,Jeni,Ferreri,11/16/1934,Male,White,Not Hispanic or Latino,48085,Uninsured,English,Former,Moderate,970,Employed
+971,Kym,Hannah,5/15/1942,Non-Binary,White,Not Hispanic or Latino,48085,Commercial,Spanish,Never,None,971,Retired
+972,Durant,Pendock,9/23/1986,Male,White,Hispanic or Latino,48326,Uninsured,English,Current,Heavy,972,Unemployed
+973,Giralda,Caile,6/27/1954,Female,White,Not Hispanic or Latino,48084,Commercial,Hindi,Never,Moderate,973,Employed
+974,Dame,McGillicuddy,9/18/2007,Male,Other,Not Hispanic or Latino,48084,Dual-Eligible,Hindi,Never,None,974,Unemployed
+975,Romola,Rix,9/8/1986,Male,White,Not Hispanic or Latino,48085,Commercial,English,Never,Heavy,975,Disabled
+976,Jeniffer,Kilmaster,6/4/2003,Male,Other,Not Hispanic or Latino,48301,Commercial,English,Never,Moderate,976,Employed
+977,Derwin,Follen,3/10/1959,Female,Black or African American,Not Hispanic or Latino,48301,Commercial,English,Never,None,977,Disabled
+978,Octavia,Wills,12/19/1986,Non-Binary,White,Not Hispanic or Latino,48076,Commercial,Tagalog,Never,None,978,Retired
+979,Orsa,Coltart,4/22/1961,Female,Other,Hispanic or Latino,48098,Medicare,English,Never,Moderate,979,Retired
+980,Pammie,Cardinal,10/8/1937,Female,Black or African American,Not Hispanic or Latino,48067,Medicare,Mandarin,Never,Heavy,980,Employed
+981,Daisie,Feuell,7/12/1955,Non-Binary,Other,Hispanic or Latino,48009,Commercial,English,Never,Moderate,981,Employed
+982,Van,Coupland,4/21/1970,Female,White,Not Hispanic or Latino,48067,Medicare,English,Former,Moderate,982,Employed
+983,Stella,Billett,9/9/1958,Female,Asian,Not Hispanic or Latino,48067,Uninsured,English,Never,None,983,Employed
+984,Madelaine,Yitzhakof,9/5/1972,Female,Other,Hispanic or Latino,48084,Commercial,English,Current,None,984,Unemployed
+985,Inger,Slatten,4/25/1956,Female,Asian,Not Hispanic or Latino,48034,Commercial,Spanish,Never,None,985,Disabled
+986,Linette,Blasli,6/7/2022,Non-Binary,White,Not Hispanic or Latino,48085,Uninsured,English,Current,None,986,Employed
+987,Valera,Pappin,8/31/1964,Female,American Indian,Not Hispanic or Latino,48076,Commercial,Spanish,Never,Heavy,987,Unemployed
+988,Sophronia,Baudts,8/13/1977,Female,White,Not Hispanic or Latino,48009,Medicare,Other,Never,Moderate,988,Unemployed
+989,Concordia,Crampsy,1/3/2015,Female,Asian,Hispanic or Latino,48076,Commercial,English,Former,None,989,Retired
+990,Alan,Belderson,3/22/1962,Male,American Indian,Not Hispanic or Latino,48098,Commercial,Hindi,Never,None,990,Unemployed
+991,Pall,Lepard,3/20/1974,Female,American Indian,Not Hispanic or Latino,48034,Uninsured,Tagalog,Never,Moderate,991,Retired
+992,Lutero,Francesconi,12/22/1977,Male,Asian,Not Hispanic or Latino,48084,Commercial,English,Never,None,992,Retired
+993,Curtis,Savaage,4/2/2001,Male,Other,Not Hispanic or Latino,48098,Medicare,English,Current,Moderate,993,Employed
+994,Ric,Andreichik,6/30/2017,Male,White,Hispanic or Latino,48326,Medicaid,Spanish,Former,None,994,Retired
+995,Gae,Pascow,1/28/2009,Male,White,Not Hispanic or Latino,48034,Commercial,Spanish,Never,Moderate,995,Employed
+996,Hodge,Soppeth,2/23/1953,Female,American Indian,Hispanic or Latino,48009,Commercial,English,Former,None,996,Employed
+997,Barron,Jeffryes,12/30/1987,Male,White,Not Hispanic or Latino,48301,Medicaid,English,Current,None,997,Unemployed
+998,Kerwin,Walas,4/3/2025,Female,Asian,Hispanic or Latino,48076,Medicaid,English,Never,Moderate,998,Employed
+999,Lillian,Litherborough,9/2/2015,Female,White,Not Hispanic or Latino,48084,Medicaid,Spanish,Current,Moderate,999,Retired
+1000,Andeee,Isakson,12/4/2002,Non-Binary,Asian,Hispanic or Latino,48084,Commercial,English,Never,Moderate,1000,Employed
