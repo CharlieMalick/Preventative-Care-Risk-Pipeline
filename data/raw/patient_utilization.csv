@@ -1,0 +1,1001 @@
+visit_id,patient_id,visit_date,visit_type,facility_type,los_days,ed_visits_12mo,inpatient_admits_12mo,preventive_visits_12mo,no_show_count,days_since_last_visit,pcp_assigned,discharge_disposition,readmit_30d
+1,351,7/5/2025,Inpatient,Hospital,14,2,0,7,2,284,No,AMA,No
+2,32,1/26/2023,Inpatient,Hospital,23,2,4,1,7,79,No,Expired,Yes
+3,785,2/21/2026,Outpatient,Primary Care,4,4,3,2,8,99,Yes,AMA,No
+4,415,4/29/2021,Emergency,Specialty Care,24,6,6,3,8,77,Yes,Rehab,No
+5,991,5/28/2020,Telehealth,Hospital,8,8,4,4,2,345,Yes,AMA,No
+6,765,5/21/2026,Preventive,Clinic,23,2,5,6,5,236,No,SNF,No
+7,624,4/30/2023,Emergency,Clinic,26,8,4,3,5,110,Yes,Expired,Yes
+8,911,1/13/2026,Preventive,Clinic,25,3,3,4,8,355,No,Home,No
+9,772,7/31/2020,Telehealth,Clinic,6,7,1,3,3,118,Yes,SNF,No
+10,340,8/14/2025,Inpatient,Specialty Care,1,7,3,10,2,231,Yes,Expired,No
+11,744,1/14/2022,Emergency,Hospital,0,5,4,12,5,231,Yes,Expired,No
+12,242,9/9/2020,Outpatient,Hospital,0,6,1,0,3,48,No,Rehab,No
+13,290,10/4/2025,Emergency,Primary Care,5,9,0,1,6,216,Yes,AMA,Yes
+14,239,4/11/2020,Inpatient,Hospital,8,7,3,4,0,331,Yes,Rehab,No
+15,434,8/13/2023,Preventive,Clinic,7,2,3,12,0,96,Yes,AMA,No
+16,568,7/7/2020,Telehealth,Hospital,28,5,6,4,5,191,No,Rehab,No
+17,252,3/4/2025,Preventive,Hospital,0,5,2,9,8,144,Yes,Expired,No
+18,291,9/14/2024,Emergency,Clinic,0,6,5,4,8,267,Yes,Home,No
+19,584,5/17/2025,Outpatient,Primary Care,2,5,5,2,4,61,Yes,SNF,No
+20,663,9/27/2024,Preventive,Primary Care,3,10,5,1,7,338,No,SNF,No
+21,866,11/22/2022,Inpatient,Urgent Care,26,3,6,6,7,119,Yes,Home,No
+22,798,6/23/2022,Outpatient,Urgent Care,12,4,0,1,0,237,Yes,AMA,No
+23,407,3/24/2023,Outpatient,Specialty Care,13,7,0,2,4,205,Yes,Rehab,No
+24,912,7/31/2021,Preventive,Hospital,27,7,1,10,0,72,Yes,Expired,No
+25,638,6/17/2025,Inpatient,Hospital,13,2,5,6,3,282,No,AMA,No
+26,889,11/23/2021,Preventive,Urgent Care,12,3,5,3,3,111,Yes,Home,No
+27,212,3/15/2025,Telehealth,Hospital,15,8,6,1,5,239,Yes,Expired,Yes
+28,839,8/27/2023,Outpatient,Specialty Care,27,9,5,3,7,323,Yes,Expired,No
+29,148,1/15/2022,Outpatient,Hospital,20,8,1,9,3,353,Yes,Expired,No
+30,147,3/9/2026,Preventive,Specialty Care,1,9,0,10,5,224,No,Expired,No
+31,38,8/16/2023,Preventive,Hospital,0,0,2,4,6,339,No,SNF,Yes
+32,616,10/7/2021,Emergency,Primary Care,29,0,5,5,0,116,Yes,Home,No
+33,376,6/2/2021,Emergency,Urgent Care,25,0,3,1,4,150,Yes,AMA,Yes
+34,505,6/8/2025,Inpatient,Specialty Care,17,7,6,2,0,101,Yes,Expired,No
+35,267,9/5/2024,Emergency,Clinic,1,9,1,8,8,35,Yes,SNF,Yes
+36,853,12/7/2022,Preventive,Hospital,26,10,5,3,4,66,Yes,Rehab,No
+37,37,7/8/2024,Emergency,Urgent Care,24,1,5,7,3,247,No,Rehab,No
+38,626,3/1/2020,Telehealth,Urgent Care,28,0,4,11,6,306,Yes,Home,No
+39,82,6/17/2021,Preventive,Primary Care,7,10,1,11,8,296,No,Home,No
+40,612,5/19/2023,Inpatient,Urgent Care,29,8,2,4,4,276,Yes,Rehab,No
+41,285,9/23/2024,Emergency,Primary Care,22,5,0,2,7,160,No,Rehab,No
+42,351,11/28/2025,Inpatient,Specialty Care,11,4,6,1,3,82,Yes,Home,No
+43,93,4/21/2022,Emergency,Specialty Care,1,9,0,2,8,196,Yes,Rehab,No
+44,446,11/2/2021,Outpatient,Clinic,3,3,1,1,0,167,Yes,AMA,Yes
+45,876,11/17/2020,Emergency,Primary Care,13,0,0,2,3,144,No,Expired,No
+46,99,1/22/2026,Emergency,Urgent Care,20,9,3,0,7,178,Yes,SNF,No
+47,235,4/5/2022,Preventive,Hospital,23,0,4,11,3,263,Yes,Expired,No
+48,769,5/22/2020,Outpatient,Clinic,15,2,4,8,4,272,Yes,Expired,No
+49,978,4/28/2021,Emergency,Urgent Care,16,5,5,9,3,15,Yes,AMA,No
+50,283,1/26/2024,Telehealth,Primary Care,17,10,1,7,1,110,No,Rehab,Yes
+51,931,9/20/2025,Emergency,Clinic,18,6,1,3,1,163,Yes,AMA,No
+52,823,6/11/2023,Telehealth,Hospital,24,7,4,7,5,185,Yes,Expired,No
+53,99,12/5/2025,Preventive,Clinic,19,6,6,5,8,118,Yes,SNF,No
+54,533,12/19/2024,Outpatient,Hospital,5,2,5,0,0,342,Yes,SNF,No
+55,268,6/28/2025,Emergency,Specialty Care,25,3,5,0,2,181,Yes,Home,No
+56,823,5/31/2021,Telehealth,Urgent Care,8,10,0,2,5,183,No,Rehab,No
+57,32,4/27/2020,Preventive,Urgent Care,29,2,3,5,0,101,Yes,AMA,No
+58,306,6/10/2024,Outpatient,Hospital,8,2,1,2,3,331,Yes,AMA,No
+59,56,6/28/2022,Inpatient,Specialty Care,12,10,2,0,0,292,Yes,Home,Yes
+60,917,5/11/2022,Preventive,Urgent Care,28,3,4,1,1,174,Yes,AMA,No
+61,666,5/23/2023,Preventive,Clinic,3,10,4,0,5,141,Yes,AMA,No
+62,69,11/4/2022,Inpatient,Clinic,11,3,5,12,5,209,Yes,Home,No
+63,383,4/17/2024,Outpatient,Primary Care,20,6,2,12,8,109,Yes,AMA,No
+64,405,9/30/2024,Outpatient,Clinic,13,6,5,8,8,333,Yes,Rehab,No
+65,587,12/6/2023,Emergency,Clinic,18,5,4,2,0,29,Yes,Expired,No
+66,260,12/12/2020,Preventive,Specialty Care,3,4,6,8,4,283,Yes,SNF,No
+67,78,3/26/2022,Inpatient,Primary Care,5,7,6,3,6,153,Yes,Expired,No
+68,289,8/18/2025,Outpatient,Primary Care,17,6,6,0,5,174,Yes,Rehab,No
+69,815,11/14/2020,Inpatient,Hospital,3,0,0,10,2,98,Yes,Expired,No
+70,161,5/18/2020,Preventive,Primary Care,13,10,5,0,8,345,Yes,Expired,No
+71,631,4/15/2026,Outpatient,Clinic,12,2,5,4,8,72,Yes,AMA,No
+72,470,4/23/2026,Inpatient,Urgent Care,15,7,0,10,3,8,No,AMA,Yes
+73,491,4/25/2024,Telehealth,Clinic,9,4,6,2,8,269,No,Home,No
+74,639,7/9/2020,Preventive,Urgent Care,9,4,6,4,3,39,Yes,SNF,No
+75,156,11/10/2023,Emergency,Hospital,26,8,1,3,2,47,Yes,Expired,Yes
+76,984,3/24/2025,Outpatient,Hospital,29,10,6,3,0,327,Yes,Home,No
+77,314,12/21/2021,Preventive,Specialty Care,27,2,2,6,2,116,Yes,SNF,No
+78,439,8/11/2022,Emergency,Hospital,5,10,4,6,0,299,Yes,Rehab,No
+79,291,11/12/2020,Outpatient,Specialty Care,6,1,3,11,2,205,Yes,Home,No
+80,463,9/25/2023,Preventive,Hospital,29,3,3,6,7,92,Yes,AMA,No
+81,216,2/21/2026,Preventive,Specialty Care,11,8,3,12,2,201,Yes,Rehab,Yes
+82,268,5/18/2024,Inpatient,Specialty Care,27,8,5,7,2,88,No,SNF,No
+83,575,8/28/2023,Inpatient,Clinic,27,3,0,1,6,355,Yes,AMA,No
+84,37,1/5/2020,Preventive,Urgent Care,20,2,2,12,3,185,No,Expired,No
+85,265,11/22/2024,Outpatient,Clinic,19,8,2,9,3,137,Yes,Expired,No
+86,290,3/15/2021,Inpatient,Hospital,3,8,4,5,3,125,Yes,SNF,Yes
+87,938,10/11/2022,Outpatient,Clinic,27,10,0,6,2,103,Yes,Home,Yes
+88,762,11/26/2024,Emergency,Clinic,9,9,2,1,6,69,Yes,Rehab,No
+89,26,3/7/2025,Telehealth,Primary Care,10,0,2,10,3,171,Yes,Home,No
+90,92,5/3/2024,Inpatient,Urgent Care,1,3,0,3,4,193,Yes,AMA,No
+91,846,4/18/2026,Telehealth,Hospital,3,8,4,7,4,208,No,Rehab,No
+92,865,10/8/2025,Outpatient,Urgent Care,17,9,6,12,2,219,No,Rehab,No
+93,830,9/8/2024,Emergency,Clinic,12,2,5,12,3,8,No,Rehab,Yes
+94,388,5/15/2025,Telehealth,Specialty Care,18,5,2,0,5,161,Yes,SNF,No
+95,939,6/10/2021,Telehealth,Urgent Care,18,3,4,4,1,172,Yes,AMA,No
+96,584,9/5/2020,Emergency,Primary Care,9,9,6,1,6,179,Yes,Home,Yes
+97,489,4/20/2022,Emergency,Clinic,16,8,4,1,3,340,Yes,AMA,No
+98,558,4/11/2024,Preventive,Urgent Care,27,6,3,3,1,100,Yes,Rehab,No
+99,788,8/17/2022,Emergency,Urgent Care,15,9,1,12,3,302,Yes,SNF,Yes
+100,789,5/11/2021,Inpatient,Primary Care,18,6,6,5,8,84,No,AMA,No
+101,300,3/16/2025,Telehealth,Urgent Care,30,4,1,6,7,361,Yes,SNF,Yes
+102,743,4/15/2024,Outpatient,Primary Care,10,7,3,3,8,316,Yes,Home,No
+103,292,6/6/2024,Emergency,Clinic,25,3,1,2,5,155,Yes,Home,No
+104,747,4/9/2025,Outpatient,Hospital,3,3,5,10,0,4,Yes,Expired,No
+105,949,6/30/2023,Inpatient,Urgent Care,17,4,1,5,5,111,Yes,AMA,No
+106,227,4/13/2021,Inpatient,Primary Care,1,3,6,12,5,360,Yes,AMA,Yes
+107,297,1/23/2026,Telehealth,Hospital,21,6,3,6,1,236,Yes,SNF,Yes
+108,888,6/21/2020,Emergency,Hospital,2,9,0,12,3,105,Yes,Home,Yes
+109,908,8/18/2023,Preventive,Urgent Care,29,1,5,8,8,37,Yes,Rehab,No
+110,842,7/16/2021,Outpatient,Primary Care,28,0,1,12,8,180,Yes,Home,No
+111,123,10/2/2024,Emergency,Clinic,11,7,1,11,1,306,Yes,Rehab,No
+112,48,3/3/2026,Emergency,Urgent Care,28,0,3,3,8,234,Yes,Home,No
+113,212,5/15/2025,Inpatient,Urgent Care,9,5,2,5,3,275,Yes,SNF,Yes
+114,940,7/25/2021,Inpatient,Clinic,22,7,1,12,8,175,Yes,AMA,No
+115,429,2/5/2026,Preventive,Clinic,0,10,5,0,5,258,Yes,Home,No
+116,172,5/6/2021,Outpatient,Hospital,15,1,0,6,3,261,Yes,Expired,No
+117,385,4/15/2026,Inpatient,Specialty Care,1,2,5,11,6,60,Yes,SNF,Yes
+118,86,4/27/2026,Preventive,Specialty Care,5,3,5,7,4,25,Yes,Expired,No
+119,587,2/13/2022,Emergency,Specialty Care,1,3,3,4,2,86,No,AMA,No
+120,589,2/13/2025,Preventive,Hospital,19,10,2,1,1,151,Yes,SNF,No
+121,575,2/9/2023,Inpatient,Clinic,25,0,0,10,4,262,Yes,Rehab,No
+122,547,8/2/2025,Outpatient,Urgent Care,17,3,0,7,2,110,Yes,AMA,Yes
+123,305,4/16/2026,Outpatient,Clinic,4,10,6,0,5,47,No,AMA,Yes
+124,208,12/1/2023,Outpatient,Primary Care,0,3,4,10,4,310,Yes,Rehab,No
+125,578,9/8/2021,Preventive,Urgent Care,2,2,0,7,0,303,Yes,AMA,No
+126,946,2/7/2026,Emergency,Hospital,24,3,1,10,0,3,Yes,Home,Yes
+127,648,2/4/2021,Emergency,Specialty Care,9,4,1,9,3,174,Yes,SNF,No
+128,382,7/14/2020,Inpatient,Specialty Care,14,4,3,8,6,223,Yes,AMA,No
+129,164,12/8/2021,Preventive,Hospital,22,8,0,10,0,119,No,SNF,Yes
+130,730,9/2/2022,Telehealth,Primary Care,4,10,1,11,6,329,Yes,Home,Yes
+131,178,4/7/2026,Inpatient,Urgent Care,17,9,4,7,6,326,Yes,Home,No
+132,659,3/20/2026,Outpatient,Urgent Care,8,10,3,0,8,284,Yes,Home,No
+133,404,9/10/2022,Emergency,Specialty Care,22,1,4,7,3,193,Yes,Home,Yes
+134,407,10/12/2022,Preventive,Primary Care,16,1,4,8,6,201,Yes,Rehab,No
+135,909,10/17/2025,Emergency,Urgent Care,12,7,3,12,3,360,No,Expired,No
+136,505,6/14/2022,Outpatient,Clinic,16,7,4,0,0,323,No,Home,No
+137,867,10/3/2023,Preventive,Hospital,25,7,0,10,1,293,Yes,Rehab,No
+138,150,7/5/2024,Outpatient,Specialty Care,19,10,1,4,0,182,Yes,Expired,No
+139,818,2/15/2021,Telehealth,Primary Care,11,1,5,3,6,175,Yes,SNF,No
+140,874,8/25/2022,Preventive,Urgent Care,16,10,1,0,1,131,Yes,AMA,No
+141,415,6/14/2023,Outpatient,Urgent Care,23,7,6,5,3,186,Yes,Rehab,No
+142,87,12/29/2023,Emergency,Specialty Care,29,10,6,8,8,7,No,SNF,Yes
+143,608,9/30/2024,Inpatient,Specialty Care,1,7,1,4,5,331,Yes,SNF,No
+144,535,12/18/2023,Inpatient,Clinic,17,1,3,10,8,164,Yes,SNF,No
+145,37,10/24/2023,Inpatient,Specialty Care,13,7,0,8,3,229,Yes,SNF,No
+146,258,12/17/2022,Inpatient,Primary Care,7,0,6,0,3,149,Yes,Rehab,No
+147,238,4/10/2023,Outpatient,Specialty Care,29,7,6,2,4,258,Yes,Home,No
+148,257,12/4/2025,Emergency,Urgent Care,13,5,3,4,4,24,Yes,Expired,No
+149,607,3/28/2021,Preventive,Hospital,28,0,0,8,1,71,Yes,Rehab,No
+150,463,4/6/2022,Preventive,Hospital,20,2,5,4,3,230,Yes,SNF,No
+151,518,5/12/2020,Emergency,Hospital,16,8,2,12,6,74,Yes,SNF,No
+152,226,3/13/2026,Emergency,Urgent Care,0,1,5,7,6,196,No,AMA,No
+153,502,11/16/2025,Preventive,Hospital,12,7,5,8,0,150,Yes,Rehab,No
+154,324,11/21/2024,Inpatient,Primary Care,1,0,3,7,2,9,Yes,AMA,No
+155,820,12/26/2024,Telehealth,Hospital,27,4,6,5,4,187,Yes,SNF,No
+156,707,3/8/2020,Telehealth,Primary Care,3,0,2,4,8,314,Yes,Home,No
+157,67,5/28/2026,Preventive,Hospital,11,2,6,2,0,286,Yes,AMA,No
+158,416,8/23/2025,Emergency,Primary Care,10,10,1,7,2,112,Yes,SNF,No
+159,510,8/13/2024,Inpatient,Urgent Care,0,0,5,5,4,0,No,Home,No
+160,423,2/21/2024,Inpatient,Specialty Care,5,4,3,1,7,102,No,Expired,No
+161,35,1/18/2025,Telehealth,Clinic,0,8,0,2,6,246,Yes,Rehab,Yes
+162,653,11/26/2022,Inpatient,Specialty Care,5,1,5,3,7,240,Yes,AMA,No
+163,975,6/17/2021,Preventive,Hospital,30,2,6,9,4,266,Yes,SNF,Yes
+164,735,1/10/2021,Preventive,Specialty Care,24,1,6,2,4,191,Yes,Expired,No
+165,135,5/5/2022,Telehealth,Clinic,27,4,4,4,4,251,No,Expired,No
+166,535,3/6/2024,Preventive,Hospital,9,2,6,0,3,219,No,Home,No
+167,866,9/18/2022,Emergency,Clinic,28,7,6,0,0,281,Yes,Home,No
+168,309,3/18/2025,Emergency,Hospital,9,8,1,0,6,301,Yes,SNF,No
+169,317,1/26/2026,Telehealth,Hospital,19,3,5,6,0,244,No,Rehab,No
+170,596,10/20/2023,Emergency,Urgent Care,6,6,4,11,0,356,Yes,Home,No
+171,992,12/28/2021,Outpatient,Primary Care,10,9,4,12,0,338,Yes,SNF,No
+172,900,2/2/2022,Outpatient,Specialty Care,25,4,5,12,6,354,Yes,Rehab,No
+173,294,4/21/2021,Inpatient,Urgent Care,22,3,1,11,8,154,Yes,SNF,No
+174,624,6/22/2022,Outpatient,Clinic,1,3,4,7,0,353,Yes,Rehab,No
+175,992,12/29/2022,Outpatient,Primary Care,2,7,6,7,7,210,No,Rehab,No
+176,625,4/23/2023,Emergency,Clinic,17,7,5,2,6,100,Yes,Rehab,Yes
+177,94,8/27/2024,Inpatient,Primary Care,8,1,1,12,6,46,No,Expired,Yes
+178,79,5/18/2022,Emergency,Urgent Care,27,7,3,3,3,215,Yes,Rehab,No
+179,651,3/29/2024,Emergency,Clinic,13,3,2,7,1,12,Yes,Expired,Yes
+180,199,1/28/2024,Preventive,Urgent Care,24,1,0,10,5,178,Yes,Home,No
+181,91,8/20/2025,Inpatient,Urgent Care,27,2,3,2,7,148,No,AMA,No
+182,528,1/8/2025,Telehealth,Hospital,16,4,1,6,8,163,Yes,Home,No
+183,303,11/30/2020,Telehealth,Specialty Care,20,10,1,9,7,214,Yes,SNF,No
+184,359,1/14/2023,Inpatient,Hospital,8,8,1,4,6,6,No,SNF,Yes
+185,609,8/28/2022,Inpatient,Clinic,15,9,4,3,1,7,Yes,SNF,Yes
+186,851,8/8/2023,Inpatient,Primary Care,1,7,4,9,2,79,Yes,Expired,No
+187,257,3/13/2024,Telehealth,Clinic,2,0,3,7,2,126,Yes,Expired,No
+188,44,1/28/2020,Emergency,Hospital,15,8,2,4,2,177,Yes,SNF,No
+189,832,10/26/2023,Preventive,Specialty Care,19,5,6,5,7,41,Yes,Home,No
+190,370,10/26/2022,Inpatient,Hospital,15,1,0,9,7,160,Yes,Home,No
+191,704,10/20/2023,Inpatient,Primary Care,22,2,4,1,1,267,No,Expired,No
+192,308,4/21/2021,Telehealth,Urgent Care,18,4,6,2,1,73,Yes,Rehab,No
+193,989,4/21/2026,Preventive,Specialty Care,22,7,5,8,6,117,No,Rehab,No
+194,255,2/10/2026,Preventive,Specialty Care,30,8,6,4,3,251,Yes,Expired,No
+195,673,3/8/2020,Outpatient,Hospital,23,6,6,3,0,63,No,Rehab,No
+196,535,6/5/2021,Emergency,Clinic,0,6,1,3,3,275,Yes,Home,No
+197,825,5/6/2024,Outpatient,Clinic,4,1,0,1,1,344,Yes,Home,No
+198,97,3/22/2022,Preventive,Primary Care,10,4,2,1,4,115,No,Home,No
+199,162,7/14/2021,Preventive,Specialty Care,28,7,6,10,7,189,Yes,SNF,No
+200,358,2/26/2024,Preventive,Primary Care,16,10,6,12,6,46,No,SNF,No
+201,66,10/5/2022,Inpatient,Hospital,1,9,1,9,7,106,No,SNF,Yes
+202,873,3/27/2024,Inpatient,Primary Care,8,4,6,7,5,30,Yes,Rehab,Yes
+203,434,5/25/2025,Outpatient,Clinic,2,10,0,1,7,120,Yes,SNF,No
+204,453,3/3/2021,Emergency,Urgent Care,6,7,6,1,8,7,Yes,Expired,No
+205,601,4/18/2024,Preventive,Urgent Care,28,4,4,4,7,82,Yes,Expired,No
+206,837,12/24/2024,Outpatient,Hospital,11,5,3,2,0,245,Yes,AMA,No
+207,479,6/2/2026,Outpatient,Primary Care,27,2,0,1,7,269,Yes,SNF,Yes
+208,567,10/20/2020,Telehealth,Specialty Care,16,3,3,6,5,119,Yes,SNF,No
+209,295,8/5/2020,Outpatient,Primary Care,19,5,5,10,3,147,Yes,Home,No
+210,731,3/22/2026,Outpatient,Specialty Care,19,1,0,3,8,286,Yes,AMA,No
+211,190,7/3/2023,Outpatient,Urgent Care,13,7,5,10,5,335,Yes,Expired,No
+212,824,1/15/2026,Inpatient,Primary Care,29,4,4,10,8,90,Yes,Home,No
+213,957,11/5/2020,Preventive,Clinic,10,2,6,4,0,312,Yes,AMA,No
+214,585,7/8/2022,Emergency,Hospital,27,2,3,8,0,4,Yes,Rehab,No
+215,216,5/5/2025,Telehealth,Clinic,17,7,5,4,2,169,Yes,Expired,No
+216,379,10/11/2020,Outpatient,Hospital,23,6,3,0,6,1,Yes,Home,No
+217,53,12/20/2023,Inpatient,Specialty Care,29,7,0,8,6,103,Yes,Rehab,No
+218,247,3/10/2023,Emergency,Primary Care,11,3,0,2,7,63,Yes,AMA,No
+219,719,5/3/2023,Telehealth,Urgent Care,10,0,6,11,4,25,Yes,Expired,No
+220,145,5/19/2021,Outpatient,Specialty Care,30,10,2,12,7,9,Yes,Home,No
+221,550,10/8/2020,Inpatient,Clinic,25,4,2,8,2,314,Yes,AMA,No
+222,565,5/18/2020,Outpatient,Specialty Care,10,8,1,0,3,28,Yes,Expired,No
+223,134,4/17/2020,Outpatient,Specialty Care,4,1,1,11,4,210,Yes,Home,No
+224,644,3/21/2022,Preventive,Urgent Care,10,1,1,12,3,312,Yes,Home,Yes
+225,986,11/29/2021,Emergency,Primary Care,15,0,1,7,5,336,Yes,Home,No
+226,130,6/11/2025,Outpatient,Hospital,24,10,6,10,6,114,Yes,Rehab,No
+227,741,3/21/2023,Inpatient,Urgent Care,5,9,0,6,3,125,No,SNF,No
+228,979,1/18/2025,Outpatient,Urgent Care,7,10,3,5,0,232,Yes,AMA,No
+229,267,7/1/2021,Emergency,Primary Care,15,8,5,1,0,349,Yes,Expired,Yes
+230,932,4/21/2026,Outpatient,Primary Care,15,2,0,2,8,56,Yes,AMA,Yes
+231,553,11/3/2022,Inpatient,Hospital,27,3,5,4,6,170,Yes,AMA,No
+232,566,7/16/2024,Emergency,Urgent Care,0,9,6,4,2,346,No,AMA,No
+233,613,8/13/2025,Emergency,Primary Care,17,9,6,4,8,230,Yes,Rehab,No
+234,419,1/5/2023,Inpatient,Primary Care,29,3,2,8,3,184,Yes,SNF,No
+235,704,7/27/2024,Outpatient,Clinic,7,4,6,10,0,253,Yes,Rehab,No
+236,369,9/14/2025,Emergency,Hospital,28,3,2,6,0,152,No,Expired,No
+237,811,2/24/2026,Inpatient,Hospital,2,5,6,6,2,245,Yes,Expired,No
+238,284,9/21/2022,Preventive,Hospital,26,6,4,12,1,133,Yes,AMA,No
+239,531,11/26/2024,Inpatient,Clinic,21,2,6,11,0,346,No,Home,Yes
+240,822,10/6/2023,Telehealth,Hospital,2,5,6,11,0,307,No,SNF,No
+241,61,3/28/2024,Outpatient,Clinic,23,0,0,6,4,311,Yes,Expired,Yes
+242,96,2/28/2024,Outpatient,Clinic,30,5,5,0,5,263,Yes,SNF,No
+243,654,2/13/2024,Inpatient,Hospital,18,5,1,3,7,59,Yes,AMA,Yes
+244,3,5/6/2020,Outpatient,Clinic,15,5,0,6,6,127,Yes,AMA,No
+245,334,7/5/2021,Emergency,Clinic,9,2,6,10,6,247,Yes,Home,No
+246,453,4/30/2022,Inpatient,Hospital,12,5,4,1,5,165,Yes,AMA,No
+247,718,3/16/2021,Preventive,Primary Care,23,8,1,11,5,300,Yes,SNF,No
+248,617,9/22/2023,Telehealth,Primary Care,3,4,6,6,0,206,Yes,SNF,No
+249,726,4/19/2021,Telehealth,Urgent Care,3,6,0,11,8,82,Yes,Expired,No
+250,367,10/31/2023,Emergency,Hospital,1,3,3,7,4,216,Yes,Expired,Yes
+251,681,8/21/2024,Outpatient,Specialty Care,6,2,2,6,5,160,Yes,Expired,No
+252,729,3/13/2022,Inpatient,Clinic,20,6,2,3,4,184,Yes,Home,No
+253,568,7/26/2021,Inpatient,Primary Care,27,5,4,9,4,62,No,Home,Yes
+254,405,1/27/2023,Emergency,Clinic,2,7,4,3,6,327,Yes,AMA,No
+255,747,9/27/2020,Preventive,Urgent Care,14,0,1,12,5,15,Yes,AMA,No
+256,944,4/19/2022,Emergency,Clinic,8,0,4,2,3,160,No,SNF,No
+257,836,1/16/2026,Preventive,Clinic,14,3,4,3,8,192,Yes,Home,No
+258,333,12/21/2023,Preventive,Clinic,0,6,3,0,0,265,No,SNF,No
+259,694,1/27/2022,Outpatient,Urgent Care,30,9,0,2,2,108,Yes,AMA,No
+260,892,6/6/2022,Preventive,Specialty Care,25,2,5,1,8,121,Yes,Home,Yes
+261,530,11/29/2021,Outpatient,Specialty Care,15,10,4,1,7,17,Yes,AMA,No
+262,836,12/27/2020,Telehealth,Hospital,4,7,4,3,5,291,Yes,SNF,Yes
+263,995,6/25/2024,Outpatient,Urgent Care,7,1,2,1,7,57,Yes,Expired,No
+264,659,3/14/2023,Telehealth,Hospital,12,9,2,10,5,235,No,SNF,No
+265,883,7/21/2023,Telehealth,Clinic,10,10,0,12,3,272,Yes,Home,No
+266,231,2/24/2024,Inpatient,Clinic,5,1,0,5,1,308,Yes,Rehab,No
+267,762,1/3/2026,Emergency,Primary Care,0,4,1,3,7,262,Yes,Home,No
+268,440,7/12/2023,Telehealth,Primary Care,13,7,3,2,8,39,Yes,SNF,No
+269,326,7/23/2021,Telehealth,Primary Care,3,4,5,4,5,22,Yes,Rehab,No
+270,984,3/15/2025,Preventive,Specialty Care,2,7,2,10,2,225,Yes,Home,No
+271,223,7/12/2020,Emergency,Primary Care,28,8,1,11,3,1,No,SNF,No
+272,507,9/6/2025,Emergency,Primary Care,15,9,0,8,7,234,Yes,SNF,No
+273,986,6/26/2024,Inpatient,Hospital,7,2,5,1,8,116,Yes,Expired,Yes
+274,235,2/1/2025,Inpatient,Urgent Care,15,9,3,11,4,300,Yes,Rehab,No
+275,560,7/11/2025,Inpatient,Urgent Care,18,9,3,6,2,45,No,AMA,No
+276,845,11/28/2021,Inpatient,Specialty Care,6,10,3,2,8,267,Yes,Home,No
+277,684,9/28/2021,Preventive,Specialty Care,7,2,1,4,6,354,No,SNF,Yes
+278,553,7/4/2023,Outpatient,Urgent Care,24,10,5,8,0,39,No,AMA,No
+279,649,7/30/2024,Inpatient,Primary Care,3,10,5,0,0,206,No,AMA,No
+280,695,10/22/2022,Emergency,Hospital,8,6,3,2,3,241,Yes,Rehab,No
+281,849,4/18/2026,Preventive,Clinic,0,6,1,10,6,274,Yes,SNF,No
+282,985,3/27/2023,Inpatient,Clinic,4,8,1,1,6,348,No,AMA,No
+283,471,11/9/2024,Telehealth,Clinic,5,4,6,10,0,2,Yes,Expired,No
+284,137,5/19/2025,Inpatient,Specialty Care,12,5,1,1,1,266,No,AMA,No
+285,534,7/26/2021,Preventive,Specialty Care,24,0,1,7,7,362,Yes,SNF,Yes
+286,531,11/1/2021,Preventive,Urgent Care,19,2,2,11,3,63,Yes,Rehab,No
+287,865,3/12/2025,Preventive,Urgent Care,1,4,0,8,2,133,Yes,Rehab,No
+288,989,4/5/2025,Outpatient,Clinic,3,1,3,3,6,26,No,Home,Yes
+289,821,8/17/2022,Emergency,Hospital,5,6,4,11,2,52,No,SNF,No
+290,43,12/7/2021,Inpatient,Primary Care,0,2,0,11,5,208,No,SNF,No
+291,403,3/30/2024,Preventive,Urgent Care,12,2,4,11,7,360,Yes,Expired,No
+292,764,10/27/2024,Emergency,Hospital,2,10,0,4,1,363,Yes,AMA,No
+293,750,12/31/2025,Emergency,Primary Care,6,10,4,6,5,74,No,Home,No
+294,249,8/14/2024,Outpatient,Hospital,19,7,0,3,0,328,Yes,Rehab,No
+295,720,1/19/2022,Outpatient,Clinic,1,0,0,4,5,139,Yes,AMA,No
+296,378,4/2/2026,Inpatient,Primary Care,24,0,0,3,3,215,Yes,AMA,No
+297,407,10/3/2023,Emergency,Specialty Care,5,8,6,3,3,77,Yes,SNF,Yes
+298,257,2/3/2024,Telehealth,Urgent Care,2,2,1,8,1,254,Yes,Expired,No
+299,12,2/20/2026,Outpatient,Hospital,5,6,4,5,4,54,Yes,Home,No
+300,277,8/21/2023,Outpatient,Specialty Care,4,6,6,4,6,305,Yes,SNF,No
+301,112,2/20/2024,Outpatient,Specialty Care,23,9,2,11,1,183,No,AMA,Yes
+302,277,2/10/2023,Telehealth,Clinic,10,6,1,0,4,230,No,Home,No
+303,29,5/31/2022,Preventive,Clinic,19,1,1,11,2,22,No,Rehab,No
+304,395,8/20/2021,Outpatient,Specialty Care,3,2,0,8,5,202,Yes,SNF,Yes
+305,313,5/4/2024,Emergency,Clinic,19,10,6,12,1,167,Yes,Expired,No
+306,324,4/29/2020,Preventive,Hospital,17,7,6,3,5,154,Yes,SNF,No
+307,929,6/14/2021,Emergency,Hospital,17,1,6,1,6,162,Yes,Home,No
+308,680,8/19/2023,Emergency,Hospital,22,2,1,8,7,182,Yes,AMA,No
+309,933,1/17/2020,Telehealth,Clinic,9,6,1,5,4,179,Yes,Home,No
+310,938,2/27/2021,Emergency,Primary Care,8,8,6,8,1,344,No,SNF,No
+311,888,12/12/2020,Preventive,Hospital,6,10,2,3,8,328,Yes,Expired,No
+312,6,5/10/2023,Emergency,Primary Care,10,6,0,3,7,2,No,Home,No
+313,774,2/14/2023,Inpatient,Urgent Care,28,6,1,12,0,22,Yes,AMA,No
+314,489,6/12/2024,Preventive,Primary Care,17,10,1,5,2,229,Yes,SNF,No
+315,193,7/29/2021,Preventive,Urgent Care,0,6,2,11,0,103,No,Home,No
+316,300,3/19/2025,Telehealth,Specialty Care,23,6,3,6,2,294,Yes,AMA,No
+317,520,12/25/2022,Emergency,Specialty Care,23,8,1,0,2,300,No,Home,No
+318,178,2/21/2024,Emergency,Hospital,22,0,0,2,2,129,Yes,Rehab,No
+319,792,11/12/2024,Preventive,Urgent Care,21,5,2,10,6,295,Yes,Home,Yes
+320,435,7/5/2021,Telehealth,Primary Care,3,2,1,3,6,283,Yes,AMA,No
+321,719,10/31/2021,Outpatient,Primary Care,6,8,6,4,6,223,No,SNF,No
+322,637,7/19/2020,Emergency,Specialty Care,28,3,2,12,2,104,Yes,Expired,No
+323,567,4/18/2020,Preventive,Specialty Care,10,9,3,0,4,61,Yes,SNF,No
+324,617,9/24/2024,Telehealth,Specialty Care,16,2,4,5,4,229,Yes,SNF,Yes
+325,304,12/15/2021,Inpatient,Urgent Care,1,9,4,2,7,53,Yes,AMA,No
+326,875,2/27/2022,Telehealth,Clinic,13,1,3,8,6,180,No,AMA,No
+327,534,4/11/2026,Emergency,Clinic,4,7,1,0,2,58,Yes,AMA,No
+328,307,12/2/2022,Emergency,Clinic,9,3,0,7,6,74,Yes,Home,No
+329,545,8/2/2024,Telehealth,Clinic,2,8,3,3,2,281,Yes,Home,Yes
+330,48,2/28/2022,Emergency,Urgent Care,23,4,0,11,5,84,Yes,Rehab,No
+331,189,5/14/2021,Telehealth,Hospital,28,6,6,4,4,316,No,SNF,No
+332,248,3/19/2023,Outpatient,Urgent Care,6,8,1,8,5,76,No,AMA,No
+333,478,11/14/2022,Outpatient,Urgent Care,17,5,0,12,2,353,Yes,SNF,Yes
+334,639,10/8/2025,Outpatient,Urgent Care,24,7,4,7,5,268,No,Expired,No
+335,880,1/17/2020,Preventive,Specialty Care,27,1,0,6,8,160,Yes,AMA,No
+336,354,10/17/2022,Inpatient,Clinic,20,10,4,1,3,295,Yes,AMA,No
+337,924,11/22/2021,Emergency,Specialty Care,11,10,1,5,1,79,Yes,AMA,No
+338,317,5/10/2023,Preventive,Urgent Care,27,8,6,1,7,43,Yes,Rehab,No
+339,821,7/13/2020,Preventive,Urgent Care,21,1,6,3,8,238,Yes,Home,No
+340,254,6/30/2021,Emergency,Primary Care,29,0,6,8,4,294,Yes,AMA,No
+341,776,6/27/2025,Emergency,Specialty Care,5,3,0,7,3,217,Yes,Expired,No
+342,142,8/3/2024,Emergency,Clinic,21,8,1,8,7,12,Yes,AMA,Yes
+343,798,8/9/2024,Telehealth,Clinic,4,3,2,4,1,157,No,AMA,No
+344,142,5/29/2026,Inpatient,Hospital,24,2,5,5,8,221,Yes,Rehab,Yes
+345,827,6/27/2020,Outpatient,Clinic,12,5,0,9,2,133,Yes,AMA,Yes
+346,483,12/28/2020,Preventive,Hospital,22,0,6,8,6,154,Yes,AMA,No
+347,556,6/21/2023,Preventive,Clinic,15,10,4,4,5,233,Yes,SNF,No
+348,927,1/31/2020,Preventive,Specialty Care,14,8,5,0,1,245,No,SNF,No
+349,518,7/13/2025,Emergency,Clinic,4,2,0,12,7,272,No,Home,No
+350,602,4/13/2024,Emergency,Clinic,0,0,3,6,8,3,Yes,Home,No
+351,520,10/7/2024,Telehealth,Primary Care,14,1,3,8,0,169,Yes,Rehab,No
+352,767,12/9/2022,Telehealth,Clinic,28,6,4,0,8,344,No,AMA,No
+353,514,12/11/2024,Inpatient,Urgent Care,15,9,2,3,4,99,No,Home,Yes
+354,86,2/6/2025,Telehealth,Clinic,14,7,3,12,5,353,Yes,Expired,No
+355,840,11/24/2023,Preventive,Urgent Care,8,4,0,9,2,126,Yes,Rehab,No
+356,232,10/13/2020,Telehealth,Hospital,10,7,6,9,7,330,No,Expired,No
+357,525,5/22/2020,Emergency,Urgent Care,28,4,2,11,8,200,No,Rehab,No
+358,387,12/7/2020,Inpatient,Primary Care,19,2,4,9,0,296,Yes,Rehab,No
+359,965,11/15/2025,Outpatient,Specialty Care,0,2,3,9,8,316,Yes,Expired,No
+360,619,5/7/2020,Telehealth,Specialty Care,2,4,0,7,7,351,Yes,Expired,No
+361,767,9/22/2025,Emergency,Hospital,8,6,0,12,6,280,Yes,SNF,No
+362,131,3/10/2025,Emergency,Urgent Care,29,10,3,9,3,260,Yes,SNF,No
+363,576,12/6/2022,Preventive,Clinic,4,2,1,5,8,179,No,Expired,Yes
+364,646,5/7/2022,Emergency,Urgent Care,20,5,6,5,2,330,Yes,Rehab,No
+365,606,10/16/2024,Telehealth,Specialty Care,16,4,3,6,5,271,Yes,Rehab,Yes
+366,967,6/15/2024,Preventive,Primary Care,18,9,4,5,0,266,Yes,SNF,No
+367,806,10/9/2023,Telehealth,Primary Care,10,6,4,5,7,283,Yes,Rehab,No
+368,771,5/16/2022,Emergency,Primary Care,17,5,6,2,8,194,No,SNF,No
+369,964,4/10/2020,Telehealth,Urgent Care,17,5,2,2,5,56,Yes,SNF,No
+370,161,7/18/2021,Preventive,Hospital,9,2,0,12,6,130,Yes,Rehab,No
+371,822,6/24/2025,Telehealth,Specialty Care,12,3,3,11,5,143,Yes,Rehab,No
+372,544,11/3/2025,Emergency,Urgent Care,14,8,2,11,7,149,Yes,Expired,Yes
+373,349,3/17/2026,Emergency,Specialty Care,6,5,5,0,8,225,No,Rehab,No
+374,160,9/14/2025,Emergency,Specialty Care,6,4,1,5,2,127,Yes,Expired,Yes
+375,913,9/5/2020,Outpatient,Specialty Care,0,0,5,9,7,17,Yes,Expired,Yes
+376,85,8/24/2020,Outpatient,Clinic,21,2,4,2,7,150,Yes,Expired,No
+377,218,12/16/2021,Inpatient,Specialty Care,14,6,4,3,3,184,No,SNF,No
+378,858,2/7/2022,Telehealth,Clinic,19,9,0,11,1,365,Yes,Rehab,No
+379,108,6/5/2024,Emergency,Primary Care,28,0,6,5,0,273,Yes,Home,No
+380,929,4/6/2022,Preventive,Specialty Care,12,7,4,2,5,147,Yes,AMA,No
+381,473,2/21/2021,Telehealth,Primary Care,13,8,3,9,7,143,Yes,Home,No
+382,449,10/5/2025,Outpatient,Primary Care,15,4,1,1,3,123,No,AMA,No
+383,197,4/11/2026,Telehealth,Clinic,22,8,2,0,6,202,Yes,AMA,No
+384,743,3/6/2022,Inpatient,Urgent Care,28,10,0,6,5,344,Yes,Rehab,Yes
+385,956,7/14/2021,Emergency,Clinic,27,10,4,6,1,28,Yes,SNF,No
+386,550,7/21/2021,Preventive,Hospital,24,7,5,0,4,11,Yes,Expired,No
+387,514,3/7/2024,Telehealth,Urgent Care,2,9,6,4,6,44,Yes,Expired,No
+388,583,12/8/2023,Inpatient,Clinic,30,5,1,2,8,232,Yes,Expired,Yes
+389,29,5/24/2023,Inpatient,Primary Care,16,9,3,5,2,98,No,Rehab,No
+390,730,11/5/2020,Outpatient,Clinic,6,3,5,2,6,352,No,Expired,No
+391,954,10/7/2022,Inpatient,Primary Care,14,4,4,5,6,186,Yes,Home,No
+392,256,1/12/2022,Outpatient,Urgent Care,16,8,3,8,2,172,Yes,Rehab,Yes
+393,753,1/17/2022,Telehealth,Specialty Care,6,4,6,11,4,122,Yes,Home,No
+394,447,8/10/2025,Outpatient,Specialty Care,25,10,0,1,6,95,Yes,Rehab,No
+395,277,11/9/2023,Preventive,Specialty Care,30,4,2,1,8,286,Yes,Home,No
+396,312,10/17/2021,Outpatient,Urgent Care,13,8,2,2,3,296,Yes,Home,No
+397,425,10/2/2025,Emergency,Specialty Care,19,0,2,11,5,83,No,Home,No
+398,909,3/29/2022,Emergency,Primary Care,24,0,2,10,6,9,Yes,Expired,No
+399,97,4/14/2023,Preventive,Clinic,2,0,2,2,3,283,Yes,Expired,No
+400,265,12/11/2022,Emergency,Primary Care,25,8,0,5,8,29,Yes,Home,Yes
+401,507,4/28/2021,Telehealth,Clinic,1,0,0,4,2,315,Yes,Rehab,Yes
+402,516,3/28/2020,Emergency,Urgent Care,8,5,5,11,0,324,Yes,Rehab,No
+403,709,2/13/2025,Outpatient,Urgent Care,18,2,2,2,0,60,Yes,AMA,No
+404,257,9/29/2024,Inpatient,Primary Care,30,3,0,11,3,338,Yes,AMA,No
+405,540,9/12/2024,Emergency,Urgent Care,10,0,5,9,2,109,Yes,Rehab,No
+406,128,11/7/2021,Inpatient,Hospital,21,9,3,0,2,86,Yes,AMA,No
+407,692,7/24/2020,Telehealth,Hospital,15,9,1,1,0,344,Yes,Home,No
+408,811,7/4/2025,Telehealth,Hospital,9,4,6,8,6,4,Yes,Rehab,No
+409,400,12/28/2021,Preventive,Urgent Care,10,2,0,4,1,332,Yes,SNF,Yes
+410,400,8/23/2021,Preventive,Urgent Care,30,4,0,10,5,70,Yes,Home,No
+411,295,9/9/2024,Inpatient,Primary Care,0,7,2,1,4,15,Yes,Expired,Yes
+412,509,9/1/2022,Outpatient,Primary Care,6,1,1,2,8,364,Yes,Expired,No
+413,928,10/3/2020,Preventive,Urgent Care,8,8,6,8,2,97,Yes,Home,No
+414,821,2/12/2023,Emergency,Hospital,17,3,3,8,7,362,Yes,Expired,No
+415,525,12/26/2021,Preventive,Specialty Care,26,2,4,9,0,252,Yes,Rehab,No
+416,108,2/27/2022,Telehealth,Urgent Care,17,0,6,3,8,177,Yes,SNF,No
+417,355,3/21/2026,Telehealth,Primary Care,6,2,5,5,4,285,Yes,AMA,No
+418,383,3/17/2023,Outpatient,Specialty Care,1,6,6,7,0,242,Yes,AMA,No
+419,184,3/23/2026,Telehealth,Hospital,17,2,5,9,3,314,Yes,Home,No
+420,647,5/4/2022,Inpatient,Hospital,6,7,2,4,7,147,Yes,Home,No
+421,652,5/27/2026,Inpatient,Hospital,8,3,5,5,3,97,No,Rehab,Yes
+422,376,12/26/2022,Telehealth,Urgent Care,4,0,4,12,4,4,No,SNF,Yes
+423,932,4/6/2026,Outpatient,Specialty Care,30,0,4,0,5,296,No,Rehab,No
+424,659,12/1/2020,Emergency,Urgent Care,4,10,2,2,5,365,Yes,AMA,No
+425,659,7/28/2021,Outpatient,Urgent Care,14,4,2,12,8,328,Yes,Rehab,No
+426,3,8/19/2025,Preventive,Urgent Care,6,9,2,1,2,86,Yes,Expired,No
+427,610,1/17/2026,Inpatient,Primary Care,5,9,0,3,2,331,Yes,Home,No
+428,638,3/22/2024,Emergency,Hospital,15,3,0,12,5,173,Yes,SNF,No
+429,553,5/22/2026,Outpatient,Specialty Care,0,4,2,10,0,243,Yes,Rehab,No
+430,282,2/2/2021,Emergency,Specialty Care,0,4,1,11,3,184,Yes,AMA,Yes
+431,454,7/14/2020,Preventive,Primary Care,7,9,0,3,4,330,No,SNF,No
+432,364,9/8/2025,Preventive,Urgent Care,30,4,6,8,1,285,Yes,AMA,No
+433,755,6/8/2020,Outpatient,Specialty Care,11,8,4,2,6,193,Yes,Home,No
+434,123,2/18/2025,Telehealth,Specialty Care,7,6,1,0,1,322,Yes,Home,No
+435,168,5/18/2026,Preventive,Clinic,17,0,3,7,0,123,Yes,SNF,Yes
+436,457,1/11/2022,Emergency,Primary Care,11,7,5,9,7,318,Yes,Home,No
+437,331,7/29/2024,Preventive,Urgent Care,6,9,3,5,8,133,Yes,AMA,No
+438,422,5/17/2024,Inpatient,Urgent Care,21,0,4,4,7,116,Yes,Expired,No
+439,553,4/8/2021,Outpatient,Urgent Care,15,4,4,0,4,49,Yes,SNF,No
+440,344,1/25/2021,Emergency,Hospital,13,3,1,6,2,166,No,SNF,No
+441,421,3/19/2026,Outpatient,Hospital,5,1,4,7,2,282,Yes,Rehab,No
+442,299,10/6/2025,Preventive,Clinic,10,5,2,1,7,306,Yes,SNF,Yes
+443,778,7/6/2023,Inpatient,Clinic,23,2,3,8,0,36,Yes,AMA,Yes
+444,156,7/12/2023,Inpatient,Primary Care,5,10,5,10,5,351,Yes,Expired,Yes
+445,860,4/28/2025,Preventive,Primary Care,6,10,2,7,4,52,Yes,Expired,No
+446,579,6/7/2025,Inpatient,Hospital,13,4,3,1,6,341,No,Rehab,No
+447,884,5/8/2024,Outpatient,Hospital,4,0,5,6,4,362,Yes,SNF,No
+448,41,8/25/2025,Preventive,Hospital,28,5,4,4,8,99,Yes,Home,Yes
+449,120,3/24/2021,Telehealth,Clinic,12,5,1,1,1,149,Yes,Rehab,No
+450,923,8/5/2025,Outpatient,Hospital,6,1,1,10,7,353,Yes,Rehab,No
+451,256,10/1/2020,Preventive,Specialty Care,0,1,3,2,0,233,No,Rehab,No
+452,787,1/10/2020,Preventive,Clinic,6,1,3,9,6,102,Yes,Expired,Yes
+453,492,5/17/2026,Emergency,Primary Care,27,8,1,11,5,111,No,AMA,Yes
+454,424,3/12/2025,Emergency,Hospital,3,4,5,9,5,254,Yes,AMA,No
+455,586,2/11/2026,Emergency,Clinic,2,4,6,7,4,296,Yes,SNF,Yes
+456,903,4/9/2024,Telehealth,Urgent Care,0,6,6,2,7,310,Yes,Expired,No
+457,228,6/18/2023,Outpatient,Primary Care,8,1,6,9,0,315,Yes,Expired,No
+458,757,7/3/2025,Inpatient,Hospital,4,0,1,6,5,127,Yes,Expired,No
+459,722,2/24/2023,Inpatient,Specialty Care,3,0,6,12,1,196,Yes,Rehab,No
+460,639,11/29/2025,Outpatient,Primary Care,28,4,1,8,6,277,Yes,AMA,No
+461,321,9/4/2020,Emergency,Primary Care,8,9,2,6,6,293,Yes,AMA,No
+462,792,11/26/2022,Inpatient,Specialty Care,30,2,3,10,4,318,Yes,Rehab,No
+463,10,2/6/2022,Outpatient,Hospital,17,1,5,9,7,39,Yes,Expired,No
+464,825,10/21/2025,Preventive,Clinic,28,6,6,2,5,365,Yes,Home,No
+465,817,11/5/2020,Emergency,Clinic,12,0,6,7,8,249,Yes,AMA,No
+466,756,12/4/2020,Telehealth,Hospital,25,10,5,6,5,22,Yes,AMA,Yes
+467,175,5/29/2022,Inpatient,Hospital,9,8,1,9,3,127,Yes,Rehab,No
+468,323,10/13/2022,Outpatient,Clinic,17,4,3,8,4,221,Yes,Expired,No
+469,117,9/12/2020,Inpatient,Hospital,10,6,1,12,4,79,Yes,SNF,No
+470,616,1/27/2026,Emergency,Hospital,28,8,1,3,7,100,Yes,Home,No
+471,610,7/30/2022,Emergency,Clinic,27,3,4,9,6,84,Yes,SNF,Yes
+472,662,4/25/2023,Preventive,Hospital,21,9,6,11,3,249,Yes,AMA,No
+473,962,11/18/2020,Emergency,Primary Care,29,3,1,12,4,215,Yes,SNF,No
+474,537,9/15/2022,Preventive,Hospital,7,10,2,9,2,61,Yes,Expired,No
+475,850,11/10/2021,Inpatient,Clinic,0,2,0,1,2,248,No,SNF,No
+476,377,11/11/2024,Telehealth,Hospital,28,9,5,10,5,288,Yes,Rehab,No
+477,840,4/14/2020,Outpatient,Specialty Care,0,10,1,10,8,314,Yes,AMA,No
+478,416,5/29/2023,Telehealth,Hospital,24,9,6,6,0,155,Yes,Home,No
+479,780,11/23/2024,Outpatient,Clinic,2,0,4,1,8,364,No,AMA,Yes
+480,193,3/10/2022,Outpatient,Urgent Care,14,0,3,11,8,18,Yes,Rehab,No
+481,570,2/15/2020,Inpatient,Hospital,2,7,3,1,7,336,Yes,Home,Yes
+482,521,7/28/2023,Telehealth,Specialty Care,10,4,2,4,0,316,Yes,SNF,No
+483,269,1/9/2024,Outpatient,Hospital,8,8,6,4,2,128,Yes,Rehab,No
+484,427,11/4/2021,Inpatient,Urgent Care,25,1,3,8,6,139,No,SNF,Yes
+485,391,12/7/2024,Emergency,Specialty Care,3,7,3,0,4,115,No,Rehab,No
+486,225,11/23/2021,Inpatient,Primary Care,28,7,3,12,6,144,No,Rehab,No
+487,389,7/30/2022,Preventive,Urgent Care,25,0,5,6,6,4,Yes,Home,No
+488,674,7/23/2023,Outpatient,Primary Care,25,1,2,3,2,360,No,Rehab,No
+489,844,10/5/2022,Outpatient,Specialty Care,13,10,2,3,2,275,Yes,SNF,No
+490,600,10/5/2024,Emergency,Hospital,26,6,0,12,1,82,No,Expired,No
+491,863,4/2/2023,Preventive,Specialty Care,24,5,2,3,4,224,Yes,Home,Yes
+492,770,6/16/2024,Emergency,Specialty Care,25,5,2,7,2,127,Yes,SNF,No
+493,752,6/19/2021,Emergency,Specialty Care,27,5,6,0,3,146,Yes,Expired,No
+494,326,5/16/2021,Emergency,Hospital,6,0,3,2,4,245,Yes,Expired,No
+495,23,6/14/2021,Inpatient,Specialty Care,26,0,2,4,1,336,Yes,AMA,No
+496,268,7/7/2021,Outpatient,Urgent Care,18,5,3,6,1,215,No,Home,No
+497,194,9/22/2025,Inpatient,Hospital,21,6,6,12,5,333,Yes,SNF,No
+498,8,11/17/2020,Emergency,Hospital,14,1,1,9,7,355,Yes,Home,No
+499,313,2/9/2023,Preventive,Specialty Care,13,3,2,0,0,271,Yes,AMA,No
+500,776,6/1/2023,Emergency,Urgent Care,26,6,5,2,8,340,Yes,Rehab,No
+501,523,6/15/2021,Telehealth,Specialty Care,7,6,2,7,8,96,Yes,Rehab,No
+502,980,1/26/2025,Telehealth,Primary Care,10,10,6,1,1,35,No,Rehab,No
+503,277,4/25/2024,Preventive,Specialty Care,0,4,0,8,5,236,Yes,Expired,No
+504,193,2/6/2020,Preventive,Hospital,14,5,4,11,5,133,Yes,Rehab,No
+505,252,12/10/2022,Emergency,Clinic,9,10,5,8,0,231,No,Rehab,No
+506,205,6/26/2022,Emergency,Specialty Care,30,9,4,8,2,159,Yes,Expired,No
+507,941,10/2/2021,Preventive,Urgent Care,26,7,2,2,3,16,Yes,SNF,No
+508,743,4/23/2023,Outpatient,Primary Care,1,3,0,12,0,233,Yes,AMA,No
+509,713,4/7/2023,Preventive,Hospital,6,3,1,8,3,315,No,Home,No
+510,793,4/26/2024,Telehealth,Primary Care,6,8,4,3,5,137,No,Expired,No
+511,836,11/14/2020,Telehealth,Specialty Care,12,1,2,0,6,267,Yes,Home,Yes
+512,957,7/17/2022,Telehealth,Clinic,7,0,0,7,0,240,Yes,Expired,No
+513,79,2/21/2020,Telehealth,Primary Care,16,10,3,3,1,299,No,Rehab,No
+514,175,6/15/2023,Outpatient,Clinic,27,0,3,5,2,352,Yes,AMA,No
+515,454,7/19/2025,Telehealth,Urgent Care,21,9,6,12,8,159,Yes,SNF,No
+516,972,8/22/2022,Telehealth,Specialty Care,5,10,6,3,5,316,Yes,AMA,No
+517,750,8/29/2023,Emergency,Clinic,11,2,0,1,0,91,Yes,SNF,No
+518,518,5/21/2020,Emergency,Primary Care,30,7,2,4,1,196,No,Home,No
+519,499,4/9/2026,Inpatient,Hospital,20,8,0,6,8,268,Yes,Expired,No
+520,782,7/20/2023,Emergency,Specialty Care,25,0,2,3,0,215,Yes,Rehab,No
+521,667,6/12/2021,Telehealth,Clinic,12,7,2,7,2,45,No,AMA,No
+522,277,6/14/2023,Preventive,Primary Care,12,1,3,7,2,288,Yes,Rehab,No
+523,617,8/28/2024,Outpatient,Clinic,8,2,5,4,4,333,No,SNF,Yes
+524,5,11/10/2025,Preventive,Specialty Care,3,3,6,11,6,144,Yes,AMA,No
+525,839,3/17/2026,Outpatient,Primary Care,28,2,2,1,7,30,Yes,Home,Yes
+526,438,6/3/2020,Outpatient,Clinic,8,3,3,11,7,70,Yes,Home,No
+527,993,3/7/2021,Inpatient,Urgent Care,10,4,5,4,6,196,Yes,Home,No
+528,876,2/28/2023,Outpatient,Specialty Care,11,4,0,0,1,148,No,Rehab,No
+529,357,7/16/2024,Outpatient,Urgent Care,15,8,0,12,0,153,Yes,Expired,No
+530,74,6/23/2024,Telehealth,Specialty Care,10,5,3,3,8,10,No,Rehab,No
+531,859,8/6/2021,Inpatient,Urgent Care,12,0,2,7,4,252,Yes,AMA,No
+532,92,10/13/2025,Telehealth,Clinic,26,4,6,8,3,45,Yes,Expired,No
+533,478,12/30/2020,Outpatient,Urgent Care,8,9,3,9,8,244,Yes,Rehab,No
+534,157,11/28/2024,Telehealth,Primary Care,20,7,0,11,6,153,Yes,Rehab,No
+535,367,11/7/2020,Outpatient,Urgent Care,16,7,6,1,3,123,Yes,Expired,Yes
+536,637,5/16/2022,Inpatient,Clinic,21,6,6,3,6,256,No,Expired,No
+537,172,11/14/2025,Outpatient,Primary Care,6,10,5,3,2,191,Yes,Rehab,Yes
+538,473,7/19/2024,Preventive,Urgent Care,10,6,6,9,6,285,Yes,AMA,No
+539,455,3/5/2025,Telehealth,Primary Care,9,5,2,10,3,93,Yes,SNF,No
+540,743,5/25/2021,Telehealth,Urgent Care,20,8,3,11,0,34,Yes,SNF,No
+541,78,11/4/2020,Telehealth,Clinic,24,7,0,0,8,286,No,Rehab,No
+542,263,9/13/2022,Telehealth,Urgent Care,9,6,4,5,8,350,No,AMA,No
+543,961,7/14/2021,Inpatient,Primary Care,3,10,1,3,0,282,Yes,SNF,No
+544,538,1/18/2025,Outpatient,Clinic,15,2,3,12,3,139,No,Home,No
+545,684,4/2/2022,Telehealth,Primary Care,27,8,1,9,0,164,Yes,SNF,Yes
+546,495,7/20/2021,Emergency,Specialty Care,29,8,5,10,7,8,Yes,AMA,No
+547,491,10/20/2025,Emergency,Specialty Care,13,4,5,10,8,269,No,AMA,No
+548,10,2/14/2025,Preventive,Specialty Care,8,5,2,3,5,195,Yes,Rehab,No
+549,947,9/25/2023,Outpatient,Hospital,2,7,2,8,8,35,Yes,AMA,No
+550,427,7/14/2020,Telehealth,Primary Care,10,4,1,3,5,146,Yes,Expired,No
+551,882,9/18/2024,Inpatient,Urgent Care,16,5,4,4,7,153,Yes,Expired,No
+552,697,8/1/2020,Preventive,Hospital,23,3,3,0,7,179,Yes,SNF,No
+553,325,2/25/2021,Preventive,Urgent Care,1,5,6,5,8,83,Yes,SNF,No
+554,504,1/20/2026,Telehealth,Urgent Care,16,7,6,4,0,92,Yes,Home,Yes
+555,266,12/24/2025,Emergency,Urgent Care,8,6,6,12,3,127,Yes,Home,No
+556,250,5/16/2023,Inpatient,Clinic,15,2,5,9,4,212,No,Rehab,No
+557,451,4/17/2024,Outpatient,Primary Care,28,10,5,5,8,275,Yes,SNF,Yes
+558,334,4/28/2020,Telehealth,Hospital,15,1,5,5,1,29,Yes,Expired,No
+559,515,1/28/2023,Outpatient,Primary Care,28,5,4,7,2,52,Yes,Expired,Yes
+560,374,6/1/2025,Emergency,Primary Care,10,6,3,4,7,56,Yes,Expired,No
+561,245,12/7/2023,Outpatient,Hospital,22,0,0,1,7,73,Yes,AMA,No
+562,752,12/7/2025,Emergency,Specialty Care,0,10,3,9,0,100,Yes,Home,Yes
+563,343,11/29/2024,Emergency,Clinic,10,0,4,7,0,48,Yes,SNF,No
+564,889,4/7/2023,Emergency,Clinic,30,1,6,10,6,156,Yes,SNF,No
+565,374,11/19/2021,Inpatient,Specialty Care,21,5,6,12,7,196,Yes,Home,No
+566,58,9/16/2024,Emergency,Clinic,11,6,2,2,8,213,No,SNF,Yes
+567,808,5/20/2025,Outpatient,Specialty Care,1,8,0,6,4,346,Yes,Home,No
+568,182,3/18/2024,Preventive,Urgent Care,26,5,2,5,0,33,Yes,Home,No
+569,101,12/24/2024,Emergency,Primary Care,24,5,5,9,8,171,Yes,Home,No
+570,980,2/23/2023,Emergency,Specialty Care,2,0,0,11,8,340,Yes,SNF,No
+571,121,1/22/2022,Inpatient,Specialty Care,13,9,1,1,4,264,Yes,AMA,Yes
+572,432,5/1/2021,Telehealth,Urgent Care,10,4,1,2,0,52,Yes,Home,No
+573,265,3/16/2021,Emergency,Urgent Care,23,3,5,3,3,165,Yes,Rehab,No
+574,473,8/4/2021,Inpatient,Urgent Care,12,7,4,12,5,262,Yes,AMA,No
+575,264,2/25/2020,Preventive,Primary Care,9,5,2,12,5,310,Yes,Home,Yes
+576,7,5/21/2020,Telehealth,Clinic,10,10,4,5,0,100,Yes,SNF,No
+577,224,4/14/2020,Inpatient,Urgent Care,22,4,5,6,5,206,Yes,SNF,No
+578,919,5/10/2021,Inpatient,Primary Care,20,3,2,6,7,165,Yes,AMA,No
+579,428,3/12/2026,Emergency,Primary Care,15,9,6,7,5,18,Yes,Rehab,Yes
+580,222,1/4/2023,Outpatient,Primary Care,12,5,1,3,1,169,Yes,Home,No
+581,541,4/21/2024,Inpatient,Specialty Care,12,2,4,4,4,162,No,Expired,No
+582,73,9/16/2022,Outpatient,Hospital,5,2,0,8,4,151,Yes,Rehab,No
+583,795,8/13/2023,Emergency,Urgent Care,9,3,3,2,3,19,Yes,Expired,No
+584,236,7/18/2022,Outpatient,Primary Care,6,5,2,0,8,306,Yes,Rehab,No
+585,187,6/18/2021,Outpatient,Hospital,8,2,2,12,0,8,Yes,AMA,No
+586,82,8/24/2020,Emergency,Clinic,9,7,0,10,8,360,No,Rehab,No
+587,102,10/2/2022,Emergency,Clinic,20,1,1,0,3,141,Yes,Expired,No
+588,942,10/26/2025,Preventive,Primary Care,2,2,5,8,7,268,Yes,Home,No
+589,102,6/23/2024,Telehealth,Clinic,9,4,6,1,1,281,Yes,Expired,No
+590,51,12/22/2024,Preventive,Urgent Care,15,8,3,12,4,313,Yes,SNF,No
+591,617,2/13/2026,Preventive,Urgent Care,25,4,5,8,8,128,Yes,Expired,No
+592,657,3/18/2022,Preventive,Clinic,5,3,3,11,8,247,Yes,Rehab,No
+593,992,5/22/2022,Inpatient,Specialty Care,9,10,4,5,5,215,Yes,SNF,No
+594,367,2/20/2022,Preventive,Clinic,20,8,6,10,7,150,Yes,Home,Yes
+595,358,4/30/2025,Inpatient,Hospital,22,1,6,2,8,159,Yes,SNF,No
+596,241,2/5/2022,Telehealth,Primary Care,24,8,3,9,6,303,Yes,AMA,Yes
+597,726,5/17/2026,Outpatient,Urgent Care,30,0,4,5,0,200,Yes,Home,Yes
+598,563,3/7/2020,Preventive,Urgent Care,12,5,4,12,7,315,Yes,Rehab,No
+599,349,6/25/2024,Outpatient,Primary Care,7,1,5,3,6,337,Yes,Expired,Yes
+600,933,9/9/2025,Inpatient,Primary Care,17,2,1,1,8,251,No,Expired,No
+601,339,7/27/2023,Emergency,Primary Care,29,2,5,2,1,78,Yes,Rehab,No
+602,597,12/27/2023,Telehealth,Primary Care,9,7,5,2,0,324,Yes,SNF,Yes
+603,382,12/1/2020,Emergency,Hospital,20,0,5,8,2,188,Yes,AMA,No
+604,135,7/30/2021,Outpatient,Specialty Care,25,2,2,11,2,141,Yes,AMA,No
+605,517,2/6/2022,Emergency,Clinic,22,3,3,4,0,95,No,Home,No
+606,651,12/16/2021,Inpatient,Specialty Care,17,8,2,7,6,239,No,Expired,No
+607,50,3/29/2020,Preventive,Clinic,12,8,0,9,7,230,Yes,AMA,No
+608,620,5/5/2025,Outpatient,Hospital,21,10,5,2,1,267,Yes,Rehab,No
+609,446,5/18/2025,Emergency,Urgent Care,14,4,6,5,4,293,Yes,Home,No
+610,127,3/21/2024,Outpatient,Urgent Care,16,8,6,3,5,146,Yes,SNF,No
+611,718,8/13/2022,Outpatient,Hospital,10,6,2,8,8,291,Yes,Expired,No
+612,63,5/22/2023,Telehealth,Primary Care,26,1,1,10,5,326,Yes,Expired,No
+613,705,10/25/2022,Telehealth,Urgent Care,12,0,5,9,1,345,Yes,Home,No
+614,690,12/9/2023,Inpatient,Urgent Care,13,6,5,3,3,319,Yes,Rehab,Yes
+615,70,6/21/2024,Inpatient,Hospital,28,2,0,2,6,174,Yes,AMA,Yes
+616,65,10/18/2024,Outpatient,Primary Care,3,5,5,12,3,133,Yes,Expired,Yes
+617,410,2/9/2022,Telehealth,Hospital,7,5,2,8,8,68,Yes,Expired,Yes
+618,421,12/11/2020,Outpatient,Specialty Care,15,10,0,0,2,56,Yes,Rehab,No
+619,62,6/28/2024,Preventive,Clinic,29,8,1,9,6,151,Yes,AMA,No
+620,78,1/4/2022,Telehealth,Hospital,26,5,2,0,0,313,Yes,SNF,No
+621,336,8/16/2024,Emergency,Urgent Care,29,7,1,0,8,88,Yes,Rehab,Yes
+622,170,4/14/2022,Inpatient,Urgent Care,21,5,0,3,5,143,Yes,Home,No
+623,165,2/28/2020,Outpatient,Urgent Care,16,0,6,12,0,217,No,Home,No
+624,261,4/11/2021,Outpatient,Primary Care,30,7,2,5,4,221,Yes,SNF,No
+625,603,10/22/2025,Preventive,Primary Care,5,8,3,6,7,40,Yes,SNF,No
+626,384,2/15/2026,Telehealth,Urgent Care,1,7,3,11,4,10,Yes,Rehab,No
+627,381,11/15/2025,Outpatient,Hospital,13,3,0,10,8,192,Yes,AMA,No
+628,710,8/25/2024,Inpatient,Clinic,18,1,0,10,1,157,Yes,SNF,Yes
+629,205,2/15/2020,Outpatient,Clinic,5,7,1,7,6,192,Yes,Rehab,No
+630,655,11/27/2023,Emergency,Clinic,19,9,0,12,2,239,Yes,SNF,No
+631,550,10/3/2020,Telehealth,Clinic,11,0,5,10,5,335,Yes,Expired,No
+632,597,6/14/2025,Telehealth,Specialty Care,19,7,1,4,3,248,Yes,Expired,No
+633,644,3/26/2026,Telehealth,Hospital,24,8,4,10,7,254,No,AMA,No
+634,123,1/17/2025,Inpatient,Urgent Care,27,9,6,9,4,196,No,SNF,No
+635,146,1/18/2026,Preventive,Clinic,4,6,6,9,8,221,Yes,AMA,No
+636,475,6/5/2025,Emergency,Clinic,18,6,0,5,3,362,Yes,SNF,Yes
+637,981,7/26/2020,Emergency,Clinic,10,2,5,9,6,313,No,Rehab,Yes
+638,998,8/31/2023,Emergency,Primary Care,28,10,1,9,4,19,No,Rehab,No
+639,334,3/21/2021,Emergency,Hospital,1,3,0,8,8,19,Yes,Home,Yes
+640,528,8/17/2023,Telehealth,Clinic,16,10,3,10,3,212,Yes,Expired,No
+641,205,3/8/2025,Emergency,Urgent Care,15,0,3,9,1,325,Yes,Expired,No
+642,110,7/5/2022,Outpatient,Hospital,24,2,1,5,1,32,No,SNF,No
+643,310,12/19/2025,Telehealth,Specialty Care,22,0,3,8,7,264,Yes,AMA,No
+644,767,8/27/2020,Emergency,Clinic,4,9,0,9,3,288,No,SNF,No
+645,289,11/26/2025,Outpatient,Primary Care,22,4,0,12,6,31,Yes,Home,Yes
+646,496,1/30/2022,Telehealth,Hospital,0,7,3,10,6,351,No,Home,No
+647,669,6/27/2023,Inpatient,Hospital,19,6,1,9,6,146,Yes,SNF,Yes
+648,894,7/25/2025,Preventive,Primary Care,6,6,4,9,8,248,Yes,SNF,No
+649,24,9/14/2024,Emergency,Hospital,10,3,6,12,8,170,No,Expired,Yes
+650,728,10/2/2021,Outpatient,Urgent Care,25,9,4,1,3,363,Yes,SNF,Yes
+651,170,2/9/2023,Emergency,Specialty Care,16,1,0,3,2,151,Yes,AMA,Yes
+652,877,1/6/2024,Telehealth,Specialty Care,9,9,1,8,8,148,Yes,Expired,No
+653,516,12/8/2023,Telehealth,Clinic,27,0,4,10,8,140,Yes,Expired,No
+654,130,11/22/2022,Emergency,Primary Care,5,6,1,6,2,209,Yes,Expired,No
+655,944,4/1/2024,Outpatient,Urgent Care,20,4,6,8,5,270,No,SNF,Yes
+656,187,5/15/2025,Preventive,Hospital,11,3,1,11,7,112,No,AMA,No
+657,931,4/13/2025,Telehealth,Primary Care,18,2,6,11,4,98,Yes,Expired,No
+658,192,7/5/2020,Inpatient,Hospital,26,1,5,11,4,299,Yes,AMA,Yes
+659,864,3/4/2024,Telehealth,Primary Care,10,10,2,6,5,139,Yes,Home,No
+660,870,7/12/2020,Outpatient,Urgent Care,6,2,6,1,2,256,No,Home,No
+661,733,7/23/2023,Emergency,Specialty Care,27,7,6,9,6,295,No,SNF,No
+662,614,11/8/2023,Emergency,Clinic,3,0,6,0,3,262,No,AMA,No
+663,798,10/3/2024,Telehealth,Urgent Care,5,4,2,12,1,70,Yes,SNF,No
+664,659,3/19/2024,Preventive,Primary Care,2,2,1,8,4,4,No,AMA,No
+665,613,10/13/2024,Preventive,Primary Care,28,4,6,11,6,64,Yes,Expired,No
+666,244,9/1/2023,Emergency,Clinic,2,10,5,8,8,118,Yes,SNF,Yes
+667,884,8/28/2025,Outpatient,Specialty Care,17,3,3,4,1,18,No,Expired,No
+668,896,2/8/2022,Telehealth,Primary Care,8,0,0,12,5,309,Yes,AMA,No
+669,411,11/21/2024,Inpatient,Primary Care,9,6,5,10,8,21,Yes,SNF,No
+670,166,11/28/2024,Inpatient,Hospital,22,4,3,11,4,113,Yes,Expired,No
+671,195,11/21/2023,Preventive,Clinic,26,1,2,3,1,210,Yes,SNF,No
+672,568,1/27/2023,Outpatient,Urgent Care,28,1,6,2,1,151,Yes,AMA,Yes
+673,431,8/16/2024,Inpatient,Primary Care,28,1,1,0,6,360,Yes,Home,No
+674,972,11/9/2021,Telehealth,Primary Care,16,9,4,4,4,175,Yes,AMA,No
+675,943,5/31/2020,Telehealth,Specialty Care,5,0,2,7,2,227,Yes,AMA,No
+676,582,3/27/2025,Outpatient,Clinic,4,6,4,10,8,22,Yes,AMA,Yes
+677,817,1/3/2026,Preventive,Primary Care,24,2,0,10,1,269,Yes,Rehab,No
+678,995,12/31/2023,Inpatient,Urgent Care,25,0,0,9,2,246,Yes,SNF,No
+679,4,5/23/2025,Inpatient,Clinic,4,7,2,8,5,64,Yes,Expired,No
+680,714,5/12/2026,Emergency,Primary Care,6,7,2,7,2,350,Yes,AMA,Yes
+681,42,4/13/2021,Outpatient,Specialty Care,11,9,6,8,5,192,Yes,Home,No
+682,657,3/12/2022,Inpatient,Primary Care,3,4,5,1,3,84,No,AMA,No
+683,641,11/10/2021,Preventive,Specialty Care,22,2,3,11,4,271,Yes,Rehab,No
+684,359,4/17/2026,Inpatient,Clinic,21,7,5,3,0,167,Yes,AMA,No
+685,789,6/16/2023,Emergency,Primary Care,24,8,4,6,5,188,Yes,Rehab,Yes
+686,40,5/23/2022,Outpatient,Clinic,12,2,3,9,1,48,Yes,Expired,No
+687,20,12/19/2022,Preventive,Clinic,5,8,3,5,2,76,No,Rehab,No
+688,189,9/26/2025,Emergency,Urgent Care,2,10,3,3,6,324,Yes,Rehab,No
+689,227,8/26/2023,Preventive,Clinic,5,5,1,9,5,364,Yes,AMA,No
+690,491,6/8/2024,Outpatient,Hospital,15,6,5,4,1,56,No,Home,No
+691,332,12/8/2024,Telehealth,Specialty Care,17,3,3,6,3,290,Yes,SNF,No
+692,193,6/3/2024,Telehealth,Clinic,22,1,4,1,7,300,Yes,Expired,No
+693,108,1/15/2025,Inpatient,Specialty Care,0,10,1,4,0,81,Yes,Home,No
+694,730,1/4/2023,Inpatient,Urgent Care,20,9,5,5,4,246,Yes,Expired,No
+695,31,2/28/2021,Outpatient,Urgent Care,28,2,5,1,8,188,Yes,SNF,No
+696,8,7/12/2021,Telehealth,Hospital,11,4,6,1,0,264,Yes,SNF,No
+697,795,1/22/2022,Telehealth,Hospital,21,5,0,1,7,160,Yes,AMA,Yes
+698,239,11/14/2021,Outpatient,Specialty Care,6,8,6,9,3,141,Yes,Rehab,Yes
+699,494,10/3/2023,Outpatient,Specialty Care,17,0,3,3,7,169,Yes,Home,Yes
+700,716,1/28/2021,Preventive,Urgent Care,13,7,5,11,0,87,No,AMA,No
+701,7,12/25/2023,Inpatient,Primary Care,20,10,4,2,5,252,Yes,Expired,No
+702,653,9/27/2024,Telehealth,Specialty Care,19,6,6,0,3,39,Yes,AMA,No
+703,25,5/31/2020,Preventive,Hospital,26,6,5,7,7,244,Yes,Expired,No
+704,588,3/3/2022,Inpatient,Hospital,15,0,5,4,4,101,Yes,Home,No
+705,169,3/16/2026,Inpatient,Clinic,6,6,2,7,0,88,No,AMA,No
+706,755,11/24/2025,Outpatient,Clinic,3,4,2,8,5,98,No,Expired,No
+707,786,6/4/2024,Telehealth,Hospital,9,7,3,0,0,70,Yes,AMA,No
+708,741,12/13/2020,Inpatient,Hospital,6,7,4,3,0,15,Yes,AMA,No
+709,451,4/5/2024,Outpatient,Urgent Care,21,5,3,9,3,200,No,Rehab,Yes
+710,796,10/23/2022,Inpatient,Primary Care,1,6,2,6,0,4,Yes,Home,Yes
+711,857,5/5/2023,Emergency,Specialty Care,13,8,4,6,7,217,Yes,SNF,Yes
+712,229,2/24/2021,Emergency,Primary Care,10,0,1,1,8,77,Yes,SNF,No
+713,963,1/15/2021,Outpatient,Urgent Care,12,4,6,12,0,128,Yes,AMA,No
+714,896,1/29/2021,Emergency,Urgent Care,27,4,5,11,8,153,Yes,AMA,No
+715,198,6/12/2023,Telehealth,Urgent Care,11,8,0,1,1,347,Yes,AMA,Yes
+716,72,8/31/2022,Preventive,Hospital,7,9,0,4,5,350,No,Rehab,Yes
+717,961,7/26/2022,Outpatient,Clinic,30,10,4,3,1,166,Yes,AMA,No
+718,141,1/1/2026,Preventive,Hospital,8,2,3,10,7,157,Yes,SNF,No
+719,463,3/6/2026,Telehealth,Hospital,22,10,0,3,3,295,Yes,Expired,No
+720,462,3/17/2026,Telehealth,Primary Care,15,8,2,10,1,73,Yes,Home,Yes
+721,177,11/10/2024,Preventive,Urgent Care,29,2,2,10,8,144,Yes,SNF,No
+722,487,12/19/2023,Outpatient,Specialty Care,19,2,5,1,8,262,Yes,AMA,No
+723,390,11/24/2024,Outpatient,Hospital,5,9,2,12,1,269,No,Expired,No
+724,385,5/26/2023,Telehealth,Clinic,1,7,2,0,6,88,Yes,Home,No
+725,750,10/27/2023,Telehealth,Primary Care,0,1,6,12,0,27,Yes,Home,Yes
+726,180,8/18/2022,Emergency,Urgent Care,17,6,6,9,0,53,Yes,Expired,No
+727,342,10/17/2020,Telehealth,Clinic,27,10,3,12,1,160,Yes,AMA,No
+728,643,1/14/2023,Inpatient,Specialty Care,12,6,1,7,2,246,No,AMA,No
+729,305,7/29/2022,Preventive,Hospital,23,3,0,6,6,325,Yes,AMA,No
+730,715,4/5/2021,Emergency,Primary Care,1,0,6,0,7,319,Yes,Home,Yes
+731,865,4/14/2020,Outpatient,Hospital,28,0,3,0,6,58,Yes,Home,No
+732,595,12/26/2021,Inpatient,Clinic,30,0,2,3,7,132,Yes,SNF,No
+733,597,2/8/2026,Inpatient,Clinic,13,8,1,8,4,262,Yes,Rehab,No
+734,599,5/22/2021,Emergency,Specialty Care,25,9,5,2,7,331,No,SNF,No
+735,847,8/4/2020,Inpatient,Urgent Care,19,5,2,12,5,15,Yes,Expired,No
+736,583,2/16/2022,Telehealth,Clinic,3,6,5,11,6,307,Yes,Home,No
+737,633,8/20/2025,Outpatient,Specialty Care,10,4,2,10,4,95,Yes,Rehab,No
+738,329,5/2/2020,Inpatient,Hospital,11,3,3,3,4,245,Yes,Rehab,Yes
+739,436,6/4/2024,Outpatient,Urgent Care,0,3,6,10,5,12,Yes,Home,No
+740,316,1/27/2021,Outpatient,Specialty Care,28,8,5,1,2,231,Yes,Rehab,Yes
+741,565,10/29/2021,Telehealth,Specialty Care,29,6,4,11,6,99,Yes,Rehab,No
+742,823,5/6/2026,Outpatient,Hospital,13,8,4,4,8,257,Yes,AMA,No
+743,466,12/30/2023,Preventive,Urgent Care,30,10,6,10,6,267,Yes,Rehab,No
+744,23,3/26/2025,Outpatient,Hospital,24,8,5,12,4,206,Yes,Rehab,No
+745,211,1/10/2025,Outpatient,Hospital,12,5,3,0,1,25,No,Home,No
+746,65,8/22/2020,Outpatient,Primary Care,22,0,3,6,4,262,Yes,Rehab,No
+747,79,6/16/2024,Outpatient,Hospital,29,5,0,2,0,138,Yes,Expired,No
+748,339,6/25/2021,Emergency,Clinic,9,2,3,5,7,109,Yes,SNF,No
+749,552,3/10/2026,Inpatient,Clinic,11,5,4,8,6,199,Yes,Rehab,Yes
+750,439,4/28/2020,Telehealth,Clinic,7,4,3,6,1,274,Yes,Expired,No
+751,373,5/4/2023,Emergency,Clinic,12,4,1,11,3,248,Yes,Home,Yes
+752,387,10/9/2025,Inpatient,Specialty Care,13,10,4,10,7,4,Yes,Home,No
+753,60,1/8/2020,Outpatient,Urgent Care,5,9,5,8,2,91,Yes,AMA,Yes
+754,515,1/28/2024,Preventive,Hospital,0,5,4,7,1,348,Yes,Expired,No
+755,93,2/20/2021,Preventive,Urgent Care,5,5,5,8,1,246,Yes,SNF,No
+756,137,3/30/2026,Telehealth,Clinic,21,5,6,10,6,147,Yes,Expired,No
+757,9,3/24/2025,Inpatient,Specialty Care,14,10,6,6,3,74,No,Expired,No
+758,687,8/1/2023,Telehealth,Urgent Care,29,10,6,6,1,15,Yes,Expired,No
+759,392,1/14/2020,Emergency,Clinic,5,8,5,11,5,78,Yes,Home,No
+760,307,5/1/2021,Outpatient,Primary Care,19,0,5,11,7,131,No,SNF,No
+761,274,1/5/2023,Inpatient,Primary Care,21,9,3,9,1,163,No,Home,No
+762,926,6/3/2024,Preventive,Specialty Care,30,7,2,3,1,169,Yes,Home,Yes
+763,728,4/16/2026,Emergency,Primary Care,20,8,0,11,1,277,Yes,Home,No
+764,764,2/23/2024,Outpatient,Specialty Care,28,1,4,0,7,107,Yes,Rehab,No
+765,190,7/16/2024,Inpatient,Primary Care,12,1,5,8,3,58,Yes,SNF,No
+766,792,9/30/2022,Emergency,Clinic,23,6,6,7,5,239,Yes,Expired,No
+767,118,6/26/2021,Emergency,Specialty Care,30,1,2,11,5,328,Yes,AMA,No
+768,14,2/16/2023,Outpatient,Specialty Care,15,1,5,0,8,210,Yes,SNF,No
+769,370,7/29/2025,Preventive,Hospital,3,6,0,5,5,117,Yes,Home,No
+770,507,5/30/2020,Telehealth,Specialty Care,28,1,0,5,1,215,Yes,Rehab,No
+771,436,4/4/2021,Inpatient,Specialty Care,3,10,6,8,3,45,Yes,Home,No
+772,269,3/21/2022,Outpatient,Urgent Care,16,10,4,7,3,250,No,AMA,No
+773,541,7/9/2025,Inpatient,Hospital,21,4,4,0,0,1,Yes,Home,No
+774,867,12/23/2021,Preventive,Specialty Care,22,3,2,8,8,219,Yes,AMA,Yes
+775,411,3/23/2024,Outpatient,Urgent Care,26,10,5,0,1,87,Yes,Expired,No
+776,752,1/29/2025,Preventive,Clinic,30,10,2,11,1,230,No,AMA,No
+777,481,2/22/2026,Preventive,Urgent Care,19,8,0,0,4,48,Yes,Home,No
+778,627,11/15/2020,Outpatient,Specialty Care,11,9,2,3,2,149,Yes,SNF,No
+779,935,7/27/2020,Emergency,Urgent Care,29,9,2,2,1,183,Yes,SNF,Yes
+780,414,2/10/2022,Outpatient,Clinic,22,0,1,10,7,31,Yes,Expired,Yes
+781,480,9/8/2022,Telehealth,Clinic,3,10,5,2,2,49,No,Rehab,Yes
+782,332,9/27/2023,Outpatient,Hospital,18,6,4,2,3,8,Yes,Home,No
+783,751,6/24/2023,Preventive,Urgent Care,26,4,3,12,4,111,No,SNF,Yes
+784,780,6/24/2025,Inpatient,Clinic,0,2,1,0,5,112,Yes,Rehab,Yes
+785,125,5/7/2026,Telehealth,Hospital,15,5,4,11,0,221,Yes,Rehab,No
+786,413,4/24/2022,Telehealth,Primary Care,1,5,6,8,1,293,No,SNF,No
+787,748,12/21/2021,Outpatient,Specialty Care,29,3,0,5,1,329,Yes,AMA,No
+788,670,1/29/2020,Inpatient,Clinic,21,3,5,3,3,31,No,Rehab,Yes
+789,726,7/9/2021,Emergency,Primary Care,15,6,6,9,6,56,Yes,Home,No
+790,737,11/16/2021,Preventive,Specialty Care,10,5,2,1,7,241,Yes,Home,Yes
+791,655,11/11/2022,Inpatient,Specialty Care,5,7,5,1,7,260,No,Rehab,No
+792,283,7/4/2021,Inpatient,Primary Care,24,10,1,11,0,148,Yes,AMA,No
+793,464,2/16/2022,Inpatient,Hospital,21,4,6,1,0,35,No,AMA,Yes
+794,971,6/26/2024,Inpatient,Urgent Care,2,9,2,1,1,341,No,AMA,No
+795,887,3/3/2021,Telehealth,Primary Care,24,10,4,6,5,205,Yes,AMA,No
+796,704,1/12/2022,Inpatient,Clinic,22,1,4,12,5,164,Yes,Rehab,No
+797,736,10/19/2020,Inpatient,Specialty Care,24,4,4,0,4,63,Yes,Home,No
+798,173,5/17/2025,Inpatient,Clinic,9,0,1,11,7,173,No,Rehab,No
+799,262,5/17/2023,Preventive,Specialty Care,30,0,6,5,5,312,Yes,Rehab,No
+800,279,9/23/2022,Telehealth,Urgent Care,29,0,3,2,1,154,Yes,SNF,No
+801,742,1/8/2020,Emergency,Clinic,17,0,6,10,5,142,Yes,Home,No
+802,968,3/14/2021,Preventive,Primary Care,1,4,3,7,3,337,No,Rehab,No
+803,239,4/15/2022,Preventive,Hospital,3,10,1,1,8,296,Yes,AMA,Yes
+804,898,3/25/2021,Emergency,Primary Care,15,4,4,4,8,149,No,Home,No
+805,474,11/6/2022,Outpatient,Urgent Care,3,0,1,0,2,73,Yes,AMA,No
+806,180,2/25/2022,Telehealth,Hospital,14,1,3,0,8,80,Yes,SNF,No
+807,994,1/21/2021,Inpatient,Clinic,21,4,3,7,8,306,No,Rehab,No
+808,765,8/7/2023,Preventive,Primary Care,25,1,5,9,0,193,Yes,Home,Yes
+809,658,1/14/2024,Preventive,Primary Care,21,7,1,3,5,148,No,SNF,No
+810,27,12/20/2021,Outpatient,Clinic,1,0,0,4,8,361,Yes,SNF,No
+811,306,3/9/2025,Outpatient,Clinic,5,10,5,1,3,332,Yes,Rehab,No
+812,913,8/11/2024,Telehealth,Specialty Care,15,1,4,0,7,7,Yes,Home,No
+813,870,7/10/2024,Preventive,Hospital,9,4,3,10,0,293,Yes,AMA,Yes
+814,210,11/25/2025,Emergency,Clinic,4,5,4,11,7,296,Yes,SNF,Yes
+815,446,5/16/2020,Telehealth,Clinic,28,7,6,3,4,27,Yes,SNF,No
+816,28,8/25/2024,Outpatient,Clinic,21,4,5,11,3,42,Yes,Home,No
+817,564,3/12/2022,Emergency,Urgent Care,7,7,0,6,8,218,Yes,AMA,Yes
+818,430,2/2/2026,Preventive,Urgent Care,12,8,2,12,6,300,Yes,AMA,No
+819,537,4/26/2022,Emergency,Clinic,14,9,3,11,6,113,Yes,SNF,No
+820,631,12/14/2022,Outpatient,Hospital,27,4,0,9,1,213,No,Home,No
+821,719,3/14/2022,Preventive,Specialty Care,2,4,4,7,1,11,Yes,Rehab,No
+822,357,1/3/2022,Outpatient,Primary Care,29,9,4,9,6,324,Yes,Home,No
+823,911,6/30/2021,Inpatient,Hospital,17,10,4,4,1,331,No,SNF,No
+824,427,11/21/2025,Emergency,Specialty Care,30,7,5,0,4,24,Yes,Expired,No
+825,874,2/10/2024,Inpatient,Specialty Care,28,5,6,9,0,339,Yes,Expired,Yes
+826,86,8/28/2022,Inpatient,Urgent Care,10,3,2,2,8,101,Yes,Home,No
+827,187,4/13/2020,Emergency,Primary Care,7,5,1,1,6,7,Yes,AMA,Yes
+828,955,7/31/2020,Outpatient,Specialty Care,18,5,0,5,2,276,Yes,AMA,No
+829,635,11/4/2021,Telehealth,Primary Care,14,4,3,4,2,88,Yes,Expired,Yes
+830,220,2/7/2026,Inpatient,Primary Care,5,8,2,11,3,322,Yes,AMA,Yes
+831,250,7/2/2024,Emergency,Primary Care,24,9,1,6,1,167,Yes,Expired,No
+832,168,4/8/2022,Telehealth,Primary Care,29,10,1,12,0,42,No,Home,Yes
+833,744,5/27/2021,Preventive,Clinic,4,10,0,9,5,179,Yes,Rehab,No
+834,683,7/30/2021,Preventive,Primary Care,5,3,0,10,2,171,Yes,SNF,No
+835,86,2/1/2024,Preventive,Primary Care,25,6,6,8,2,53,Yes,Home,Yes
+836,309,10/23/2022,Outpatient,Primary Care,21,6,2,3,2,272,Yes,Home,Yes
+837,793,1/16/2020,Inpatient,Primary Care,11,5,1,12,1,261,Yes,SNF,No
+838,380,2/16/2022,Inpatient,Specialty Care,5,5,4,2,5,27,No,Rehab,No
+839,910,9/15/2022,Outpatient,Urgent Care,15,1,4,3,5,34,Yes,Home,Yes
+840,645,3/30/2023,Telehealth,Hospital,10,1,5,3,4,94,Yes,SNF,No
+841,293,3/15/2024,Inpatient,Clinic,6,6,0,7,0,51,Yes,Expired,No
+842,807,9/22/2021,Inpatient,Primary Care,17,4,1,0,6,112,Yes,Rehab,No
+843,864,6/14/2023,Emergency,Primary Care,4,8,0,6,6,191,No,AMA,No
+844,2,7/24/2025,Inpatient,Specialty Care,27,7,0,8,2,177,Yes,Rehab,No
+845,102,7/9/2022,Inpatient,Urgent Care,30,6,4,6,1,85,Yes,Rehab,No
+846,902,10/17/2024,Emergency,Specialty Care,5,5,4,9,6,148,No,Expired,No
+847,416,11/5/2024,Emergency,Urgent Care,18,7,4,6,7,343,Yes,Home,Yes
+848,432,11/20/2024,Preventive,Hospital,6,0,4,2,5,313,Yes,SNF,No
+849,781,9/15/2022,Preventive,Hospital,1,4,3,1,8,230,Yes,Expired,No
+850,333,12/16/2025,Outpatient,Primary Care,2,3,5,9,1,308,Yes,Expired,No
+851,741,3/21/2026,Preventive,Specialty Care,16,3,3,12,6,103,No,SNF,No
+852,342,10/6/2021,Preventive,Specialty Care,4,10,2,5,2,356,Yes,SNF,No
+853,870,1/4/2022,Telehealth,Urgent Care,12,3,6,0,3,209,Yes,Home,Yes
+854,535,1/2/2023,Outpatient,Primary Care,25,8,6,12,7,258,Yes,Rehab,No
+855,330,10/12/2025,Telehealth,Specialty Care,29,5,6,2,8,56,Yes,Expired,Yes
+856,737,2/1/2021,Inpatient,Clinic,3,2,5,10,6,227,Yes,AMA,Yes
+857,853,5/9/2022,Emergency,Clinic,2,0,5,12,0,140,No,SNF,No
+858,136,3/22/2020,Outpatient,Hospital,22,4,1,1,7,238,Yes,Rehab,No
+859,551,3/18/2026,Preventive,Urgent Care,9,5,3,2,4,44,No,AMA,No
+860,586,11/11/2023,Emergency,Urgent Care,13,2,3,7,1,72,No,Expired,No
+861,228,1/5/2021,Telehealth,Urgent Care,25,7,2,2,4,32,No,AMA,No
+862,526,5/19/2024,Emergency,Clinic,10,2,0,6,2,252,Yes,Rehab,No
+863,462,1/14/2022,Inpatient,Primary Care,26,5,6,5,2,82,Yes,AMA,No
+864,599,6/3/2020,Telehealth,Clinic,9,8,4,2,0,201,Yes,Expired,No
+865,628,1/2/2021,Telehealth,Hospital,1,4,5,6,5,33,Yes,AMA,No
+866,654,6/16/2021,Emergency,Clinic,17,8,3,3,0,253,Yes,Rehab,No
+867,972,3/11/2025,Preventive,Specialty Care,29,3,0,10,3,122,No,Rehab,No
+868,205,2/17/2026,Outpatient,Urgent Care,0,10,2,5,0,99,Yes,SNF,No
+869,612,4/26/2025,Emergency,Specialty Care,27,8,5,0,6,153,No,Expired,No
+870,741,7/28/2024,Preventive,Clinic,17,7,0,2,6,170,No,SNF,No
+871,694,9/22/2023,Inpatient,Clinic,23,9,4,3,0,59,No,Rehab,No
+872,241,5/29/2023,Telehealth,Primary Care,20,2,5,1,5,165,Yes,SNF,No
+873,158,11/1/2024,Outpatient,Primary Care,10,8,5,10,4,185,Yes,Expired,No
+874,70,7/8/2024,Inpatient,Hospital,14,10,3,1,0,354,Yes,Expired,No
+875,812,9/14/2022,Inpatient,Primary Care,9,3,6,10,4,356,No,SNF,No
+876,850,1/19/2024,Telehealth,Hospital,30,6,2,9,3,199,Yes,Expired,Yes
+877,517,4/16/2026,Preventive,Hospital,7,6,4,9,3,284,Yes,Rehab,No
+878,222,9/25/2022,Preventive,Specialty Care,7,7,3,7,3,210,No,Rehab,No
+879,90,3/23/2025,Emergency,Urgent Care,19,10,0,2,6,172,Yes,SNF,No
+880,334,10/14/2021,Emergency,Hospital,3,0,1,0,6,36,No,Expired,Yes
+881,320,5/29/2022,Outpatient,Specialty Care,4,0,5,12,7,31,Yes,Expired,No
+882,851,6/28/2023,Outpatient,Urgent Care,17,2,6,0,4,114,Yes,SNF,No
+883,653,7/15/2022,Telehealth,Urgent Care,2,4,5,2,6,101,Yes,AMA,Yes
+884,947,4/27/2020,Inpatient,Clinic,15,7,4,6,5,218,Yes,Expired,No
+885,34,1/22/2026,Outpatient,Specialty Care,25,6,4,11,7,355,Yes,AMA,Yes
+886,396,9/14/2022,Inpatient,Urgent Care,23,4,3,6,0,207,Yes,Home,No
+887,547,12/25/2021,Inpatient,Urgent Care,3,3,5,9,5,2,Yes,Rehab,No
+888,207,10/24/2020,Emergency,Clinic,7,7,3,9,8,158,Yes,Rehab,No
+889,135,11/30/2022,Preventive,Urgent Care,13,7,5,10,2,349,Yes,AMA,No
+890,669,1/27/2024,Emergency,Hospital,16,10,1,1,3,241,Yes,SNF,No
+891,105,10/20/2023,Emergency,Primary Care,25,9,4,11,3,74,Yes,Expired,No
+892,75,6/12/2021,Preventive,Hospital,12,4,3,4,0,274,No,Home,No
+893,503,2/21/2022,Outpatient,Urgent Care,18,6,1,2,5,31,Yes,Home,No
+894,180,4/26/2020,Preventive,Primary Care,4,2,5,9,3,128,No,Rehab,No
+895,100,12/18/2020,Outpatient,Urgent Care,17,6,0,11,4,36,No,Home,Yes
+896,886,6/18/2024,Emergency,Hospital,27,10,5,8,3,313,No,Expired,No
+897,488,8/27/2023,Preventive,Hospital,19,4,4,0,3,170,No,Home,No
+898,526,1/2/2025,Emergency,Clinic,3,1,0,1,2,333,Yes,SNF,No
+899,484,11/16/2024,Telehealth,Primary Care,7,0,0,4,2,280,Yes,SNF,No
+900,712,9/10/2024,Preventive,Primary Care,26,8,5,9,7,349,Yes,Home,No
+901,26,12/2/2022,Emergency,Primary Care,19,1,5,3,1,268,Yes,Home,No
+902,490,6/18/2023,Outpatient,Clinic,16,2,3,3,0,129,Yes,SNF,No
+903,546,7/13/2021,Inpatient,Clinic,8,6,4,4,0,101,Yes,Expired,No
+904,522,11/27/2021,Emergency,Primary Care,19,0,5,5,5,133,Yes,SNF,No
+905,829,7/16/2020,Inpatient,Hospital,21,0,2,0,1,157,Yes,AMA,No
+906,726,10/23/2020,Preventive,Specialty Care,22,1,4,1,1,356,Yes,SNF,No
+907,514,4/5/2021,Telehealth,Hospital,1,9,3,4,3,323,No,Home,Yes
+908,16,11/20/2021,Telehealth,Primary Care,28,9,2,11,5,124,Yes,Expired,No
+909,928,11/12/2020,Telehealth,Hospital,19,3,5,9,5,239,Yes,Rehab,No
+910,502,11/5/2023,Inpatient,Specialty Care,10,6,2,12,0,347,No,Home,No
+911,706,1/31/2021,Preventive,Specialty Care,13,0,4,2,1,57,Yes,Home,No
+912,286,6/2/2023,Inpatient,Primary Care,4,1,4,6,1,264,Yes,Rehab,No
+913,260,3/8/2024,Inpatient,Urgent Care,23,10,6,4,3,70,Yes,Home,No
+914,983,8/10/2025,Emergency,Urgent Care,3,8,1,7,6,323,Yes,Rehab,No
+915,971,5/12/2020,Outpatient,Urgent Care,0,10,0,8,1,133,Yes,Expired,Yes
+916,926,5/7/2021,Inpatient,Urgent Care,25,0,0,5,7,67,Yes,SNF,Yes
+917,832,12/12/2023,Outpatient,Specialty Care,6,0,5,7,0,216,Yes,Rehab,No
+918,367,5/7/2022,Emergency,Specialty Care,24,3,0,1,8,138,Yes,AMA,No
+919,235,8/9/2020,Outpatient,Clinic,29,4,4,11,3,217,No,Rehab,No
+920,730,12/1/2021,Preventive,Primary Care,13,5,3,0,0,126,Yes,Rehab,No
+921,504,6/13/2025,Telehealth,Specialty Care,17,8,3,1,6,238,Yes,Home,No
+922,520,6/13/2024,Preventive,Urgent Care,0,10,5,4,2,204,Yes,AMA,No
+923,663,5/26/2021,Preventive,Primary Care,20,10,5,5,6,192,Yes,Home,No
+924,137,4/11/2025,Outpatient,Urgent Care,14,8,2,10,6,266,Yes,Home,No
+925,99,10/1/2021,Preventive,Specialty Care,14,4,2,5,5,159,Yes,AMA,No
+926,529,10/4/2021,Outpatient,Primary Care,4,7,4,8,3,188,No,SNF,No
+927,972,6/12/2025,Telehealth,Clinic,26,3,6,8,6,199,Yes,AMA,No
+928,309,4/19/2025,Telehealth,Specialty Care,30,9,2,6,2,18,Yes,Expired,No
+929,37,10/23/2020,Inpatient,Urgent Care,19,4,4,5,2,355,Yes,Home,No
+930,378,11/11/2025,Outpatient,Urgent Care,25,0,6,9,6,266,Yes,Expired,No
+931,171,6/24/2023,Telehealth,Primary Care,6,1,2,7,7,303,Yes,Expired,No
+932,871,10/7/2023,Telehealth,Primary Care,30,0,0,11,0,64,Yes,Rehab,Yes
+933,313,2/8/2026,Emergency,Urgent Care,3,10,2,10,1,301,Yes,Rehab,No
+934,622,4/6/2020,Telehealth,Specialty Care,2,10,1,7,5,101,Yes,SNF,No
+935,461,4/26/2025,Outpatient,Specialty Care,5,1,5,0,8,141,Yes,Rehab,No
+936,101,6/7/2024,Inpatient,Primary Care,6,0,2,7,2,187,No,AMA,No
+937,853,3/9/2020,Outpatient,Specialty Care,5,10,5,12,6,287,Yes,SNF,No
+938,172,2/2/2023,Outpatient,Primary Care,17,9,0,9,6,244,Yes,SNF,No
+939,536,10/23/2021,Preventive,Specialty Care,23,5,1,11,5,232,Yes,AMA,No
+940,285,5/26/2020,Preventive,Urgent Care,6,6,3,9,2,324,Yes,AMA,No
+941,589,5/27/2024,Preventive,Specialty Care,24,9,6,5,1,91,Yes,SNF,No
+942,804,9/25/2023,Inpatient,Urgent Care,27,6,4,3,4,123,Yes,Expired,Yes
+943,829,4/20/2022,Telehealth,Primary Care,5,9,0,11,4,323,Yes,Expired,No
+944,44,5/7/2024,Outpatient,Clinic,17,8,1,9,4,17,No,AMA,Yes
+945,380,7/15/2020,Outpatient,Clinic,19,4,3,1,2,209,No,Home,No
+946,614,3/20/2020,Emergency,Specialty Care,29,7,4,5,7,60,Yes,Expired,No
+947,533,9/13/2021,Preventive,Hospital,3,7,1,4,2,221,No,Expired,No
+948,109,1/8/2020,Inpatient,Urgent Care,0,5,2,4,3,204,Yes,SNF,No
+949,884,4/29/2020,Inpatient,Hospital,20,0,4,3,7,26,Yes,AMA,No
+950,379,1/18/2023,Inpatient,Specialty Care,13,6,3,12,6,103,Yes,Home,No
+951,708,3/13/2021,Telehealth,Hospital,21,9,6,4,8,108,Yes,SNF,No
+952,856,4/23/2021,Preventive,Primary Care,5,9,5,6,3,335,No,SNF,No
+953,954,1/13/2021,Emergency,Specialty Care,24,8,2,7,1,242,No,Rehab,Yes
+954,685,1/20/2022,Telehealth,Urgent Care,28,5,5,7,0,274,Yes,Expired,No
+955,697,9/7/2025,Emergency,Hospital,9,4,2,2,4,281,Yes,AMA,No
+956,918,6/23/2020,Emergency,Specialty Care,0,10,6,1,4,329,Yes,Expired,No
+957,443,9/14/2023,Inpatient,Specialty Care,24,0,1,2,8,95,No,Expired,No
+958,471,5/25/2026,Inpatient,Clinic,18,4,4,11,0,41,Yes,SNF,No
+959,207,2/13/2020,Telehealth,Hospital,25,3,0,7,0,219,Yes,Home,No
+960,110,6/30/2024,Outpatient,Specialty Care,1,1,1,2,6,351,Yes,SNF,No
+961,633,10/24/2020,Inpatient,Specialty Care,6,7,0,11,4,217,Yes,AMA,No
+962,688,1/23/2024,Inpatient,Urgent Care,8,0,2,12,6,122,Yes,Expired,No
+963,925,10/4/2025,Telehealth,Urgent Care,26,7,2,9,1,140,No,SNF,No
+964,709,2/24/2022,Telehealth,Specialty Care,12,0,5,3,4,184,Yes,Home,No
+965,370,9/4/2025,Inpatient,Hospital,13,3,1,12,1,274,Yes,SNF,Yes
+966,14,12/19/2022,Emergency,Specialty Care,21,3,0,0,1,188,Yes,Expired,No
+967,976,4/5/2023,Preventive,Clinic,25,0,5,8,4,115,Yes,AMA,No
+968,506,5/29/2023,Emergency,Clinic,2,3,0,0,5,44,Yes,Rehab,No
+969,267,2/2/2026,Preventive,Clinic,19,5,4,10,2,68,Yes,SNF,Yes
+970,36,11/26/2023,Telehealth,Urgent Care,12,7,6,4,0,19,Yes,Expired,No
+971,253,11/29/2025,Outpatient,Primary Care,12,0,0,6,2,5,Yes,SNF,Yes
+972,828,5/10/2023,Outpatient,Specialty Care,3,1,4,2,5,208,Yes,Rehab,Yes
+973,925,4/4/2021,Outpatient,Hospital,29,9,4,4,8,63,Yes,Rehab,Yes
+974,495,4/28/2025,Emergency,Specialty Care,23,1,5,2,8,167,Yes,Expired,Yes
+975,355,3/27/2026,Emergency,Clinic,16,5,3,4,5,31,Yes,Home,No
+976,781,3/7/2026,Telehealth,Specialty Care,2,6,3,2,4,77,Yes,Expired,No
+977,776,5/4/2026,Inpatient,Clinic,27,2,4,10,6,343,Yes,Expired,Yes
+978,966,8/1/2023,Outpatient,Specialty Care,27,2,1,12,7,104,Yes,AMA,No
+979,302,5/10/2023,Preventive,Urgent Care,10,7,2,0,3,68,Yes,Rehab,No
+980,204,3/11/2023,Emergency,Hospital,22,5,3,7,0,85,Yes,Home,No
+981,276,5/14/2026,Inpatient,Specialty Care,14,7,0,11,0,88,Yes,SNF,No
+982,748,6/3/2025,Telehealth,Hospital,8,9,2,4,4,200,Yes,AMA,No
+983,247,7/11/2021,Telehealth,Hospital,1,8,6,12,4,125,No,Rehab,No
+984,356,11/30/2023,Emergency,Urgent Care,10,8,1,9,2,262,Yes,Rehab,No
+985,28,2/13/2024,Outpatient,Clinic,9,6,6,12,5,31,No,Rehab,No
+986,716,1/27/2024,Emergency,Clinic,7,3,5,12,0,310,Yes,Home,No
+987,849,6/28/2025,Inpatient,Hospital,14,3,6,6,1,41,Yes,SNF,No
+988,957,7/6/2023,Telehealth,Primary Care,10,9,4,12,3,240,Yes,SNF,No
+989,894,6/12/2025,Outpatient,Specialty Care,9,4,4,2,2,187,Yes,Expired,No
+990,62,3/5/2021,Telehealth,Urgent Care,20,1,1,6,1,4,Yes,Rehab,Yes
+991,855,7/7/2024,Emergency,Hospital,19,2,5,10,0,342,Yes,Rehab,No
+992,796,11/15/2023,Inpatient,Hospital,21,6,3,3,2,78,Yes,SNF,No
+993,928,4/4/2020,Outpatient,Specialty Care,24,5,1,11,3,316,Yes,AMA,Yes
+994,941,3/20/2022,Preventive,Specialty Care,14,9,4,7,3,179,Yes,Home,No
+995,601,6/9/2023,Telehealth,Clinic,5,10,5,5,5,20,No,Expired,No
+996,565,9/15/2024,Outpatient,Hospital,3,0,2,7,2,52,Yes,AMA,Yes
+997,922,9/15/2025,Inpatient,Hospital,7,6,5,11,2,298,Yes,AMA,No
+998,130,12/10/2021,Telehealth,Clinic,11,6,0,4,4,267,Yes,AMA,No
+999,932,7/29/2022,Emergency,Clinic,29,6,4,0,1,174,Yes,Rehab,No
+1000,337,9/30/2021,Emergency,Clinic,1,3,6,0,8,227,Yes,AMA,Yes
