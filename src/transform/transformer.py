@@ -17,6 +17,9 @@ class PatientDataTransformer:
         today = pd.Timestamp.today()
         df['age'] = ((today - df['date_of_birth']).dt.days // 365).astype(int)
 
+        # Filter out non-adult patients
+        df = df[df['age'] >= 18].reset_index(drop=True)
+
         # Clean zip codes — keep only valid 5-digit US zips
         df['zip'] = df['zip'].astype(str).apply(
             lambda x: x if re.match(r'^\d{5}$', x) else None
