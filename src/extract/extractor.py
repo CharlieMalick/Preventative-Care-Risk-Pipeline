@@ -12,7 +12,7 @@ class PatientDataExtractor:
             'demographics' : 'patient_demographics.csv',
             'vitals' : 'patient_vitals.csv',
             'diagnoses' : 'patient_diagnoses.csv',
-            'medication' : 'patient_medications.csv',
+            'medications' : 'patient_medications.csv',
             'utilization' : 'patient_utilization.csv',
             'labs' : 'patient_labs.csv'
         }
