@@ -1,3 +1,11 @@
+"""
+Entry point for the Preventive Care Risk Pipeline.
+
+Runs the full extract -> transform -> load pipeline end to end:
+reads raw EHR CSVs, cleans and engineers features, then scores and
+saves each patient's hospitalization risk to data/output/.
+"""
+
 import logging
 import sys
 
@@ -14,6 +22,7 @@ from src.load.loader import PatientRiskLoader
 
 
 def main():
+    """Run the extract, transform, and load phases in sequence and log a summary."""
     logger.info("========================================")
     logger.info("Starting Preventive Care Risk Pipeline")
     logger.info("========================================")

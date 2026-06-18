@@ -5,13 +5,29 @@ import os
 logger = logging.getLogger(__name__)
 
 class PatientRiskLoader:
+    """
+    Joins the transformed per-table data into a single patient profile,
+    calculates a weighted risk score and tier for each patient, and writes
+    the final scored output to disk. This is the gold layer of the
+    medallion architecture.
+    """
 
     def __init__(self, transformed_data: dict, output_dir: str):
+        """
+        Args:
+            transformed_data: Dict of transformed DataFrames keyed by table
+                name, as returned by PatientDataTransformer.run().
+            output_dir: Directory the final scored CSV will be written to.
+        """
         self.data = transformed_data
         self.output_dir = output_dir
         os.makedirs(output_dir, exist_ok=True)
 
     def build_patient_profile(self) -> pd.DataFrame:
+        """
+        Aggregate each transformed table to one row per patient and merge
+        them all onto the demographics table, which acts as the spine.
+        """
         # Start with demographics as the spine
         demo = self.data['demographics'][['patient_id', 'age', 'gender', 'insurance_type', 'bmi']]
 
@@ -65,6 +81,11 @@ class PatientRiskLoader:
         return profile
 
     def calculate_risk_score(self, profile: pd.DataFrame) -> pd.DataFrame:
+        """
+        Compute a weighted risk score per patient and bucket it into a
+        Low/Medium/High tier. Weights are documented in the README's
+        Risk Scoring Model section.
+        """
         df = profile.copy()
 
         # Score each risk factor
@@ -94,6 +115,7 @@ class PatientRiskLoader:
         return df
 
     def save_output(self, df: pd.DataFrame) -> None:
+        """Write the scored patient list (a fixed subset of columns) to CSV."""
         output_cols = [
             'patient_id', 'age', 'gender', 'insurance_type',
             'diabetes_flag', 'hypertension_flag', 'chf_flag',
@@ -107,6 +129,7 @@ class PatientRiskLoader:
         logger.info(f"Risk scores saved to {filepath}")
 
     def run(self) -> pd.DataFrame:
+        """Build the patient profile, score it, and save the result. Entry point for the load phase."""
         logger.info("Starting load pipeline")
         profile = self.build_patient_profile()
         scored = self.calculate_risk_score(profile)

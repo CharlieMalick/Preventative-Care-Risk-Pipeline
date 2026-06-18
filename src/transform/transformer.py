@@ -5,11 +5,22 @@ import re
 logger = logging.getLogger(__name__)
 
 class PatientDataTransformer:
+    """
+    Cleans the raw patient tables and engineers the derived features
+    (age, BMI, boolean flags, etc.) that the load layer's risk model
+    depends on. This is the silver layer of the medallion architecture.
+    """
 
     def __init__(self, data: dict):
+        """
+        Args:
+            data: Dict of raw DataFrames keyed by table name, as returned
+                by PatientDataExtractor.run().
+        """
         self.data = data
 
     def transform_demographics(self) -> pd.DataFrame:
+        """Derive age, drop minors, and clean zip/gender fields."""
         df = self.data['demographics'].copy()
 
         # Derive age from date_of_birth
@@ -32,6 +43,7 @@ class PatientDataTransformer:
         return df
 
     def transform_vitals(self) -> pd.DataFrame:
+        """Flag abnormal vitals (high BP, low oxygen) and calculate BMI."""
         df = self.data['vitals'].copy()
 
         df['measurement_date'] = pd.to_datetime(df['measurement_date'])
@@ -48,6 +60,7 @@ class PatientDataTransformer:
         return df
 
     def transform_diagnoses(self) -> pd.DataFrame:
+        """Parse encounter/onset dates and convert YES/NO flags to booleans."""
         df = self.data['diagnoses'].copy()
 
         df['encounter_date'] = pd.to_datetime(df['encounter_date'])
@@ -61,6 +74,7 @@ class PatientDataTransformer:
         return df
 
     def transform_medications(self) -> pd.DataFrame:
+        """Convert flags to booleans and flag patients with low refill adherence."""
         df = self.data['medications'].copy()
 
         df['prescribe_date'] = pd.to_datetime(df['prescribe_date'])
@@ -76,6 +90,7 @@ class PatientDataTransformer:
         return df
 
     def transform_utilization(self) -> pd.DataFrame:
+        """Convert flags to booleans and flag patients with high ED/inpatient use."""
         df = self.data['utilization'].copy()
 
         df['visit_date'] = pd.to_datetime(df['visit_date'])
@@ -92,6 +107,7 @@ class PatientDataTransformer:
         return df
 
     def transform_labs(self) -> pd.DataFrame:
+        """Parse lab dates and convert abnormal/critical flags to booleans."""
         df = self.data['labs'].copy()
 
         df['lab_date'] = pd.to_datetime(df['lab_date'])
@@ -104,6 +120,7 @@ class PatientDataTransformer:
         return df
 
     def run(self) -> dict:
+        """Run all six per-table transforms. Entry point for the transform phase."""
         logger.info("Starting transformation pipeline")
         transformed = {
             'demographics': self.transform_demographics(),
